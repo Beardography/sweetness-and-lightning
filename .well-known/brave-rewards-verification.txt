@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: sweetnessandlightning.cooking
+Token: 6332c83c4c33f726fc7614a37a76c1d3ab47751a6aa606850b4cb918707b4661
