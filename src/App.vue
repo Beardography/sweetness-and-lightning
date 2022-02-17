@@ -1,30 +1,52 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </div>
-  <router-view/>
+    <div class="content">
+        <Header />
+        <Footer />
+    </div>
 </template>
 
+
+
+<script>
+import Header from "@/components/Header.vue";
+import Footer from "@/components/Footer.vue";
+
+export default {
+    components: {
+        Header,
+        Footer,
+    },
+};
+</script>
+
+
+
 <style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+@font-face {
+    font-family: "Pally";
+    src: url("~@/assets/fonts/Pally-Variable.woff2") format("woff2"),
+        url("~@/assets/fonts/Pally-Variable.woff") format("woff"),
+        url("~@/assets/fonts/Pally-Variable.ttf") format("truetype");
+    font-weight: 400 800;
 }
 
-#nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
+#app {
+    font-family: sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-align: center;
     color: #2c3e50;
 
-    &.router-link-exact-active {
-      color: #42b983;
+    .content {
+        border-radius: 1rem;
+        background-color: #fff1e4;
+        padding: 1rem;
     }
-  }
+
+    main {
+        width: 100%;
+        padding-bottom: 2rem;
+        min-height: 75vh;
+    }
 }
 </style>
