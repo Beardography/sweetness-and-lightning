@@ -1,0 +1,28 @@
+// @font-face {
+//     font-family: "Pally";
+//     src: url("../../assets/fonts/Pally-Variable.ttf") format("truetype");
+//     font-weight: 400;
+// }
+
+@font-face {
+    font-family: "Pally";
+    src: url("../../assets/fonts/Pally-Variable.woff2") format('woff2'),
+         url("../../assets/fonts/Pally-Variable.woff") format('woff'),
+         url("../../assets/fonts/Pally-Variable.ttf") format('truetype');
+    font-weight: 400 800;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Pally", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    letter-spacing: 0.5px;
+    line-height: 1;
+}
+
+h3 {
+    text-transform: uppercase;
+    margin-bottom: 0.75rem;
+}
+
+h4 {
+    margin-top: 2rem;
+}

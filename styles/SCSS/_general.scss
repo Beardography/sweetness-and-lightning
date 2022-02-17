@@ -1,0 +1,31 @@
+body {
+    // color: white;
+    color: #1f1f1f;
+    font-family: sans-serif;
+    padding: 1rem;
+    background-color: white;
+
+    main {
+        width: 100%;
+        padding-bottom: 2rem;
+        min-height: 80vh;
+    }
+
+    a {
+        box-sizing: border-box;
+    }
+
+    .content {
+        border-radius: 1rem;
+        background-color: #fff1e4;
+
+        ul {
+            list-style: none;
+        }
+        
+        section {
+            margin: 0 auto;
+            background-color: orange;
+        }
+    }
+}
