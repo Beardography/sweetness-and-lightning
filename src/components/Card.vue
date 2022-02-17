@@ -66,17 +66,14 @@ export default {
     overflow: hidden;
     text-align: left;
     text-overflow: ellipsis;
-
     &:hover {
         box-shadow: 0px 0px 20px #eca098;
         transition-duration: 250ms;
     }
-
     a {
         text-decoration: none;
         color: inherit;
     }
-
     .card-header {
         img {
             width: 100%;
@@ -86,14 +83,12 @@ export default {
             border-bottom: 1px solid #1f1f1f;
         }
     }
-
     .card-body {
         margin: 0.5rem 0;
         height: 120px;
         padding: 0 1rem;
         overflow: hidden;
         text-overflow: ellipsis;
-
         h3 {
             margin-bottom: 0.5rem;
             overflow: hidden;
@@ -101,14 +96,12 @@ export default {
             white-space: nowrap;
             font-family: "Pally", sans-serifs;
         }
-
         small {
             letter-spacing: 1px;
             text-transform: uppercase;
             font-weight: bold;
             color: gray;
         }
-
         p {
             margin-top: 0.5rem;
             line-height: 1.2;
@@ -119,29 +112,23 @@ export default {
             -webkit-box-orient: vertical;
         }
     }
-
     .card-footer {
         padding: 0.75rem 1rem;
         border-top: 1px solid #1f1f1f;
-
         ul {
             list-style: none;
-
             li {
                 display: inline-block;
                 margin-right: 0.25rem;
                 font-weight: bold;
                 color: #dd6871;
-
                 &:hover {
                     color: blue;
                     text-decoration: underline;
                 }
-
                 &::after {
                     content: ",";
                 }
-
                 &:last-of-type {
                     &::after {
                         content: none;
@@ -152,19 +139,16 @@ export default {
         }
     }
 }
-
 @media (min-width: 578px) and (max-width: 768px) {
     .card {
         width: 300px;
     }
 }
-
 @media (min-width: 769px) and (max-width: 992px) {
     .card {
         width: 298px;
     }
 }
-
 @media (min-width: 993px) and (max-width: 1200px) {
     .card {
         width: 350px;
