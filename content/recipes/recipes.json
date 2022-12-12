@@ -1,0 +1,3285 @@
+{
+    "recipes": [
+        {
+            "name": "Donabe Rice",
+            "volume": 1,
+            "number": 1,
+            "servings": "3-4",
+            "ingredients": [
+                "1 1/2 cups rice",
+                "430 mL water - try to have between 1.2  and 1.3 times as much water as rice",
+                "A dash of sake"
+            ],
+            "steps": [
+                "Wash the rice, then pour it and the water into the donabe. Cover and heat on medium high. When it seems ready to boil over, turn the heat to low and cook for 13 minutes. (Add a bit of flavor by putting in a little sake)",
+                
+                "Turn the heat to high for 30 seconds, then turn off the heat and let it steam for 10 minutes. Remove the lid and stir. (You can adjust the amount of water and the heat settings to your taste)"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [null]
+        },
+
+        {
+            "name": "Miso Pork Soup",
+            "volume": 1,
+            "number": 2,
+            "servings": "null",
+            "ingredients": [
+                "7cm daikon radish",
+                "1/2 carrot",
+                "1/2 green onion",
+                "1/3 burdock root",
+                "1 potato",
+                "150g pork (brisket)",
+                "1/2 block konnyaku",
+                "9 snow pea pods",
+                "1 pouch fried tofu",
+                "1 tbsp sesame oil",
+                "800 mL dashi stock",
+                "4 tbsp miso"
+            ],
+            "steps": [
+                "Cut the carrots and daikon radish into quarter rounds, then cut the green onion into 1 cm slices. Chop the burdock root in thin diagonal slices and place in cold water. Cut the potatoes and pork into bite-sized pieces. Tear the konnyaku into bite-sized chunks and hten parboil. Parboil the snow peas and fried tofu. Drain.",
+                
+                "Put the sesame oil into the pot and stir-fry the pork on medium heat. Add and fry the ingredients in this order: carrots, burdock root, daikon, radish, potatoes, konnyaku. Once the edges of the potatoes become translucent, add the dashi stock. (You can boil the ingredients instead of frying. The taste will be lighter.)",
+                
+                "Once it starts boiling, skim off the scum that forms on top. Simmer on low heat for 7-8 minutes, then add the green onion and fried tofu.",
+                
+                "Once ingredients are softened, add the miso by dissolving it gradually into the stock. Once it starts boiling again, immediately turn off the heat and add the snow peas."
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Add a bit of flavor by putting in a little sake",
+
+                "You can adjust the amount of water and the heat settings to your taste. Try it once you get used to the recipe!"
+            ]
+        },
+
+        {
+            "name": "Salisbury Steak",
+            "volume": 1,
+            "number": 3,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "300g mixed ground pork and beef",
+                    "1 onion",
+                    "1/2 egg",
+                    "4 tbsp bread crumbs",
+                    "2 tbsp milk",
+                    "1/2 tsp salt",
+                    "dash of pepper",
+                    "1 tbsp olive oil"
+                ],
+
+                [
+                    "1 400g can diced tomatoes",
+                    "1 clove garlic (minced)",
+                    "2 bay leaves",
+                    "1/2 tsp salt",
+                    "dash of pepper"
+                ]
+            ],
+            "steps": [
+                "Mince the onion and cook it thoroughly in the olive oil until translucent, then take it out and let it cool. Soak the breadcrumbs in the milk. Beat the egg.",
+
+                "Put the meat into a bowl and mix with salt and pepper until combined. Add the ingredients from Step 1 (reserving half of the onion) and mix until it starts to stick together.",
+
+                "Divide what you made in Step 2 into three or four portions and toss them between your hands nad help the meat bind. Shape into patties and make a little depression in the middle using your finger.",
+
+                "Using the frying pan from Step 1, cook the patties from Step 3. (If it's not a non-stick frying pan, put down some oil.) Cook on medium heat. Once both sides are browned, remove and put on a plate.",
+
+                "Add a small amount of olive oil to the frying pan from Step 4. Add sauce ingredients Group A and cook on low heat. Once they start to smell good, put in the rest of the onions from Step 1 and the canned tomatoes. Add the ingredients from Group B and stew for about 5 minutes. Then return the patties to teh pan, cover, and stew for 7 minutes.",
+
+                "Take out the bay leaves, then reduce the sauce, stirring occasionally so it doesn't burn"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [null]
+        },
+
+        {
+            "name": "Fried Chicken",
+            "volume": 1,
+            "number": 4,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "300g chicken (thighs)",
+                    "a little potato starch",
+                    "cold water",
+                    "1/2 tbsp white sesame seeds"
+                ],
+
+                [
+                    "3 tbsp soy sauce",
+                    "2 tbsp sake",
+                    "1 tsp grated ginger",
+                    "1 tsp minced garlic"
+                ],
+
+                [
+                    "2 tbsp soy sauce",
+                    "1 tbsp sugar",
+                    "1 tbsp mirin"
+                ]
+            ],
+            "steps": [
+                "Cut chicken into bite-sized chunks and soak in cold water for 10 minutes.",
+
+                "Take the chicken out of the water and gently pat dry. Mix the ingredients listed in Group A and marinate chicken for 10 minutes.",
+
+                "Lightly coat the chicken with potato starch and fry at 160°C for a minute and a half. When the surface turns light brown, take the pieces out and let them rest for 3 minutes. Increase the oil temperature to 190°C and fry again for 40 seconds.",
+
+                "Put all the ingredientsl isted in Group B into a sauce pan and mix. Place the pan on medium heat. Once it boils down, add the white sesame seeds.",
+
+                "Pour Step 4 evenly over Step 3."
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Pour the sauce on while the chicken is hot!"
+            ]
+        },
+
+        {
+            "name": "Chawanmushi",
+            "volume": 1,
+            "number": 5,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "1L Water",
+                    "40 g katsuobushi",
+                    "10 cm sq piece konbu"
+                ],
+
+                [
+                    "3 eggs",
+                    "kamaboko, mitsuba to taste"
+                ],
+
+                [
+                    "450cc dashi stock (3x the amount of eggs)",
+                    "1 tsp soy sauce",
+                    "1 tsp sake",
+                    "1 scant tsp salt",
+                    "(you can add wahtever else you want. Shrimp, chicken, shiitake mushrooms, lily bulbs, gingko nuts, etc.)"
+                ]
+            ],
+            "steps": [
+                "Put the water and konbu into a stockpot on medium heat, and take out the konbu just before it boils.",
+
+                "Add the katsuobushi to the pot. Once the katsuobushi starts to sink, turn off the heat and remove scum from the stock's surface. Once the katsuobushi completely sinks, strain it gently. (If you squeeze the katsuobushi while straining the dashi won't taste right, so be careful!)",
+
+                "Beat the eggs, making sure that bubbles don't form. Add the ingredients from Group A. Mix carefully and then strain.",
+
+                "Cut the kamaboko into bite-sized pieces. Place a couple in the bottom of each dish before pouring in the egg mix from Step 1. Cover each cup with aluminum foil.",
+
+                "Fill a big pot with water, about one third of the height of the cups, and heat. When the water boils, put the cups from Step 2 into the pot. Put the lid on the pot loosely, and after 2 minutes turn to low heat",
+
+                "After the cups steam for 15-20 minutes, remove and place mitsuba on the egg surface. Reseal with aluminum foil and let steam a little longer."
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "You can add wahtever else you want: shrimp, chicken, shiitake mushrooms, lily bubs, gingko nuts, etc.",
+
+                "If you squeeze the **katsuobushi** while straining, the dashi wno't taste right, so be careful!"
+            ]
+        },
+
+
+
+
+
+        {
+            "name": "Gratin",
+            "volume": 2,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "1 potato",
+                    "1/16 kabocha squash",
+                    "1 zucchini",
+                    "150g chicken thighs",
+                    "4-5 stalks of asparagus",
+                    "1/2 carrot"
+                ],
+                
+                [
+                    "2 bell peppers (1 red, 1 green)",
+                    "1 onion",
+                    "some cherry tomatoes",
+                    "50g grated cheese"
+                ],
+                
+                [
+                    "40g butter",
+                    "40g weak flour"
+                ],
+                
+                [
+                    "600cc milk",
+                    "1 boullion cube (dissolve in a small amount of hot water)"
+                ],
+
+                [
+                    "1 tbsp salt",
+                    "dash of pepper"
+                ]
+            ],
+            "steps": [
+                "Chop the ingredients in Group A into 1-2cm chunks. Paraboil carrots. Julienne the B ingredients.",
+
+                "Put the butter into a frying pan and add the following ingredients in this order: potatoes, onions, zucchini, chicken thigh, squash, asparagus, bell peppers. Use low heat to the mixtures doesn't burn.",
+
+                "Add the weak flour to Step 2 and continue to cook. Once the flour is mixed in, add Group C. Mix and stir until smooth, then reduce the sauce for a few minutes. Add Group D to taste, and the carrots from Step 1, before placing in an oven-safe baking dish.",
+
+                "Sink the cherry tomatoes into the surface of Step 3, scatter the grated cheese, and then place in a preheated oven at 200°C for 15 minutes."
+
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "You're going to cook the gratin in the oven, so it's okay if the mixture isn't fully cooked."
+            ]
+        },
+
+        {
+            "name": "Yeast Doughnuts",
+            "volume": 2,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "100 g each of weak flour and strong flour",
+                    "4g dry yeast",
+                    "30g superfine sugar",
+                    "2g salt"
+                ],
+
+                [
+                    "1 egg",
+                    "70cc milk"
+                ],
+
+                [
+                    "20g butter (room temperature)",
+                    "pinch of flour (for kneading)",
+                    "Some vegetable oil"
+                ]
+            ],
+            "steps": [
+                "Put Group A into a bowl and mix",
+
+                "Heat Group B by placing first bowl in a larger bowl filled with hot water. Warm until it's the temperature of your skin",
+
+                "Add Step 2 to Step 1, and mix until a dough forms. Dust a surface with flour and place the dough on top. Mix the butter while stretching and folding the dough, kneading for eight minutes.",
+
+                "Place the dough into a bowl greased with vegetable oil and cover with plastic wrap. Then place that bowl in a bowl filled with water the temperature for a hot bath for an hour to allow dough to rise.",
+
+                "Press down on the dough to expell any gas, and divide into eight portions. Mold into little balls, cover with a damp cloth, and let them sit for about 15 minutes.",
+
+                "Flatten each ball and make a hole with your finger. Turn the rings while widening the hole. Place doughnuts on a plate covered with parchment paper nd leave in a warm spot for one hour to allow the dough to rise. If when you press the dough with a finger, it slowly returns to it's original shape, the second rise is done.",
+
+                "Fry each side for a minute and a half in oil heated to 170-180°C"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Spread the doughwith your fingers. If it stretches out thin without tearing, it's ready!",
+
+                "Poke a hole in the dough with a finger. If the hole stays there after you take your finger out, the first rise is done!",
+
+                "You can do whatever you want with the doughnuts, including coating them iwth a glaze of powdered sugar and water, or dipping them in chocolate melted in a double boiler!"
+            ]
+        },
+
+        {
+            "name": "Squid and Taro Stew",
+            "volume": 2,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "800g taro",
+                    "some okra",
+                    "2 (3 if small) Japanese squid"
+                ],
+
+                [
+                    "500cc dashi stock",
+                    "3 tbsp each sake and mirin",
+                    "2 1/2 tbsp soy sauce"
+                ]
+            ],
+            "steps": [
+                "Wash the taro carefully and scrape off any mud or roots. Wipe any water off, leave them in a strainer, and once dry, peel (cutting deeply into the taro)",
+
+                "Put your fingers into the hood of the squid and put out the legs and organs. Take out the cartilage and rinse the inside of the hood. Then cut it into rings, leaving the skin on. Separate the legs and organs below the eyes and remove the beak. Use a knife to remove the suckers from the legs and cut into bite-sized pieces.",
+
+                "Put Group A into a pot and boil. Then add the hood from Step 2. Once the broth starts to boil again, add the tentacles of the squid and let it cook for a minute. Then remove the squid from the pot.",
+
+                "Add the taro to the pot from Step 3 and cover it with a drop lid. Once the stew starts to boil again, add the squid from Step 3 and stir. Turn off the heat before everything gets overly boiled."
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Taro is slippery when wt. It will be easier to peel if you elt it dry first!",
+
+                "After this, let it sit and stir it once in a while to allow the taste to soak in."
+            ]
+        },
+
+        {
+            "name": "Gyoza",
+            "volume": 2,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "100g each of strong flower and weak flower (sifted)",
+                    "2g salt",
+                    "100cc water",
+                    "Some strong flower (for dusting)"
+                ],
+
+                [
+                    "150g cabbage leaves",
+                    "150g napa cabbage leaves",
+                    "2/3 tsp salt"
+                ],
+
+                [
+                    "20g onions",
+                    "40g garlic chives",
+                    "5g ginger"
+                ],
+
+                [
+                    "1/3 tsp salt",
+                    "1 tbsp each of soy sauce and sake",
+                    "2 tbsp water",
+                    "150g ground pork",
+                    "2 tsp sesame seed oil"
+                ]
+            ],
+            "steps": [
+                "Put the strong and weak flour into a bowl and slowly add the water (mixed with the salt) while stirring thoroughly with chopsticks. Once it starts to clump, mix it with your hands and roll it up into a ball. Dust a surface with flour and press out the dough, then fold it over. Do this about 100 times and then put it in a plastic bag for 30 minutes.",
+
+                "Mince Group A and mix each ingredient with 1/3 tsp salt, then let sit. Squeeze with a cloth and then strain. Mince Group B, too.",
+
+                "Put the pork in a bowl and add Group C. Stir thoroughly. Combine with Step 2 and add the sesame seed oil. Once it's all mixed together, let it sit in the fridge for a while.",
+
+                "Take the dough from Step 1 and split it into two parts, then roll each into a log. Cut each log into 12 parts and then dust the cut surfaces with flour. Take a slice and flatten it out with your hand, then roll it out with a rolling pin into a 7-8cm diameter circle.",
+
+                "Put the filling on the skin and dab water around the edges. Make little ridges as you close up the skin.",
+
+                "Heat oil in a pan and then turn off the heat. Put the gyoza in the pan. Turn on the heat for about 10 seconds, add 100cc of water and put a lid on. Cook on medium heat, and once the water has evaporated, add a small amount of oil and cook until they blown up.",
+
+                "Boil a full pot of water, and add the gyoza one by one. Boil for 5-6 minutes and take out once the edges turn clear."
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [null]
+        },
+
+        {
+            "name": "Goheimochi",
+            "volume": 2,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "2 cups rice"
+                ],
+
+                [
+                    "20g walnuts",
+                    "1 tbsp white sesame seeds"
+                ],
+
+                [
+                    "1 tbsp miso",
+                    "1 tbsp soy sauce",
+                    "1 tbsp mirin",
+                    "1 tbsp sugar"
+                ]
+            ],
+            "steps": [
+                "Grind Group A in a mortar until you can't see the seeds anymore. Add Group B and mix well.",
+
+                "Make firm rice and grind in mortar. Taking enough to make one goheimochi stick, flatten and mold with your hands, then skewer with a disposable chopstick",
+
+                "Place over direct heat for 2 minutes on each side, grilling enough to slightly char it.",
+
+                "Spread the mixture from Step 1 on both sides and then cook for 2 minutes over direct heat. Once it's slightly charred, it's done."
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Stick the wider end of the chopsticks in. Wrap aluminum foil around the pointed end of chopstick so it doesn't burn while grilling.",
+
+                "It burns easily, so move it around and keep it a good distance away from the flame."
+            ]
+        },
+
+
+
+
+
+        {
+            "name": "Warm Bread Porridge",
+            "volume": 3,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "1/2 slice of bread (from a six-slice loaf) cut into 1cm cubes",
+                    "Crusts on 20-130cc milk"
+                ],
+
+                [
+                    "1/4 onion (or 1/2 if small)",
+                    "30g bacon",
+                    "Dash of salt",
+                    "Some ground black pepper"
+                ],
+
+                [
+                    "1/2 tsp sugar",
+                    "Black soybeans",
+                    "Roasted soy flour",
+                    "Maple syrup (to taste)"
+                ]
+            ],
+            "steps": [
+                "Cut onion into thick slices, cover loosely with plastic wrap, and microwave for 2 minutes",
+
+                "Cut bacon into 1cm wide pieces, cut in a pot without adding any oil. Once the color's changed and hte bacon fat starts to run, add onions from Step 1.",
+
+                "Add the milk, and then the salt and bread once the mixture's about to boil. Simmer at low heat for 2-3 minutes. Once the excess moisture has evaporated and the pudding starts sticking to the pot, transfer to a plate. Add ground pepper, and it's done.",
+
+                "Put the milk in a small pot, add sugar, and cook over low heat. Just as it's about to boil, add the bread and simmer for 2-3 minutes, stirring so it doesn't burn",
+
+                "Once the excess moisture has evaporated and the pudding starts sticking to the pot, transfer to a plate",
+
+                "Add black soybeans, roasted soybean flour, and maple syrup to taste, and it's done"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [null]
+        },
+
+        {
+            "name": "Homemade Dry Curry",
+            "volume": 3,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "400g ground pork"
+                ],
+
+                [
+                    "2 onions",
+                    "1 carrot (small)",
+                    "1 stick of celery (small)",
+                    "2 Japanese eggplants",
+                    "2-3 green bell peppers"
+                ],
+
+                [
+                    "1 thumb ginger",
+                    "1 clove garlic",
+                    "1 bouillion cube",
+                    "2tbsp vegetable oil",
+                    "2-3 tsp curry powder",
+                    "1 1/2 tsp salt",
+                    "200g diced tomatoes (half a can)",
+                    "1/2 apple (grated)",
+                    "40g raisins",
+                    "2-3 tsp garam masala"
+                ]
+            ],
+            "steps": [
+                "Cut Group A ingredients into 5mm cubes. Dissolved boullion cube in a 300cc of boiling water to make broth. Mince Group B ingredients.",
+
+                "Heat the vegetable oil in a pot, then fry the garlic and ginger. Once it starts to smell good, add the onions and fry them. When they turn clear, add the carrot, celery, and eggplant in that order and continue to cook.",
+
+                "Add the ground pork to the pot, and once it's browned, add the curry powder and salt.",
+
+                "Add the diced tomatoes, and once the mixture starts to boil, add the grated apple, then the raisins, green bell pepper, and the broth from Step 1. Cook over medium-high heat and just over 10 minutes to boil the curry down.",
+
+                "Take some curry out and serve to any children. Taste the rest, and if there's not enough salt, add the taste. Add in enough garam masala for your preferred level of spiciness"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Once the liquid has evaporated, it's done!"
+            ]
+        },
+
+        {
+            "name": "Aji",
+            "volume": 3,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "2 aji (200-250g)",
+                    "10g ginger",
+                    "3 green onions",
+                    "1 tbsp miso"
+                ],
+
+                [
+                    "Leftovers from 2 aji",
+                    "4-5cm diakon radish",
+                    "1 10cm square piece of konbu",
+                    "3tbsp miso",
+                    "some mitsuba leaves"
+                ]
+            ],
+            "steps": [
+                "Mince the ginger and finely dice the green onion",
+
+                "Cut the ribs way from the fish you've cut into three pieces. Use your fingers to find any pin bones left and remove them with fish bone tweezers. Lift up the skin a little on the head side and then hold the fillet down and rip it off. Cut the fillet into thin slices",
+
+                "Using quick horizontal strokes so that you don't crush the flesh, chop into smaller pieces. Then add the ingredients from Step 1 and the miso. Use your knife to chop and mix",
+
+
+                "Remove the gills from the heads and split each one in two vertically. Carefully wash way the blood cut each backbone into three pieces and wash them. Chop off the tails. Cut the diakon radish into thin rectangles.",
+
+                "To get rid of the fish smell, pour boiling water over the leftovers from Step 1. Transfer immediately to a bowl of cold water.",
+
+                "Put the konbu, daikon radish, and leftovers in 1 liter of water and turn on heat. Once it starts to boil, skim the scum from the top. Simmer on low for 10 minutes. Once the daikon radish softens, turn off the heat and stir in the miso. Serve in bowls an garnish with mitsuba."
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "You can ball up the namerou and flatten it into thin patties. Fry both sides  bit in a little oil, and you'll have sangayaki!",
+
+                "You can leave the leftovers in as an ingreident or take them out as you like!"
+            ]
+        },
+
+        {
+            "name": "Sesame Seed Chilled Chinese Noodles",
+            "volume": 3,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "3 packs of fresh Chinese noodles",
+                    "1 chicken thigh (slightly less than 300g)",
+                    "1/3 carrot",
+                    "150g cabbage (without the core)",
+                    "1 cucumber",
+                    "Eggs (as many as you like)",
+                    "25g salted wakame (parboiled)",
+                    "1 tomato"
+                ],
+
+                [
+                    "6tsp salt",
+                    "1 tbsp sake",
+                    "1 Japanese leek (the green part)",
+                    "4 pieces thinly sliced ginger"
+                ],
+
+                [
+                    "2tbsp sugar",
+                    "2 1/2 tbsp vinegar",
+                    "5 tbsp soy sauce",
+                    "3 tbsp white sesame paste",
+                    "1 tbsp ground sesame seeds",
+                    "2 tsp sesame oil",
+                    "(Roughly) 3 tbsp leftover chicken broth"
+                ]
+            ],
+            "steps": [
+                "Sprinkle the chicken thigh with the sake and salt seasoning and let it sit for at least 20 minutes. Slice the green part of the Japanese leek on the diagonal. Get your steamer ready.",
+
+                "Arrange half of the onions from Step 1 plus 2 thin slices of ginger on a deep plate. Place the chicken skin side up on top, and then scatter the rest of the onion and ginger over that. Once the water in the steamer starts to boil, put the rack on the upper level, put the lid on, and steam on high heat for 20 minutes",
+
+                "Julienne the carrot into thick matchsticks, then boil (starting from col water). Once tender, transfer them to a bowl of cold water to soak. Tear the cabbage into pieces. Put them in a metal colander and steam over the pot of boiling water for 4 minutes. Once done, spread the cabbage out on a tray and let it cool.",
+
+                "Julienne the cucumber. Hard-boil and peel the eggs. Rehydrate the seaweed and rinse carefully. Cut the eggs and seaweed into easy-to-eat pieces. Cut the tomato into thin slices.",
+
+                "Once the ingredients and Step 2 are done steaming, take out the bowl. Measure out the juice to use the sesame sauce, and then let the chicken keep cooking in the remaining heat. Once 10 minutes have passed, put the chicken into a plastic bag and chill it in ice water.",
+
+                "Mix all ingredients for the sesame see sauce together. Once the ingredients from Step 5 and cold, take out the chicken thigh and cut into bite-sized pieces.",
+
+                "Boil the noodles. Arrange the noodles and other ingredients on a plate, and cover in sesame seed sauce."
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "It's a good idea to cover the underside of the lid with a cloth and let the steamer so that water doesn't drip out."
+            ]
+        },
+
+        {
+            "name": "Tamagoyaki (for boxed lunches)",
+            "volume": 3,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                "3 eggs",
+                "50cc dashi",
+                "1 1/2 tbsp sugar",
+                "1 tsp light soy sauce",
+                "Pinch of salt",
+                "Some vegetable oil"
+            ],
+            "steps": [
+                "Dissolve the sugar in the dashi while the latter is still warm. Add the soy sauce and salt",
+
+                "Crack the eggs into a bowl and stir gently with cooking chopsticks without letting them foam. Add the ingredients from Step 1 and stir again.",
+
+                "Heat the tamagoyaki pan on medium heat. Dip a folded paper towel in the vegetable oil and use this to mop the pan. Pour 1/4 of the egg mixture from Step 2 into the pan and allow it to spread out",
+
+                "Cook while poking the parts that bulge up with your cooking chopsticks. Once the surface of the egg sheet is no longer runny, roll it up from the rear to the front before it sets completely, using the chopsticks. Once you're done, move the egg to the back.",
+
+                "Wipe the open pan surface with the oiled paper towel. Pour the same amount of egg mixture as before into the pan and allow it to spread. Lift up the already-wrapped egg at the back and allow the liquid to spread under it, as well.",
+
+                "Repeat Steps 4 and Step 5 four times total.  When you're done, place the egg mass on a makisu and shape it.",
+
+                "Leave it alone for a while to let it solidify, then take it out of the makisu and slice as preferred. It's done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "If you add the sugar all at once, it's easy to burn, so it's okay to start with just a little.",
+
+                "Beat in a straight line back and forth without lifting the tips of the chopsticks from the bottom of the bowl. When you're done, hte egg white should still be visible. Take care not to mix too much",
+
+                "The eggs will turn out fluffier if cooked over high heat. Control the temperature by moving the tamagoyaki pan up and down. If it looks like it's about to burn, take it away from the fire, okay?"
+            ]
+        },
+
+
+
+
+
+        {
+            "name": "Shougayaki (ginger-fried pork)",
+            "volume": 4,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "1 onion",
+                    "3 cabbage leaves",
+                    "9-12 slices of pork loin (thick)",
+                    "Some vegetable oil and flour",
+                    "Side vegetables (tomatoes, cucumbers, boiled broccoli, etc)"
+                ],
+
+                [
+                    "2 tbsp each of soy sauce, sake, and mirin",
+                    "10g grated ginger"
+                ],
+
+                [
+                    "1/2 tbsp each of soy sauce and sake",
+                    "pinch of grated ginger"
+                ]
+            ],
+            "steps": [
+                "Chop the onion into thin slices. Mix Group A thoroughly",
+
+                "Shred the cabbage and soak in ice water for several minutes to make it crisp. Drain.",
+
+                "Heat vegetable oil in the frying pan and fry up the onion from Step 1. Once it softens up, add Group B. Remove the onion when the excess moisture has evaporated.",
+
+                "Cut away extra connective tissue from the pork, then dredge with flour and pat. Fry 3-4 pieces of pork at a time, both sides, and then remove when browned.",
+
+                "Pour half of the thoroughly mixed Group A into the frying pan from Step 4, and bring to a boil. Put half of the pork back in and cover with the sauce. Once it's done, take it out and repeat with the other half.",
+
+                "Put the cabbage from Step 2 onto a plate, arrange the onions from Step 3 in front, and place the pork on top. Add the side vegetables."
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Lets try shredding! Remove the core. Fold leaves over and roll up. Press down lightly and start shredding from the side while you remove the core"
+            ]
+        },
+
+        {
+            "name": "Sweet Potato and Cream Crepes",
+            "volume": 4,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "250cc milk",
+                    "20g butter",
+                    "80g weak flour",
+                    "20g granulated sugar",
+                    "100g eggs"
+                ],
+
+                [
+                    "220g sweet potatoes (peeled)",
+                    "30g granulated sugar",
+                    "100cc milk"
+                ],
+
+                [
+                    "Some crushed almonds"
+                ],
+
+                [
+                    "300cc cream",
+                    "30g granulated sugar"
+                ]
+            ],
+            "steps": [
+                "Make the batter. Bring the milk to room temperature. Put the butter in a frying pan on medium heat. Once the bubbles in the butter disappear and it turns a light brown, take it off the heat and cool on top of a wet cloth.",
+
+                "Sif the weak flour into a bowl, add the granulated sugar, and stir well. Make a little depression in the center, add the egg, and mix. Add in the butter from Step 1 and mix thoroughly.",
+
+                "Add the milk from Step 1 little by little into the ingredients from Step 2, stirring as you go. Let the batter sit in a cool place for around an hour.",
+
+                "Make the sweet potato cream. Cut the sweet potatoes into 2-3cm slices, and place them in water to get rid of any bitterness. When about 10 minutes have passed, take them out and put them in a bowl with 1tbsp of water. Wrap and microwave for 5 minutes.",
+
+                "Mash the ingredients in Step 4 with a masher and mix in the granulated sugar. Boil the milk and stir in little by little",
+
+                "Place the ingredients from Group A into a bowl, then place that bowl into a larger bowl which you have filled with ice water. Whip the cream until it's at the point where it forms stiff peaks.",
+
+                "Heat the frying pan from Step 2 on medium heat and wipe away excess butter with a paper towel",
+
+                "Ladle approximately 40ccs of the batter into the center of the pan. Spread it out in a circle by tilting the pan. Move the frying pan so that all parts are heated evenly.",
+
+                "Once the edges of the crepes start turning brown, take the pan off the heat. Pinch the edges of the crepe, and flip it from back to front. Put the pan back on the fire and in 25 seconds, it'll be done!",
+
+                "Repeat Step 8 and Step 9 to cook the batter. Put about 30g each (approximately 1/10th of the total) of sweet potato cream and whipped cream on every crepe. Add some crushed almonds, wrap it up, and you're done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Leave any remaining butter in the frying pan.",
+
+                "If a toothpick goes clean through, they're ready!"
+            ]
+        },
+
+        {
+            "name": "Kinpira Gobou",
+            "volume": 4,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "40g carrot (you'll use 3-4cm of the thickest part of the carrot)",
+                    "160g burdock root",
+                    "1/2tbsp sesae oil",
+                    "Some roasted sesame seeds (white)"
+                ],
+
+                [
+                    "4tsp soy sauce",
+                    "3 tbsp each of mirin, sake"
+                ]
+            ],
+            "steps": [
+                "Peel the carrot and slice off about 1cm from each side to make square edges...Slice thinly into pieces about the same size as you will cut the burdock root.",
+
+                "Wash the dirt off the burdock root and scrub lightly with a scrub brush.",
+
+                "Put the sesame oil into the frying pan and fry the burdock root from Step 2. Fry on medium heat for 3-4 minutes, and then add the carrot from Step 1. Fry for an additional minute and then add the ingredients from Group A.",
+
+                "Boil it down for 4-5 minutes until the liquid is gone, then add roasted sesame seeds and you're done"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "A lot of the flavor of the burdock root is in its skin, so don't scrub htat part off.",
+
+                "Don't soak it in water because you'll lose the scent and flavor. Be ready to fry as soon as you cut it!"
+            ]
+        },
+
+        {
+            "name": "Okonomiyaki",
+            "volume": 4,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "some vegetable oil",
+                    "some sauce, mayonnaise, katsuobushi, aonori, etc."
+                ],
+
+                [
+                    "90cc bonito stock",
+                    "1/4tsp salt",
+                    "40g weak flour",
+                    "20g Japanese yam"
+                ],
+
+                [
+                    "150g cabbage",
+                    "1/4 Japanese squid",
+                    "10g green onion shoots",
+                    "2-3 strips pork belly",
+                    "1 egg",
+                    "Some vegetable oil",
+                    "Some sauce, mayonnaise, katsuobushi, aonori, etc."
+                ]
+            ],
+            "steps": [
+                "Make the stock, cool it, and add salt",
+
+                "Shift the weak flour into a bowl and mix in the ingredients from Step 1 slowly so it doesn't clump",
+
+                "Grate the Japanese yam and mix it in. Then let the mix rest for a while",
+
+                "Cut the cabbage into 1cm squares and make sure it's dry. Cut the squid into small strips. Chop the green onion shoots into slightly large pieces. Cut each pork belly strip into 4-5 pieces.",
+
+                "Put the cabbage, squid, and green onion from Step 4 into a bowl and add the ingredients from Step 3. Crack the egg in and give everything a mixing.",
+
+                "Pour a thin layer of oil into the frying pan and add the ingredients from Step 5, spreading the batter out across the pan so that it's about 2cm thick. Shape the edges with a spatula. Line up the pork belly from Step 4 on top of the batter.",
+
+                "Fry for 3 minutes and then flip. Cover with a lid and fry for 4 minutes. Flip again and cook for 3 minutes with the lid off.",
+
+                "Transfer to a plate and add the sauce and mayonnaise, katsuobushi, aonori, or other toppings, and it's done."
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Add whatever ingredients you want, like tempura flakes, pickled ginger, konnyaku, shiitake mushrooms, or cheese!",
+
+                "Mix the filling for each okonomiyaki just befoer you fry it. If oyu mix several at once, by the time you're done cooking, the moisture will be gone and it might not be good."
+            ]
+        },
+
+        {
+            "name": "Beef Stew",
+            "volume": 4,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "1 1/2 onions",
+                    "1 carrot",
+                    "1 clove garlic",
+                    "500g beef flank (steak)",
+                    "Some salt and pepper",
+                    "200cc red wine",
+                    "6 mushrooms"
+                ],
+
+                [
+                    "10g butter",
+                    "1/2 tbsp vegetable oil"
+                ],
+
+                [
+                    "200cc water",
+                    "150g canned tomatoes",
+                    "1 can demi-glace sauce",
+                    "1/2 tsp salt",
+                    "Bouquet garnish (one piece each of celery and parsley, and one bay leaf tied with a string)"
+                ],
+
+                [
+                    "10g butter",
+                    "1/2 tbsp vegetable oil"
+                ]
+            ],
+            "steps": [
+                "Mince 1/2 of an onion and 1/4 of the carrot. Thinly slice the garlic. Cut the beef into 8 or 9 even portions and season with salt and pepper.",
+
+                "Heat Group A ingredients in a frying pan and add the beef from Step 1. Sear the meat on high heat. Once all sides are browned, take it out and transfer to a pressure coker",
+
+                "Use the oil remaining in the frying pan from Step 2 to fry the onion, carrot, and garlic from Step 1. Once the onion is caramelized, add the red wine. Scrape any burnt parts off the pan and add them and the soup to the pressure cooker mentioned in Step 2.",
+
+                "Turn on the pressure cooker and, once the soup comes to a boil, turn to low heat and simmer 3-4 minutes. Add the ingredients from Group B and cover with the lid.",
+
+                "Once you start to clearly hear noises from the pressure cooker, turn to medium heat and pressure cook for 15 minutes. Turn off the heat and let it sit for 15 minutes. Once that time is up, release the pressure and open the lid",
+
+                "Cut the whole onion into wedges and chop up the remaining carrot into chunks. Wipe any dirt off the mushrooms and remove the stems.",
+
+                "Heat Group C ingredients in a frying pan. Add the ingredients from Step 6 (first carrots, then onions) and slowly fry on low heat. Finally, add the mushrooms, and fry them as well.",
+
+                "Add ingredients from Step 7 to the pressure cooker from Step 5 and boil for 20-30 minutes. Season to taste and...done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Once the stew thickens up, the bottom of the pressure cooker has a tendency to burn, so stir with a spatula once in a while. Also, note that the meat will fall apart easily!"
+            ]
+        },
+
+
+
+
+
+        {
+            "name": "Omochi",
+            "volume": 5,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "100g azuki beans",
+                    "100g sugar",
+                    "pinch of salt",
+                    "3 pieces of square mochi"
+                ],
+
+                [
+                    "200g ground pork",
+                    "1/2 bundle of enoki mushrooms",
+                    "10cm green onion",
+                    "3 pieces of square mochi",
+                    "1/2 teaspoon sesame oil"
+                ],
+
+                [
+                    "2 tablespoons mirin",
+                    "2.5 tablespoons (45g) miso",
+                    "1 teaspoon soy sauce",
+                    "2 teaspoons sugar"
+                ],
+
+                [
+                    "60g walnut",
+                    "4 tablespoons mirin",
+                    "2 teaspoons sugar",
+                    "1/2 teaspoon miso",
+                    "3 pieces square mochi"
+                ]
+            ],
+            "steps": [
+            "Wash the azuki beans and put them in a pot with a lot of water. Boil on high heat. When the water boils, remove the pot from the stove and strain the beans.",
+
+            "As in Step 1, return the beans to the pot with fresh cold water, bring the pot to a boil again, then strain. Repeat once more.",
+
+            "Return the beans to the pot once more with fresh cold water, and then put the pot on to boil. Once it boils, turn to low heat, and simmer while frequently skimming off the top. If the beans start to emerge from the water, add more water to cover. When it looks like you could crush a bean with your fingers, add the sugar. Boil down to your preferred consistency, and then add the salt.",
+
+            "Bake the square mochi and put it in a bowl, then combine with the beans prepared in Step 3, and you're done.",
+
+            "Cut enoki mushrooms into 1cm slices, and thinly slice the onions",
+
+            "Heat a frying pan, add the sesame oil, and sate the pork. Once the pork is browned, add in the ingredients from Step 1.",
+
+            "Once the mushrooms start to soften, add the ingredients from Group A, and simmer until the sauce caramelizes. Pair with boiled square mochi.",
+
+            "Put the mirin in a small pot, and simmer to burn off the alcohol. Add the sugar, and once it dissolves into the mirin, allow to cool.",
+
+            "Crush the walnuts with a mortar and pestle. Add the miso and the ingredients from Step 1, then mix again. Add sauce on top of boiled square mochi, and you're done."
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "The beans will take about an hour to soften.",
+
+                "The mochi will not melt if you use cold water to boil it."
+            ]
+        },
+
+        {
+            "name": "Buri-Daikon",
+            "volume": 5,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "Buri Ara (yellowtail head and other leavings) 4-500g",
+                    "600g daikon",
+                    "3 tbsp soy sauce / some yellow yuzu"
+                ],
+
+                [
+                    "3 slices ginger",
+                    "100cc sake",
+                    "200cc water"
+                ],
+
+                [
+                    "3 tbsp mirin",
+                    "1 tbsp sugar"
+                ],
+
+                [
+                    "40g carrots",
+                    "1 cucumber",
+                    "4-5 pieces kaibashira (scallop adductor muscle)",
+                    "1/3 bunch of shimeji mushrooms",
+                    "some salted wakame seaweed",
+                    "1tsp mirin"
+                ],
+
+                [
+                    "1 tbsp yellow yuzu citrus juice",
+                    "1 tbsp soy sauce"
+                ]
+            ],
+            "steps": [
+                "Chop the daikon radish in 2.5-3cm slices and cut into quarters. Boil for 15 minutes, then place in cold water.",
+
+                "Chop up the buri ara, place in a bowl, and add hot water. Once the surface of the fish turns white, place in cold water, and remove the scales and the dark meat.",
+
+                "Put the buri ara and daikon radish in the pot, add Group A, then turn to medium-high heat and cover with the otoshibuta lid. Five minutes after it starts to boil, add in Group B. Boil for five more minutes then add in the soy sauce.",
+
+                "Simmer for five more minutes, then turn off the heat and let it sit for 20 minutes to allow the flavor to seep through.",
+
+                "Put on a plate and garnish with julienned yellow uzu skin, and it's done!",
+
+                "Slice the carrots and cucumbers into 7-8mm cubes. Cut the kaibashira in half. Break apart the shimeji. Add water to the seaweed to plump it up, then cut into bite-sized chunks.",
+
+                "Parboil the carrots and shimeji, then strain and allow to cool. Boil the mirin to remove the alcohol.",
+
+                "Mix the mirin from Step 2 with the ingredients from Group A, then pour over the other ingredients, allow to marinate, and you're done."
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "If they're slightly hard when you poke them with a toothpick, they're okay!",
+
+                "Stir the liquid occasionally to make it easier for the flavor to blend."
+            ]
+        },
+
+        {
+            "name": "Sushi Cake",
+            "volume": 5,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "120g fresh cod (a little less than two fillets)",
+                    "2-3 tbsp sake"
+                ],
+
+                [
+                    "2 tsp mirin",
+                    "2 tsp light soy sauce",
+                    "1 piece salted salmon",
+                    "2 eggs",
+                    "salt",
+                    "vegetable oil",
+                    "2 packs maitake mushroom"
+                ],
+
+                [
+                    "3 tbsp mirin",
+                    "1.5 tbsp soy sauce",
+                    "300g rice",
+                    "1 square (5cm) of kombu"
+                ],
+
+                [
+                    "40cc sushi vinegar",
+                    "2 tbsp sugar",
+                    "1.4 teaspoons salt",
+                    "carrots",
+                    "string beans",
+                    "salmon roe"
+                ]
+            ],
+            "steps": [
+                "Put the fresh cod in a small pot and stir in sake. Put a lid on the pot and cook on low heat. Once it starts to bubble, continue to simmer for 3 minutes. Remove bones, skin, and dark meat, and then grind in a mortar",
+
+                "Add fish from Step 1 to a frying pan and sate on low heat. Once the moisture has evaporated and the fish has softened, add the ingredients from Group A. Continue cooking until the meat crumbles and plumps up.",
+
+                "Cook the salted salmon until it's soft",
+
+                "Beat the egg in a bowl and add salt. Add oil on the frying pan and coat the bottom of the pan with a very thin layer of the egg mixture, and cook until set. Remove egg and repeat 3 more times, for four thin egg crepes total. Cut these in half and stack them, then julienne.",
+
+                "Tear the maitake mushrooms into fine chunks. Put them in the pot along with Group B, cover with an otoshibuta lid and turn to medium heat. After 5 minutes, remove lid, and continue to simmer.",
+
+                "Parboil the carrots and string beans with salt, transfer to cold water and cut into your desired shapes.",
+
+                "Rinse the rice and add the kombu, then cook with slightly less water than usual. Mix the ingredients in Group C thoroughly, and then add them to the rice. Mix well and cut into four parts.",
+
+                "Take a deep container (Tupperware or a cake mold) and lay the eggs from Step 4 along the bottom.",
+
+                "Put 1/4 of the rice from Step 7 in a thin layer over the egg. Use a flat-bottomed glass or a spoon, coated with the remaining vinegar mixture, to push down on the rice and spread it out evenly into the corners.",
+
+                "Repeat this process with cod → rice → salmon → rice → mitake → rice.",
+
+                "Invert the bowl to gently remove the 'cake,' and decorate with the roe and the ingredients in Step 6."
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "The meat will stick to the pan, so when it does, remove from heat and scrape it off. Make sure it doesn't burn.",
+
+                "Leave a little bit of vinegar mixture from **Group C**."
+            ]
+        },
+
+        {
+            "name": "Spaghetti Carbonara",
+            "volume": 5,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                "100g spaghetti (thick)",
+                "20g cheese (Parmigiano Reggiano)",
+                "40g bacon (slab)",
+                "1 egg",
+                "30cc white wine",
+                "Black pepper to taste, olive oil, salt"
+            ],
+            "steps": [
+                "Add 1% by volume of salt to a large pot of water and put on the stove. Once it starts to bil, add in the spaghetti.",
+
+                "Grate the cheese with a cheese grater. Chop the bacon into matchsticks.",
+
+                "Beat the egg well in a bowl and add in the cheese from Step 2, along with some freshly ground black pepper.",
+
+                "Add olive oil to the frying pan, and thoroughly fry the bacon on low heat. Once the fat's been rendered, add the white wine. Tilt the frying pan back and forth until the liquid starts to thicken, and then add a pinch of salt.",
+
+                "Once the spaghetti has boiled, strain it. Turn off the heat on Step 4 and hten quickly add the spaghetti.",
+
+                "Add ingredients from Step 3 to ingredients from Step 5 and quickly mix. Once the heat from the frying pan has melted the cheese, it's done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Get it on the plate before the egg cooks."
+            ]
+        },
+
+        {
+            "name": "Potato Croquettes",
+            "volume": 5,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "2 large potatoes (240g)",
+                    "1/4 onion",
+                    "100g ground beef an pork mix",
+                    "1 egg",
+                    "1/4 tsp salt",
+                    "flour, panko bread crumbs, and vegetable oil"
+                ],
+
+                [
+                    "4 eggs",
+                    "1/8 onion",
+                    "30g ground beef and pork mix",
+                    "80g squash",
+                    "5g butter"
+                ],
+                
+                [
+                    "1/4tsp salt",
+                    "30cc milk",
+                    "Flour",
+                    "panko breadcrumbs",
+                    "vegetable oil"
+                ]
+            ],
+            "steps": [
+                "Mince the onion. Add oil to the frying pan and sate onion. Once the onion becomes translucent, add the meat and salt.",
+
+                "Peel the potatoes and cut into quarters, then boil them in cold water. Once they're boiled, strain them and put them back in an empty pot. Put the pot on low heat and mash them with a potato masher as you allow the moisture to evaporate.",
+
+                "Mix ingredients from Step 1 into ingredients from Step 2.",
+
+                "Form misture into patties of your preferred size and shape, and allow to cool",
+
+                "Add coating in this order: flour → egg → panko bread crumbs. Add in batches to frying oil heated to 340°F, and fry until they are golden brown.",
+
+                "Boil three eggs, then peel and chop them",
+
+                "Mince the onions, and sate with butter in a pan. Once they brown, add the meat and brown it as well",
+
+                "Chop the squash into cubes, place them in a bowl with some water, then cover and steam for 2 minutes in a microwave. Mash the squash",
+
+                "Combine ingredients from Step 1, and mix thoroughly but gently. Once it's cool, form into patties of the desired shape and size, and let htem chill in the refrigerator",
+
+                "Just like you did with the potato croquettes, add the coating in the following order: flour → egg → panko breadcrumbs, and fry"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "The filling has already been cooked, so once the coating turns golden brown like a fox's coat, you're done."
+            ]
+        },
+
+
+
+
+
+        {
+            "name": "Corn Soup",
+            "volume": 6,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                "1 cob of corn",
+                "1/4 tsp salt",
+                "400-500g water",
+                "some milk"
+            ],
+            "steps": [
+                "Cut the corn into two pieces, and then stand them up on the cutting board and shave off the kernels.",
+
+                "Put the kernels from Step 1 in the pot, along with the cob, and add the salt and water Put a lid on and cook for 20 minutes on low heat",
+
+                "Take out the cob and then cut off any remaining kernels and put them in the pot. Keep cooking until the kernels are just barely poking out above the water",
+
+                "Put the mixture from Step 3 in a food processor, then run it through a strainer.",
+
+                "Add some milk, then put in some salt and it's done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [null]
+        },
+
+        {
+            "name": "Bread Sticks",
+            "volume": 6,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "300g strong flour",
+                    "20g butter",
+                    "180cc lukewarm water"
+                ],
+
+                [
+                    "30g sugar",
+                    "4g salt",
+                    "6g dry yeast"
+                ]
+            ],
+            "steps": [
+                "Run the strong flour through a sieve and then mix the ingredients from Group A, then add in water and stir. Warm the butter to room temperature.",
+
+                "Knead and mix the dough from Step 1 with our hands and bring it all together in a ball. When you can easily remove it from the bowl, move it to a surface that's been lightly dusted with flour",
+
+                "Push down on it, and then spread it out with your hands, and then fold it back over and push it down and spread it out again. Repeat this. Once it's smooth and easily removed from the surface, fold in the butter and kneed some more.",
+
+                "Once the butter has been thoroughly mixed in and the dough stays together after it's lifted off the surface, lift it up and then smack it into the surface, and then roll it up away from you. Change the direction and repeat. Do this for 20 minutes, until you can stretch the dough with your fingers and it forms a thin film without breaking.",
+
+                "Coat a big bowl with a thin film of vegetable oil (not listed in the ingredients), then put in the dough from Step 4 and cover with plastic wrap. Allow the dough to rise for one hour by either placing it in a warm place, or a bowl of lukewarm water.",
+
+                "Dust your index finger with flour and then use it to poke a hole in the dough. If the hole remains even after the finger is removed, it's done rising!",
+
+                "Cut the dough from Step 6 into 6 equal parts, then press down on them softly. Then fold the edges you cut inwards, while you pull down the dough from the top down to roll it up. Pinch the point where the top touches the bottom with your fingers to close it, then move the dough to a cooking sheet with the pinched part facing down",
+
+                "Cover the dough with a wet cloth that's been thoroughly wrung out for 15 minutes to let it rest.",
+
+                "Place the dough on a surface, then press down slightly and use a rolling pin to roll it out into a long shape",
+
+                "Put the edge of the dough on a bamboo stick, then pull slightly as you wrap the rest of it around. Pinch the edges to make sure they're stuck on tight.",
+
+                "Cook on a charcoal grill. Once the bread is easily removed from the stick, it's done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "If the dough is thick, it won't cook right, so be careful!"
+            ]
+        },
+
+        {
+            "name": "Mackerel-Pike Stewed in Tomatoes",
+            "volume": 6,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "2 mackerel pike",
+                    "1/2 onion1 can (400g) tomatoes",
+                    "1 pack Shimeji mushrooms",
+                    "some flour",
+                    "1 tbsp olive oil"
+                ],
+
+                [
+                    "1 tsp salt",
+                    "1 bay leaf"
+                ],
+
+                [
+                    "2 mackerel pike",
+                    "some flour",
+                    "1/2 tbsp salad oil"
+                ],
+
+                [
+                    "2 tbsp soy sauce",
+                    "2 tbsp mirin",
+                    "2 tbsp sake",
+                    "1 tbsp sugar"
+                ]
+            ],
+            "steps": [
+                "Fillet the pike. Remove the ara (the head and bones), and cut the meat into three equal pieces. Mince the onions.",
+
+                "Put the head and bones into a small pot. Put in enough water to thoroughly cover them and cook on high until they boil.",
+
+                "Cook on low heat for 15 minutes, continually skimming off the scum. Strain in a strainer and save about a cup of soup",
+
+                "Lightly salt (salt not listed in ingredients) the pike and add flour. Put down olive oil in the frying pan and fry on medium heat, skin facing up",
+
+                "Once it gets a nice color, flip it and fry the skin side, then remove.",
+
+                "Put the onions from Step 1 into the frying pan from Step 5 and fry them. Once they're browned add the canned tomatoes, the soup from Step 3, and the ingredients in Group A. Once it starts to boil turn to low heat and put a lid on it.",
+
+                "Let cook for 20 minutes before adding the shimeji mushrooms and boil for 5 more minutes. Add in the pike you removed from Step 5.",
+
+                "Once it's nice and warm, add salt to taste and it's done!",
+
+                "Fillet the pike, and cut the meat into two equal pieces. Dust with flour.",
+
+                "Put vegetable oil in the frying pan and heat, then cook the pike skin side down first.",
+
+                "Once both sides have grill marks on them, add in Group A.",
+
+                "Once it's started to boil for a bit, it's done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Remove the gills on the head and split it into two pieces. Cut the backbone around the center. Wash both thoroughlyto remove the blood. Use the rib bones that you scraped off, too."
+            ]
+        },
+
+        {
+            "name": "Onigiri",
+            "volume": 6,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                "some rice",
+                "salt",
+                "seaweed",
+                "cooked salmon",
+                "dried plums"
+            ],
+            "steps": [
+                "Prepare a bowl of water, salt, a chawan (tea bowl)",
+
+                "Put the rice gently into the chawan. Wet both hands with water, and then put salt on the left palm.",
+
+                "Move the rice from the chawan to your left hand. Make a small hole in the center and add the filling. Then cover the hole with rice and gently squeeze.",
+
+                "Once the hole is covered, form it into a triangle, spinning it as you go.",
+
+                "Once it's formed into a triangle shape, wrap the seaweed around and you're done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Use freshly cooked rice",
+                "Make the balls while it's as hot as possible",
+                "Don't use too much water",
+                "Squeeze Lightly",
+                "If you form the base with your left hand, and the corners at teh top with your right hand as you spin, it will turn intoa  triangle!"
+            ]
+        },
+
+        {
+            "name": "Chicken Stewed in Cream",
+            "volume": 6,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "Roughly 800g of bone-in chicken thigh",
+                    "200g onion",
+                    "40g carrots",
+                    "12 mushrooms",
+                    "1 cube of chicken-flavor bouillon cube",
+                    "2-3 tsp lemon juice",
+                    "20g butter",
+                    "1 tsp vegetable oil",
+                    "20g weak flour",
+                    "100cc white wine",
+                    "200cc cream",
+                    "some salt and pepper"
+                ],
+
+                [
+                    "1 piece of celery and parsley",
+                    "1 bay leaf"
+                ]
+            ],
+            "steps": [
+                "Salt and pepper the chicken breasts. Cut the onions and carrots into thin slices. Clean the mushrooms and remove the bottom part of the stem",
+
+                "Dissolve the bouillon cube in 600cc of hot water, then add in 1 tsp of lemon juice and a pinch of salt. Put the mushrooms in cap down. Once the water comes to a boil turn off the heat and let sit.",
+
+                "Heat butter and vegetable oil in a frying pan, then put the chicken thighs in skin-side down. Cook both sides and remove.",
+
+                "Put onions and carrots into the frying pan from Step 3, and then fry until soft",
+
+                "Add the weak flour to the ingredients in Step 4 and fry. Once the powdery-ness goes away, add the white wine and stir. Turn up the heat to get rid of the alcohol.",
+
+                "Add the soup from Step 2 to the resulsts of Step 5. Leave the mushrooms and a small amount of soup in the pot. Return the chicken from Step 3 to the pan and add the ingredients in Group A. Once it comes to a boil turn to low heat and cook for 15 minutes.",
+
+                "Take the chicken out and then cook until the remaining liquid is about half its original height.",
+
+                "Strain the results from Step 7 thoroughly, then add the cream, and 1-2 tsp of lemon juice. Add salt, pepper to taste.",
+
+                "Remove the bones from the chicken and cut it into easy to eat pieces. Put it in the sauce from Step 8 and bring to a boil.",
+
+                "Put the chicken on a plate and add the mushrooms. Then add the sauce and it's done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Since it's a white stew, don't cook them too much. Even if they aren't fully cooked, they'll be stewed later so it's okay!"
+            ]
+        },
+
+
+
+
+
+        {
+            "name": "Yule Log",
+            "volume": 7,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "100g granulated sugar",
+                    "30cc milk",
+                    "100g weak flour"
+                ],
+
+                [
+                    "200g apple",
+                    "1 chocolate bar (50g)"
+                ],
+
+                [
+                    "20g lemon (cut into slices with skin on)",
+                    "50cc water",
+                    "40g ganulated sugar"
+                ],
+
+                [
+                    "30cc water",
+                    "15g granulated sugar",
+                    "1/2 tbsp rum"
+                ],
+
+                [
+                    "200cc cream",
+                    "20g granulated sugar",
+                    "30g baking chocolate"
+                ]
+            ],
+            "steps": [
+                "Peel apple and chop finely. Put the apple in the Group A ingredients into a pot, and cook for 30 minutes on low with the lid on",
+
+                "Cut off four corners of the baking sheet and fold into an open box shape, then place it into a baking sheet as in the picture above. Warm the oven",
+
+                "Beat eggs in a bowl, then add sugar and put it on a double boiler at 60°C , and mix. Once the sugar has melted and the mixture is warm, take it off the double boiler.",
+
+                "Beat thoroughly with a hand mixer. Once the mixture turns whitish, make a figure eight, and if it takes a while for the liquid to settle, it's ready for you to tur the mixer to slow and even it out.",
+
+                "Mix in milk to the ingredients from Step 4, then add weak flour fun through a sieve. Mix with a rubber spatula, taking care not to crush any air bubbles that form.",
+
+                "Pour the ingredients from Step 5 into the baking sheet, and then level out the top. Cook in a 190°C degree oven for 11 minutes",
+
+                "Take out the lemon from Step 1, mash the apple, and add the chocolate bar and mix",
+
+                "Boil the Group B ingredients in a pot. Once the sugar melts, turn off the heat and when it's cooled add the rum. ",
+
+                "Once the ingredients from Step 6 have finished cooking remove from the pan (along with the baking sheet) and give it a moment to cool down. Then put plastic wrap on it, and allow it to cool to room temperature.",
+
+                "Remove the dough from baking sheet. Cover the side that's browned with the ingredients from Step 8, then spread out the Step 7 ingredients on top of it. Roll up the dough, and let it sit for a while to set.",
+
+                "Put the ingredients from Group C into a bowl, then put that bowl in ice water and beat until peaks form.",
+
+                "Melt baking chocolate in a double boiler. Add some of the mixture from Step 11 and stir, then return to the bowl with the rest of the mixture and stir with the rest",
+
+                "Cut off part of the edge of Step 10 and then place it on top to make it look like a log",
+
+                "Cover the surface with the mixture from Step 12 and use a fork to draw a design. Strain some cocoa powder on it and add some edible silver beads, and you're done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [null]
+        },
+
+        {
+            "name": "Kuri Kinton",
+            "volume": 7,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "400g (net weight) peeled sweet potatoes",
+                    "14 or so chestnuts boiled in simple syrup",
+                    "1 kuchinashi fruit",
+                    "100g sugar some salt"
+                ],
+
+                [
+                    "120cc chestnut syrup (the syrup from the boiled chestnuts",
+                    "2tbsp mirin"
+                ]
+            ],
+            "steps": [
+                "Peel sweet potatoes, making sure to remove all the skin, then cut into 15cm thick pieces. Soak in water overnight",
+
+                "Change out the water and boil. Once it boils yudekobosu the water",
+
+                "Add just enough water to the ingredients from Step 2 to partially cover them, as well as the kuchinashi fruit. Cut a baking sheet into a circle slightly smaller than the pot, then cut several small holes in it. Put this on top of the contents of the pot and cook on low for 15 minutes. Remove the sheet when done.",
+
+                "Once you can poke a toothpick easily through hte sweet potatoes, take out the kuchinashi fruit and reserve the boiling liquid",
+
+                "Add hald the sugar from Step 4. Use a wooden spatula to mash the sweet potatoes and mix them in, then strain with a strainer",
+
+                "Return the ingredients from Step 5 to the pot from Step 4, add the remaining sugar as well as the Group A ingredients and mix thoroughly. Turn on heat and mix more, and when it comes to a boil add the chestnuts. If the dough seems hard, add some of the reserved liquid",
+
+                "Add salt, and when the chestnuts have warmed, move to a baking dish and let cool"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [null]
+        },
+
+        {
+            "name": "Oyako-Don",
+            "volume": 7,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "1/2 chicken thigh (150g)",
+                    "1/2 onion (100g)",
+                    "Some mitsuba leaf",
+                    "4 eggs",
+                    "1/5tsp salt",
+                    "1/2tbsp sake"
+                ],
+
+                [
+                    "100cc dashi broth",
+                    "2tbsp soy sauce",
+                    "3tbsp mirin"
+                ]
+            ],
+            "steps": [
+                "Salt chiken thigh and sprinkle some sake. Leave at room temperature for a while",
+
+                "Cut onion into 5mm slices, and mitsuba leaf into 3cm strips. Cut chicken thigh into bite-sized chunks",
+
+                "Put the Group A ingredients an the onion into a frying pan on medium heat. Once it starts to boil, let cook for 3 minutes",
+
+                "Add the chicken thigh, and flip it over after one minute. Put lid on pot and turn off heat",
+
+                "After 5 minutes, take off lid and put on medium-high heat. Add half the eggs when it starts to boil",
+
+                "Once the eggs start to firm up, give it a quick stir. Once it starts to bubble again, mix in the rest of the eggs in the same way.",
+
+                "Give it a mix and top with the mitsuba leaf. Once it starts to bubble again put the lid on and then turn off the heat and left sit for one minute. Serve it over rice, and it's done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "The eggs come out better fi you make it for one person at a time, but you can make up to two portions at once and it'll turn out fine. If you want to make it for 4 people, follow all the steps up to number 3 as above, then after waiting the 5 minutes, split the mixture into two and follow **Step 5** - **Step 7** for each separate half.",
+
+                "Give the eggs a bit of a mix before putting them into the frypan. You want the whites and the yolks stll a bit separated. When you put them in the pan, pour the eggs in spiral, starting from the center and working your way towards the outside."
+            ]
+        },
+
+        {
+            "name": "Takenoko Shumai (Shiitake Shumai)",
+            "volume": 7,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "300g group pork",
+                    "2/3 onion (140g)",
+                    "60g shumai crusts"
+                ],
+
+                [
+                    "2tsp sugar",
+                    "1/2tsp salt",
+                    "1tbsp soys sauce",
+                    "2tbsp potato starch",
+                    "1tbsp sesame oil"
+                ],
+
+                [
+                    "240g ground pork",
+                    "1/2 onion (100g)",
+                    "2 dried shiitake",
+                    "140g peeled shrimp",
+                    "30 shuma crusts"
+                ],
+
+                [
+                    "2tsp sugar",
+                    "1/2tsp salt",
+                    "1tbsp soy sauce",
+                    "1tbsp sake",
+                    "2tbsp potato starch",
+                    "1tbsp sesame oil"
+                ]
+            ],
+            "steps": [
+                "Mince onion and dust with potato starch. Roughly chop takenoko",
+
+                "Put the pork and kaibashira (along with the liquid from the can) into a bowl and mix. Add the ingredients from Group A and mix with your hands until the whole thing starts to turn white",
+
+                "Add the contents from Step 1 and Step 2, and mix. Then add the sesame oil and mix with hands.",
+
+                "Use a bamboo spatula, a palette knife, or something similar to wrap the ingredients from Step 3 into the shumai crust",
+
+                "Put a baking sheet down in a steamer and when it starts to steam, steam the shumai from Step 4 for 10 minutes on high heat",
+
+                "Mince onion and dust with potato starch. Rehydrate the shiitake and mince it",
+
+                "Devein shrimp and wash carefully, then dry. Cut each shrimp into 5 equal pieces",
+
+                "Mix the pork and deveined shrimp in a bowl",
+
+                "Add the Group A ingredients to Step 3, and mix with hands until it all begins to turn white. Mix the Step 1 ingredients, then add in sesame oil and mix.",
+
+                "Use a bamboo spatula, a palette knife, or something similar to wrap the ingredients from Step 3 into the shumai crust",
+
+                "Put a baking sheet down in a steamer and when it starts to steam, steam the shumai for 10 minutes on high heat",
+
+                "Hold the curst in your left (non-dominant) hand. Use a spatula to put the filling in the center of the crust",
+
+                "Make a circle with the index finger and thumb of your left hand, and use the spatula to push the crust and filling into it. Put your ring finger up against the bottom of the shumai, and then spin it within the circle to form it into a shape"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [null]
+        },
+
+
+
+
+
+        {
+            "name": "Sawara (Saikyo-yaki) / Wakame Seaweed Rice",
+            "volume": 8,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "1 ( a little under 100g) fillet sawara (japanese spanish mackerel)",
+                    "1/4tsp salt",
+                    "30g saikyo miso",
+                    "1/2tbsp mirin"
+                ],
+
+                [
+                    "2 japanese cups (300g) rice",
+                    "40g Blanched salted wakame seaweed (60g if rehydrated)",
+                    "1/2tsp salt",
+                    "2tbsp mirin",
+                    "2tsp Usukuchi (light) soy sauce",
+                    "1.5tbsp sesame seeds"
+                ]
+            ],
+            "steps": [
+                "Cover sawara fillet with salt",
+
+                "Put fillet in fridge for one hour, then use paper towel to wipe away water that comes out",
+
+                "Mix miso and mirin thoroughly and baste fillet. Once it's covered with the miso, wrap it up",
+
+                "Let sit in fridge for one day, take out before cooking. Wipe away miso with paper towel",
+
+                "Coat the grill portion of the fish grill with vegetable oil. Put water under the grill, light the fire and warm it up",
+
+                "Grill the fish 4-5 minutes skin side-down, flip over and grill for 3-4 minutes, and it's done",
+
+                "Add salt and mirin to rice, then cook rice.",
+
+                "Wash salt off seaweed, then plump in water for several minutes",
+
+                "Squeeze out and drain water from seaweed. Cut into small pieces and add soy sauce",
+
+                "Mix the rice with the seaweed and the sesame seeds. And it's done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Wipe off all the miso! If you leave any, it will burn easier!"
+            ]
+        },
+
+        {
+            "name": "Egg sandwhich (guacamole sandwich)",
+            "volume": 8,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "4 slices bread (from a loaf of bred with 10-12 slices)",
+                    "2 eggs",
+                    "20g onion",
+                    "15-20g butter",
+                    "1/4tsp salt",
+                    "1tbsp japanese mayo"
+                ],
+
+                [
+                    "6 slices bread (from a loaf of bread with 10-12 slices)",
+                    "1 (200g) avocado",
+                    "1/4 tomato",
+                    "20-30g butter",
+                    "1tbsp lime juice",
+                    "some salt"
+                ],
+
+                [
+                    "1/8 (25g) onion",
+                    "1/2 clove garlic",
+                    "1/2 green chili",
+                    "1 tsp minced cilantro"
+                ]
+            ],
+            "steps": [
+                "Warm butter to room temperature",
+
+                "Add salt (separate from that in ingredients) to some boiling water, then boil egg for 10 minutes and peel shell.",
+
+                "Mince onion and add salt",
+
+                "Let the onion sit for a minute then wrap in cloth, massage, and squeeze",
+
+                "Pour running water on the onions to get the salt off, then squeeze once more",
+
+                "use egg cutter or knife to mince the boiled egg then add the onions and mayo and mix",
+
+                "Coat the bread with butter and use it to sandwich the egg mixture",
+
+                "Cut into desired size and you're done!",
+
+                "Warm butter to room temperature",
+
+                "Make a cut along the avocado in a vertical line, place the knife against the pit",
+
+                "Hold each side and twist to separate the two halves",
+
+                "Stab the seed with the tip of the knife and twist to remove the pit",
+
+                "Use a spoon to remove the flesh, then lightly mash it with a masher",
+
+                "Add lime juice and mix. This stops it from changing color. You can also put the avocado pit in the mix to do this!",
+
+                "Scoop out the part of the tomato with the seeds, then chop up the rest of the tomato",
+
+                "Mince all ingredients in Group A",
+
+                "Mix everything from Steps 6, Step 7, and Step 8 with the salt",
+
+                "Butter the bread and then put the mixture between slices",
+
+                "Cut into desired size and you're done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [null]
+        },
+
+        {
+            "name": "Hamaguri clam rice / asari clam miso soup",
+            "volume": 8,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "2 japanese cups (300g) rice",
+                    "400g (small) hamaguri clams",
+                    "5x5cm kombu",
+                    "1tbsp usukuchi (light) soy sauce",
+                    "1 pinch salt"
+                ],
+
+                [
+                    "350-400g asari clams",
+                    "5x5cm kombu",
+                    "some green onions",
+                    "2tbsp miso"
+                ]
+            ],
+            "steps": [
+                "Put clams on a baking dish or in a pot, lining them up so they don't overlap each other, then cover with salt water until the tops are just barely poking out. Cover with newspaper or something similar.",
+
+                "Place somewhere cool for 2-3 hours and make them spit out the sand",
+
+                "In a separate pot combine the kombu and 300cc water, then let sit for an hour.",
+
+                "Pour running water over the clams, rubbing the clams against each other as you thoroughly wash them. Put them into the pot from Step 3 and place on medium heat",
+
+                "When the pot comes to a boil, turn to low heat and then skim off the scum",
+
+                "When the clams open, take them out and remove the meat from the shell (conserve liquid)",
+
+                "Soak the clam meat in usukuchi soy sauce then shake to remove soy sauce (conserve soy sauce)",
+
+                "Wash rice then strain, and let sit for 30 minutes",
+
+                "Add the soy sauce from Step 7 and the liquid you boiled the clams in to the rice as well as the salt. Then add water to fill to the appropriate level, and cook rice",
+
+                "Add the clam meat from Step 7 to the cooked rice and mix and you're done!",
+
+                "Remove sand from asari (see hamaguri recipe for instructions)",
+
+                "Put 800cc of water in a pot along with the kombu and let sit for 1 hour.",
+
+                "Pour running water over the clams, rubbing the clams against each other as you thoroughly wash them. Put them into the pot from Step 2 and place no medium heat.",
+
+                "When the pot comes to a boil, turn to ow heat and then skim off the scum.",
+
+                "When the clams open, add miso t o the mixture",
+
+                "Once they come to a boil again, turn off heat and top with onions"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Try to keep the level of salt in the water to 3% (30g gper 1 liter of water)"
+            ]
+        },
+
+        {
+            "name": "Tonkatsu / Miso Sauce",
+            "volume": 8,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "2 (2cm thick) pieces of pork loin",
+                    "1 egg",
+                    "salt and papper to taste",
+                    "some flour",
+                    "smoe fresh panko",
+                    "some frying oil"
+                ],
+
+                [
+                    "50g haccho miso",
+                    "3tbsp sugar",
+                    "3tbsp dashi broth",
+                    "3tbsp mirin"
+                ]
+            ],
+            "steps": [
+                "Take pork out of fridge and let it get close to room temperature.",
+
+                "Using the tip of the knife, cut 5 or 6 places in the fiber that forms the boundary between the meat and fat",
+
+                "Using hte base of the knife, lightly pound the meat. Salt and pepper both sides, and if the meat stretches, nudge it toward the former size",
+
+                "Prepare flour, beaten egg, and breadcrumbs",
+
+                "Cover the pork on both sides with flour, patting it in",
+
+                "Dip the pork in the beaten egg mixture, and then flip so that it gets totally covered",
+
+                "Coat a surface in the breadcrumbs, and place the pork on top of it. Then put breadcrumbs on top, push in with your hands, flip, and repeat several times. Then coat the sides with breadcrumbs as well, and let sit for a while",
+
+                "Pour about 3cm of oil in a frying pan, and when the temperature reaches 170C put both pork loins in",
+
+                "Don't touch until breading hardens. When 3 minutes have passed, flip and fry for 3 more minutes",
+
+                "Place the meat on it's side on a cooking rack so that the excess oil drains off",
+
+                "Let sit for two minutes to allow it to finish cooking then cut into bite-sized slices",
+
+                "Combine mixture in small saucepan, and put on low heat",
+
+                "Blend miso into mixture while stirring",
+
+                "Let come to a boil, and when it's been boiling for 3-4 minutes, and the bubbles start to get big, it's done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [null]
+        },
+
+        {
+            "name": "Homemade mapo tofu",
+            "volume": 8,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "1 (350g) block silken tofu",
+                    "100g ground pork",
+                    "3-4 (15g) green onions",
+                    "1 dried shiitake mushroom",
+                    "2tsp potato starch",
+                    "some garlic"
+                ],
+
+                [
+                    "10g Haccho miso",
+                    "10g miso you use usually use",
+                    "1/2tbsp sugar",
+                    "2tsp soy sauce",
+                    "1tbsp mirin"
+                ]
+            ],
+            "steps": [
+                "Put the dried shiitake in 200cc water and let erhydrate for 3 hours (conserve liquid)",
+
+                "Cut tofu into 2cm cubes, and onions into preferred size. Mince garlic and slice shiitaek into thin strips",
+
+                "Mix the Group A ingredients, blending miso well",
+
+                "Put 1L of water and a half tablespoon of salt into a pot, stir on medium heat, and boil the tofu. Once it comes to a boil, strain tofu to remove excess water",
+
+                "Put a small amount of cooking oil down in a frying pan, then spread out the pork in the pan and cook on medium. Don't mess with hte meat when it's in the pan too much just flip it when it turns color on top",
+
+                "Once the pork is browned, break it up with a spatula and add the minced garlic",
+
+                "Once you can smell the garlic, turn to low heat and add Group A ingredients and the shiitake, breaking up the meat further as you stir it in",
+
+                "Once the A ingreidents are thoroughly mixed with the meat, and the fat starts to appear in the pan, ad 150cc of the liquid you used to hydrate the shiitake. Once it's mixed in, add in the tofu",
+
+                "Turn to medium heat and let it come to a boil for 1-2 minutes. Add onions as well as the potato starch (mix it with water first!)",
+
+                "Mix and heat until it thickens, and you're done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Mix the potato starch with an equal volume of water. Put it in several small dashes, mixing immediately when you put it in."
+            ]
+        },
+
+
+
+
+
+        {
+            "name": "Milk Coffee Jelly",
+            "volume": 9,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                "300cc milk",
+                "40g granulated sugar",
+                "50cc cream",
+                "2tbsp instant coffee (decaf)",
+                "5g powdered gelatin",
+                "5g granulated sugar"
+            ],
+            "steps": [
+                "Dissolve the granulated gelatin in two tablespoons of water, and elt set for 10 minutes",
+
+                "In a small saucepan, place milk, instant coffee, and 40g of the sugar and heat over low heat. Stir until they dissolve, and remove from heat before the mixture boils",
+
+                "Mix Step 1 and Step 2 together well, and transfer to a bowl. Place base of bowl in ice water",
+
+                "Stir to chill, taking care not to create bubbles",
+
+                "When the mixture thickens, pour into serving cups and chill for at least 2 hours",
+
+                "Add 5g granulated sugar to the cream, then whip to desired thickness",
+
+                "When the gelatin sets, top it with Step 5 and it's done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [null]
+        },
+
+        {
+            "name": "Cheese and Spinach Cannelloni",
+            "volume": 9,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "8 sticks cannelloni (dried)",
+                    "30g onions",
+                    "1/2tbsp olive oil",
+                    "1/4 scant tsp salt",
+                    "a pinch of pepper",
+                    "200g spinach",
+                    "200 rictta cheese (cottage cheese works as a subsititute)",
+                    "40g parmigiano reggiano (powdered cheese works as a subsitute)"
+                ],
+
+                [
+                    "500cc cold milk",
+                    "30g butter",
+                    "30g weak flour",
+                    "1/4tsp salt",
+                    "a pinch of nutmet",
+                    "a pinch pepper"
+                ]
+            ],
+            "steps": [
+                "Boil the spinach in lightly salted water, then immerse in ice water",
+
+                "Finely mince both onions and well-squeezed Step 1. Take out Parmigiano Reggiano",
+
+                "Heat olive oil in a frying pan, then place onion in it. When the onion begins to color, add spinach and reduce heat to medium. Cook for 3 minutes to reduce moisture.",
+
+                "Remove from heat. Once the pan has cooled a bit, mix in ricotta cheese",
+
+                "Add 30g of Parmigiano Reggiano mixed with salt and pepper to Step 4",
+
+                "Boil cannelloni ain lightly salted water for three minutes. Once cooked, remove from water and place on a tray to cool",
+
+                "Make the bechamel sauce. Melt the butter in a frying pan, then turn off heat and add sifted flour",
+
+                "Mix Step 7 well, then place on low heat. Stir with a wooden spatula for a few minutes, then remove from heat when mixture thickens",
+
+                "Add all the milk to Step 8, and mix thoroughly. Place over low heat again. Stir with a spatula or whisk and cook until smooth",
+
+                "Add salt, pepper, and nutmeg to taste",
+
+                "Place Step 5 in an icing bag, and fill cannelloni from Step 6.",
+
+                "Fill a heat-resistant baking tray with half the bechamel sauce from Step 10. Arrange the cannelloni in it, then cover with remaining sauce",
+
+                "Place in oven preheated to 425°F and bake for 15 minutes, then it's done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [null]
+        },
+
+        {
+            "name": "Oyster Sauce Yakisoba (salted yakisoba)",
+            "volume": 9,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "2 balls (300g) steamed Chinese noodles",
+                    "140g bean sprouts",
+                    "30g scallions",
+                    "80g thinly sliced pork",
+                    "80g onions",
+                    "20g cloud ear mushrooms (rehydrated)"
+                ],
+
+                [
+                    "1.4tbsp oyster sauce",
+                    "1tbsp Shaoxing wine (sake is okay, too)",
+                    "1tbsp soy sauce",
+                    "1tsp sugar"
+                ],
+
+                [
+                    "2 balls (300g) steamed Chinese noodles",
+                    "140g bean sprouts",
+                    "30g scallions",
+                    "20g cloud ear mushrooms (rehydrated)",
+                    "80g thinly sliced pork",
+                    "80g onions",
+                    "8g dried shrimp",
+                    "3tbsp warm water"
+                ],
+
+                [
+                    "1.5 tbsp oyster sauce",
+                    "1tsp sugar",
+                    "1tbsp Shaoxing wine (sake is okay too)"
+                ]
+            ],
+            "steps": [
+                "Soak the cloud ear mushrooms in warm water for 20 minutes. Shred the mushrooms and the pork",
+
+                "Cut the onions in half, then lay them cut-side down and thiny slice. Slice the scallions into 1-2in lengths",
+
+                "Cut holes the chinese noodle packages and heat them in the microwave. Once they're warm, place the noodles in a bowl and toss thoroughly",
+
+                "Heat a small amount of cooking oil in a frying pan, then spread noodles evenly in pan. Without stirring, fry over medium ehat",
+
+                "Toss the pan occasionally to cook noodles evenly. When they begin to brown, turn noodles such that both sides are cooked",
+
+                "Set aswide cooked noodles. Heat a small amount of sesame oil in the frying pan and stir-fry pork over medium heat",
+
+                "Once the pork is cooked, add the onions. Once the onions soften, add the mushrooms, then the sprouts, and stir-fry",
+
+                "Add the noodles while the sprouts are still crisp. Add the mixture from Group A and stir to combine",
+
+                "Add the scallions over high heat and continue to stir. Continue mixing until the moisture cooks off, then you're done!",
+
+                "Soak the dried shrimp in warm water for 30 minutes, then remove. (the directions are the same as in the oyster sauce yakisoba. Mix the water from the shrimp with A, and add the shrimp in at Step 6 along with the pork!)"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Each side takes about 3 minutes!"
+            ]
+        },
+
+        {
+            "name": "Niku-Jaga",
+            "volume": 9,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                "200g thinly-sliced beef",
+                "1 large onion",
+                "3tbsp soy sauce",
+                "1.5tbsp sugar",
+                "5x5cm block of kombu",
+                "400g potatoes (May Queen)",
+                "150g Shirataki",
+                "3tbsp mirin",
+                "200cc water",
+                "1.5tbsp of sesame oil"
+            ],
+            "steps": [
+                "Cut the Shirataki into bite-sized lengths, then simmer for 3 minutes before straining",
+
+                "Peel the potatoes, then cut into 6-8 evenly-sized chunks and rinse. Halve the onion, then chop coarsely. Cut the beef into bite-sized pieces. Cover the kombu with the water",
+
+                "Heat the sesame oil in a pan. Add the rinsed potato and cook over medium heat. When the edges of the potato begin to turn translucent, add the onion",
+
+                "After cooking the onion and potatoes together for a short time, add the kombu and water",
+
+                "When Step 4 comes to a boil, add sugar and mirin. Cover and boil for about 3 minutes",
+
+                "Add soy sauce to Step 5, then add beef, arranging beef slices evenly so they don't overlap",
+
+                "Skim off any foam, then add the shirataki. Cover again. Cook for 10 minutes, stirring occasionally, then you're done!",
+
+                "Once cooked, let cool for flavors to marry. Keep stirring occasionally!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [null]
+        },
+
+        {
+            "name": "Fish Curry",
+            "volume": 9,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "2 fillets (150g) sea bass",
+                    "Paprika pepper (red)",
+                    "1 scant tsp garlic",
+                    "half an onion (150g)",
+                    "1/2 tomato",
+                    "1 scant tsp ginger"
+                ],
+
+                [
+                    "1/2tbsp lemon juice",
+                    "1/4tsp salt",
+                    "1/4tsp turmeric"
+                ],
+
+                [
+                    "1/2 cinnamon stick",
+                    "1/4 cayenne pepper (more if you want it spicier!)"
+                ],
+
+                [
+                    "1/2tbsp powdered coriander",
+                    "1/2tsp powdered cumin",
+                    "1/4tsp turmeric"
+                ],
+
+                [
+                    "100cc coconut milk",
+                    "50cc soup stock (cube or powdered)",
+                    "1/3tsp salt"
+                ]
+            ],
+            "steps": [
+                "Remove bones from sea bass fillets, and cut into bite-sized pieces",
+
+                "Mix ingredients in Group A, then toss with sea bass. Let sit for 30 minutes to 1 hour",
+
+                "Half onion, then slice into 1/4in strips. If the strips are long, halve them",
+
+                "Cut paprika lengthwise into thick strips. Remove skin from tomato with hot water and dice",
+
+                "Coat a frying pan with a tablespoon of cooking oil. Add Group B and cook over low heat",
+
+                "When the ingredients become fragrant, add the onion and increase heat to medium. When the onions soften, add paprika",
+
+                "Sauté, then add garlic and ginger. Once the garlic and ginger are fragrant, add Group C and sate over low heat",
+
+                "Add tomato to Step 7. Sate until tomato begins to break down, then add Group D and set heat to medium",
+
+                "When contents begin to boil, add sea bass in it's dressing",
+
+                "Simmer for 6-7 minutes, and you're done! (remember to remove the cinnamon stick and cayenne pepper!)"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [null]
+        },
+
+
+
+
+
+        {
+            "name": "Udon",
+            "volume": 10,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "400g flour (udon flour or medium-strength flour)",
+                    "16g salt",
+                    "Flour for dusting (same flour used for dough)",
+                    "Rolling pin 2-3cm diameter, 60-90cm long",
+                    "Vinyl sheet (can substitute with 10kg rice bag or tick garbage bag)"
+                ],
+
+                [
+                    "50cc soy sauce",
+                    "25cc mirin",
+                    "5g bonito flakes"
+                ]
+            ],
+            "steps": [
+                "Add the salt to the water. Stir until completely dissolved",
+
+                "Sieve the flour",
+
+                "Add Step 2 to Step 1 gradually and mix together, making sure all the flour is combined with the water.",
+
+                "Clump Step 3 together and cover in plastic wrap. Let sit for 10 minutes",
+
+                "Wrap Step 4 in the vinyl sheet. Knead by stepping on it every 4-5 minutes",
+
+                "Turn the dough over. Fold the left and right side inwards, folding it into three. Then fold the top and bottom, creating a square shape",
+
+                "Lay the dough back down on the vinyl sheet, folded side down. Step on it for 4-5 minutes. Repeat Step 6 and Step 7 again",
+
+                "Turn the dough over and fold the square into itself. Transfer the dough to a bowl. Roll the edges to the center, making the dough round",
+
+                "Seal the dough in a resealable bag. Let rest for 2-3 hours",
+
+                "Dust the top of the dough with flour. Push and stretch the dough while dusting with flour",
+
+                "Roll the dough with a rolling pin into 1cm thick circle. Continue to dust with an appropriate amount of flour for the following steps",
+
+                "Roll out the dough moving from the center to the edge",
+
+                "Roll out the dough in the same way on opposite corner, creating a diamond shape",
+
+                "Turn the dough 90 degrees and roll out one corner in the same way. Then turn the dough around and do the same to the final corner until the dough is a square",
+
+                "Wind the dough around the rolling pin from one corner",
+
+                "Roll the dough wrapped rolling pin while pushing down. Repeat this 7-8 times",
+
+                "Un-roll the dough",
+
+                "Follow Step 15 to Step 17 with the other three corners",
+
+                "Move the edge of the dough towards you and repeat Step 15 to Step 18. Roll out to a thickness of 3-4mm",
+
+                "Make sure the dough is an even thickness",
+
+                "Dust the dough with flour and wrap the dough around the rolling pin",
+
+                "Fold the dough back in on itself in a mountain on a chopping board",
+
+                "Dust with flour and cut into 3-5mm thick strips",
+
+                "Gather them in a bundle (about 15 strips) and strike them again the chopping board",
+
+                "Combine the soy sauce and mirin on the stove. Once it simmers lower the heat and add the bonito flakes",
+
+                "Simmer for 1 minute then turn off the heat. Let rest",
+
+                "Once the stock has cooled run the stock through a sieve. Squeeze the clumps through the sieve"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Dust with flour so the cut noodles don't stick together"
+            ]
+        },
+
+        {
+            "name": "Homemade mayonnaise / sesame mayo dressing / Japanese salad dressing / Japanese style green onion salad dressing",
+            "volume": 10,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "1 egg yolk",
+                    "1/2tsp salt",
+                    "1tbsp vinegar",
+                    "150cc salad oil"
+                ],
+
+                [
+                    "60-80g mayonnaise",
+                    "3tbsp sesame seeds",
+                    "2tbsp mirin",
+                    "1.5tsp soy sauce",
+                    "1tsp vinegar",
+                    "1/2tsp sesame oil"
+                ],
+
+                [
+                    "1tbsp soy sauce",
+                    "1/2tbsp vinegar",
+                    "1tbsp mirin",
+                    "1/2tbsp sesame oil"
+                ],
+
+                [
+                    "1/4 green onion",
+                    "1/2tsp salt"
+                ]
+            ],
+            "steps": [
+                "Mix the salt and the egg yolk",
+
+                "Add the vinegar to Step 1 and mix until the salt has completely dissolved",
+
+                "Mix Step 2 well while gradually adding the salad oil. Whisk until the mixture has emulsified and peaks form",
+
+                "Simmer the mirin until about half is left. Remove from heat and let cool",
+
+                "Crush the sesame seeds. Mix the seeds, Step 1, soy sauce, vinegar and sesame oil together",
+
+                "Add mayonnaise to Step 2 until desired consistently",
+
+                "Simmer the mirin then let cool",
+
+                "Combine all the ingredients together",
+
+                "Dice the green onion into tiny pieces, add salt and mix",
+
+                "Press Step 1 through a sieve until all the slime has been removed. Mix Step 2 well while gradually adding the salad oil. Whisk until the mixture has emulsified and peaks form. Rinse the sieve in some water, then dry.",
+
+                "Mix Step 2 to the Japanese Dressing",
+
+                "Season with (a tiny amount) of salt"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "You can also mix in (1 bulb of) Japanese ginger to the Japanese dressing!"
+            ]
+        },
+
+        {
+            "name": "Sukiyaki",
+            "volume": 10,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                "250g thin sliced beef",
+                "160g nappa cabbage",
+                "1 green onion",
+                "50g shungiku",
+                "4 shiitake mushrooms",
+                "1/2 package enoki mushrooms",
+                "1/2 package(100g) shirataki (konnyaku noodles)",
+                "150g fried tofu",
+                "2 eggs",
+                "2 small pieces yaki-fu (roasted gluten)",
+                "3.5tbsp sugar",
+                "2 1/3tbsp soy sauce"
+            ],
+            "steps": [
+                "Cut the shirataki into easily eaten sizes. Boil for 3 minutes and drain. Rehydrate the yaki-fu in water. Squeeze lightly to drain water. Cut fried tofu into 4 pieces and drain",
+
+                "Cut nappa cabbage length ways and hten slice into 3cm pieces. Cut green onion on the diagonal and remove large stem from the shungiku",
+
+                "Score an 'X' on the caps of the shiitake mushrooms. Separate the enoki mushrooms into little bunches",
+
+                "Fry about half the meat in a nabe pot with oil. Add 1tbsp of sugar and 2tbsp of soy sauce, then turn stir to mix",
+
+                "Put the nappa cabbage in an empty nabe pot. Then add the shiitake mushrooms, green onion, fried tofu, and shirataki mushroom one by one as they cook. Cover everything in 1.5tbsp of sugar and 1tbsp of soy sauce",
+
+                "Once the vegetables are cooked through add the remaining meat. Cover with 1tbsp of sugar and 2tbsp of soy sauce, then stir to mix",
+
+                "Add the enoki mushrooms, yaki-fu, and shungiku. Once it's all cooked dip it in some whisked egg and eat!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Dip the cooked meat in some whipped egg and enjoy.",
+                
+                "Cook everything on a medium to high heat. Turn the heat to low if it looks like it's about to burn!"
+            ]
+        },
+
+        {
+            "name": "Salmon roe with soy sauce / zuke-don (marinated tuna on rice)",
+            "volume": 10,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "200g raw salmon roe",
+                    "30cc sake",
+                    "40cc soy sauce",
+                    "30cc mirin"
+                ],
+
+                [
+                    "Sashimi: such as maguro (raw tuna), buri (japanese amberjack), tai (sea bream), ika (squid), salmon, etc",
+                    "Salmon roe",
+                    "Soy sauce",
+                    "sake",
+                    "mirin"
+                ]
+            ],
+            "steps": [
+                "Heat a pot of water in a pan. Turn off the heat when it reaches 50°C and put the salmon roe in",
+
+                "Open the skins with chopsticks and a spoon, exposing the bead of the row. Remove what you can and transfer the rest to a colander. Rinse them under cold water",
+
+                "Remove the large skins. The smaller skins will run off with the water. Repeat the washing process until all skins have been removed",
+
+                "Remove from colander and transfer roe to a plate that has been lined with kitchen paper towels. Put in the fridge for 30 minutes to remove any excess moisture",
+
+                "Boil the mirin and sake in a pan. Reduce the heat when it starts boiling. Leave for 1 minute to remove the alcohol",
+
+                "Once Step 4 has cooled, add the 40cc of soy sauce",
+
+                "Combine Step 4 and Step 6. Leave for 1 hour and you're done",
+
+                "Heat up the sake and mirin of the same ratio",
+
+                "Let 1 cool and add twice the amount of soy sauce",
+
+                "Lay the sashimi out on a tray and cover with Step 2. You don't need to fill the tray. Shake the tray, making sure everything is covered in sauce",
+
+                "Let sit in the fridge for 10 minutes",
+
+                "Fill a donburi bowl with rice and lay nori over the rice. Lay the marinated sashimi over and garnish with salmon roe"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "It's easier to sometimes to pick remaining skins out of the colander. The ksins will leave a pungent smell, so make sure you remove them all!"
+            ]
+        },
+
+        {
+            "name": "Oden",
+            "volume": 10,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "12cm daikon",
+                    "3 pieces Hidaka-kombu (each approx. 15cm)",
+                    "4 eggs",
+                    "2 pieces kirimochi (rectangular mochi)",
+                    "1 block konnyaku",
+                    "2 pieces aburaage (deep fried tofu)",
+                    "Anything else, like ganmodaki (fried tofu fritter)"
+                ],
+
+                [
+                    "2L water",
+                    "2tbsp usukuchi (thin) soy sauce",
+                    "1/2tbsp salt",
+                    "40g bonito flakes",
+                    "2tbsp mirin"
+                ],
+
+                [
+                    "200g firm tofu",
+                    "Pinch of salt",
+                    "15g japanese yam",
+                    "Black sesame - to taste"
+                ],
+
+                [
+                    "160g cod (deboned and skinned)",
+                    "2g salt",
+                    "8g sugar",
+                    "3cm lotus root"
+                ],
+
+                [
+                    "60g cod (deboned and skinned)",
+                    "100g shrimp (shelled)",
+                    "30g egg whites",
+                    "2g salt",
+                    "8g sugar"
+                ]
+            ],
+            "steps": [
+                "Soak the hidaka-kombu in water for 1 hour",
+
+                "Peel the daikons. Cut into 3cm length sections and lightly score an x with a kitchen knife. Boil the daikon in water until tender and easily pierced with a skewer and then transfer to cold water",
+
+                "Score both sides of the konnyaku, then boil in water. After boiling for 5 minutes, drain the konnyau and cut it into your desired shape",
+
+                "Take stock from Step 1 and put over medium heat. Just before boiling remove the kombu and add the bonito flakes. Remove from heat and let sit for 2 minutes. Strain broth with cheese cloth. Add soy sauce, mirin, and salt",
+
+                "Cut kombu strips into 3-4 equal sized pieces and then tie inot a knot",
+
+                "Soft boil the eggs and then remove the shells",
+
+                "Add the daikon, konnyaku, and kombu to the stock and return stock to the heat. When boiling drop to low heat and simmer for 20-30 minutes. If the daikon goes soft that's okay! Add the eggs and remove from heat",
+
+                "Cut the aburaage into two equal parts. Full pockets of aburaage with sliced mochi. Pin closed with a toothpick",
+
+                "Boil fried tofu fritter, fried fishcake, shrimp fritters and then drain",
+
+                "Add Step 8 and Step 9 to the broth and return to heat. After boiling add any remaining ingredients. Keep warm on low heat and enjoy!",
+
+                "Wrap tofu with a cloth. Weigh down and allow it to sit for at least 1 hour. Lightly squeeze tofu to drain excess water, and then mash with mortar and pestle",
+
+                "Shred the Japanese yam and add to the tofu. Add salt and black sesame and mix well",
+
+                "Split mixture into 4 parts and add to 170°C oil. Lower heat and fry for 4-5 minutes",
+
+                "Cut lotus root into 4 equal pieces and add to water",
+
+                "Mince the cod and blend with food processor",
+
+                "De-vein the shrimp. Dry with paper towel and then mince and blend with food processor",
+
+                "Add portion of cod for satsuma-age along with seasoning to mortar and mix well",
+
+                "Drain the lotus root. With oiled hands cover the lotus root with the mixture from Step 4",
+
+                "Add the remaining cod, the shrimp, egg whites, and seasoning for the ebi-shinjo to the mortar. Mix well",
+
+                "With oiled hands take the mixture from Step 6 and shape into 4 equal discs"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [null]
+        },
+
+
+
+
+
+        {
+            "name": "Omelet rice / ketchup",
+            "volume": 11,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "100g chicken thighs",
+                    "2-4 mushrooms",
+                    "4 eggs",
+                    "3tbsp ketchup",
+                    "1/2 onion (100g)",
+                    "260g cooked rice",
+                    "20g butter",
+                    "Pinch of salt"
+                ],
+
+                [
+                    "1 whole tomato (400g)",
+                    "2tbsp Sugar",
+                    "1/2 onion (400g)",
+                    "1tsp salt",
+                    "1/2tbsp vinegar"
+                ],
+
+                [
+                    "3g garlic (grated)",
+                    "3g ginger (grated)",
+                    "1 bay leaf",
+                    "1/4 - 1/5 stick cinnamon",
+                    "1 clove",
+                    "3 pepper corns",
+                    "1/4 chili pepper (seeds removed)"
+                ]
+            ],
+            "steps": [
+                "Cut the chicken into 1cm strips. Dice the onion adn slice the mushrooms",
+
+                "Melt 10g butter in a frying pan and frythe onion. Then add the chicken and as it turns white add the mushrooms. When the mushrooms start to soften sprinkle the salt and add the ketchup",
+
+                "Add rice to Step 2 and fry, mixing everything together well. Then serve on plates",
+
+                "Beat 2 eggs well (for 1 person). Melt 5g butter in pan and add beaten egg.",
+
+                "Stir egg from the edges towards teh center. When teh egg has set turn off the heat. The finished egg will still be soft on top",
+
+                "Move the pan to Step 3 and slide the omelet on top of the rice mixture using a rubber spatula",
+
+                "Roughly chop the onion, add to blender with tomato and paste",
+
+                "Heat Step 1 in a pan. Bring to boil then reduce temperature, stirring occasionally for 30 minutes. Add a mix and boil well",
+
+                "Sieve Step 2 and remove the spices",
+
+                "Return Step 3 to the pan. Add salt and sugar, simmer for 5 minutes. Mixture will thicken. When it turns glossy, add vinegar. Simmer on very low heat 1-2 minutes. Done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Ketchup brings out the fragrance and keep it moist!",
+
+                "Use high heat! Reommened 20cm frying pan"
+            ]
+        },
+
+        {
+            "name": "Chicken and cabbage",
+            "volume": 11,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "800g cabbage (1/4 of 1 large head)",
+                    "300g chicken thighs",
+                    "50cc sake"
+                ],
+
+                [
+                    "6g grated garlic",
+                    "2tbsp (30cc) soy sauce"
+                ]
+            ],
+            "steps": [
+                "Cut the cabbage into 3-4cm chunks. Separate the leaves from teh core. Cut the thicker parts in half. Remove moisture",
+
+                "Slice the chicken into 12 equal pieces",
+
+                "Lay the chicken skin side down in a pan and pour sake over the top. Add the cabbage core pieces, cover with a lid and cook",
+
+                "Cook over a high heat for 5 minutes. Stir once then add the remaining leaves",
+
+                "Cook for another five minutes and you're done! Cover in Group A and enjoy!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "During **Step 4** the chicken should turn white",
+
+                "Only using a little sauce exemplifies the umami. When simmering make sure it doesn't burn and lose all its moisture over the high heat!"
+            ]
+        },
+
+        {
+            "name": "Pizza / miso onion burdock pizza / vegetable garden pizza",
+            "volume": 11,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "190cc Warm water (30°C)",
+                    "3g dry yeast",
+                    "pinch of sugar",
+                    "1tbsp olive oil"
+                ],
+
+                [
+                    "150g flour",
+                    "150g strong flour"
+                ],
+
+                [
+                    "30cm (70) burdock",
+                    "20cm (60g) green onion",
+                    "100g mozzarella cheese",
+                    "6 beefsteak leaves",
+                    "1/2tbsp sesame oil"
+                ],
+
+                [
+                    "30g miso",
+                    "70cc mirin"
+                ],
+
+                [
+                    "1/2 zucchini",
+                    "1/4 bell pepper",
+                    "2 pinches salt",
+                    "1/2 eggplant",
+                    "1 cove of garlic",
+                    "100g mozzarella cheese"
+                ],
+
+                [
+                    "1/2 can diced tomatoes (200g)",
+                    "1/2tbsp olive oil",
+                    "1/tsp salt"
+                ]
+            ],
+            "steps": [
+                "Dissolve the sugar in 30cc of warm water, add yeast, leave for 15 minutes (to ferment)",
+
+                "Combine Group A in a large bowl. Dissolve the salt in the remaining water",
+
+                "Hollow out the center of the flour. Add Step 1, Step 2, and the olive oil. Gradually incorporate the flour in the bowl",
+
+                "Move the dough to a clean counter and knead",
+
+                "Knead for about 15 minutes, fold edges into center until the dough is a ball. Pinch it closed",
+
+                "Lightly grease a large bowl with olive oil. Place dough in bowl pinched side down. Leave for 1 to 1.5 hours in a warm place to rise",
+
+                "When the dough has risen to about twice the size, place on floured surface. Use hands to push out excess gas, then divide into 4 pieces",
+
+                "Fold the edges of each piece into the center and pinch closed. Place on a tray and cover in a damp cloth. Leave for 15 minutes",
+
+                "Once topppings are prepared place dough on floured surface. Push down with hands. Using rolling pin to roll out dough into 24cm base. Pizza base is done!",
+
+                "Slice the burdock into thin slices, add sesame oil and fry for 3-4 minutes. Slice onion into thin slices.",
+
+                "Combine Group A in small pan and simmer until everything is dissolved",
+
+                "Pre-heat an empty baking tray in oven at 250°C. Place a pizza base on a piece of baking paper. Sprinkle Step 2 on top, then arrange burdock and onion from Step 1 with the mozzarella cheese",
+
+                "Take the tray out of the oven and place the baking sheet with pizza on top. Bake at 250°C for 7 minutes. Remove from oven, add the leaves and serve!",
+
+                "Thinly slice al ingredients of Group A into 2-3mm strips. Combine ingredients for the tomato sauce. Pre-heat an empty baking tray in oven at 250°C",
+
+                "Place pizza base on baking sheet. Spread 2-3tbsp tomato sauce on top",
+
+                "Cover with finely chopped garlic, zucchini, eggplant, and pepper. Sprinkle vegetables with salt and mozzarella",
+
+                "Take the tray out of the oven and place the baking sheet with pizza on top. Bake at 250°C for 8-9 minutes. Then serve"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Try baking this pizza without the sauce!"
+            ]
+        },
+
+        {
+            "name": "Sesame short bread / boule de neige",
+            "volume": 11,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "75g flour",
+                    "50g butter"
+                ],
+
+                [
+                    "25g raw sugar",
+                    "10g white sesame"
+                ],
+
+                [
+                    "60g flour",
+                    "50g unsalted butter",
+                    "25g almond powder",
+                    "15g sugar"
+                ]
+            ],
+            "steps": [
+                "Let the butter come to room temperature",
+
+                "Sift the flour into a bowl and add the butter from Step 1. Cut and combine the flour and butter until it becomes similar to bread crumbs. Once combined add Group A",
+
+                "Fold and mix the dough until it becomes uniform. As it begins to take shape mold it into forms",
+
+                "Cover the top with cellophane and spread the dough, pushing down hard with a table spoon",
+
+                "Remove the cellophane, bake in pre-heated oven at 150°C for 40 minutes",
+
+                "Once baked, score with a knife and leave to cool. Enjoy once it's completely cooled",
+
+                "Bring butter to room temperature",
+
+                "Add Step 1 to bowl and cream with whisk. Add the sugar and whisk",
+
+                "Add the flour and almond powder. Use a rubber spatula to fold mixture together. Don't knead it!",
+
+                "Once the powder is all gone, carefully combine the crumbs together",
+
+                "Put Step 4 on to cellophane on a chopping board, then shape. Leave in fridge for 1-2 hours",
+
+                "Split Step 5 into 30 pieces and shape into balls",
+
+                "Bake Step 6 in 160°C for 20 minutes",
+
+                "Once baked, leave to cool (cooling rack). Sprinkle with sugar (5-10g) while warm. Leave to cool",
+
+                "When cool put in plastic bag and add more sugar (5g). Shake the bag to cover with sugar"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "It's okay if it falls apart a little at this point!"
+            ]
+        },
+
+        {
+            "name": "Spring vegetable rice / sea bream soup / steamed turnip sea bream",
+            "volume": 11,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "150g turnip leaves",
+                    "50g Japanes eparsley leaves",
+                    "1-1.5tsp salt",
+                    "2 cups uncooked rice"
+                ],
+
+                [
+                    "400g sea bream (no head or tail)",
+                    "Dash of sake",
+                    "1L water",
+                    "Some 5x5cm kombu",
+                    "Low sodium soy sauce to taste"
+                ],
+
+                [
+                    "2 sea bream fillets (200g)",
+                    "600g turnip",
+                    "1 egg white",
+                    "1/2tsp salt",
+                    "Pinch wasabi"
+                ],
+
+                [
+                    "200cc bonito stock",
+                    "2tsp low sodium soy sauce",
+                    "2tsp mirin",
+                    "2tsp potato starch (dissolved in 2tsp water)"
+                ]
+            ],
+            "steps": [
+                "Boil plenty of water in pan. Season with salt (not from ingredients). Remove the well washed turnip leaves from the stock, boil for 2 minutes. Rinse with plenty of cold water. Squeeze out water. Chop into 5mm.",
+
+                "Boil parsley for 10 seconds, rinse and cut the same way",
+
+                "Combine Step 1 and Step 2. Just before the rice is finished mix in the salt. Leave for 5 minutes for remaining moisture to evaporate",
+
+                "Mix Step 3 into the rice, and it's done! Adding sesame or dried whitebait is good too!",
+
+                "Put water into pan and add kombu",
+
+                "Rinse the sea bream and pat dry with paper towel. Lightly salt and leave to sit. Then broil on both sides",
+
+                "Add Step 2 and vinegar to Step 1, remove kombu before it boils. Remove scum after boiled, lower heat and simmer for 10 minutes",
+
+                "Remove the scum again. Add the soy sauce for taste!",
+
+                "Grate turnip, put the sieve. Use your hands to push the moisture out",
+
+                "Remove bones from sea bream, cut into 4. Sprinkle with salt and let sit.",
+
+                "Add egg white to Step 1 and mix well",
+
+                "Divide Step 2 into bowls for each person. Put Step 3 on top. Steam for 10 minutes",
+
+                "Put Group A into pan and simmer. Add potato starch and make into paste",
+
+                "Top Step 4 with Step 5 once steamed. Add wasabi and done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "Add seasonal fragrances! Parsley and ginseng in spring, bamboo shoots and wokame, etc..."
+            ]
+        },
+
+
+
+
+
+        {
+            "name": "Golden fried rice",
+            "volume": 12,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "200g rice",
+                    "2 eggs",
+                    "30g scallions",
+                    "50g (2-3 slices) thin-sliced pork loin"
+                ],
+
+                [
+                    "2 pinches salt",
+                    "dash of pepper"
+                ],
+
+                [
+                    "1tsp sugar",
+                    "1/2tbsp soy sauce",
+                    "1/2tbsp salad oil (note: lard tastes best)"
+                ]
+            ],
+            "steps": [
+                "Chop the white part off the scallions. Scramble the eggs. Heat the rice in the microwave (don't wrap it in anything)",
+
+                "Put eggs and rice in a bowl and mix them together, breaking up the rice",
+
+                "Make sure your ingredients and seasonings are ready, then put the salad oil in a large frying pan. Heat it over medium heat, adding the mixture from Step 2 once the frying pan is warm. Move pan back and forth occasionally, using wooden spatula to stir the rice.",
+
+                "About 90 seconds after adding the stuff from Step 2, reduce heat to low, and after about 90 more seconds, break the rice apart and add Group A. Add scallions and fry over medium heat. Finally, mix in soy sauce (less than 1tsp, not listed in ingredients) from a copper sauce pan. When rice is crumbly, put on a plate",
+
+                "Put just a dash of salad oil (beyond that listed in the ingredients) in the frying pan over medium heat. Put the pork loin in the pan along with Group B, flipping the meat over so it cooks on both sides. Put the meat on the fried rice and you're done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "This recipe uses a non-stick frying pan. Making one serving at a time is the key to quick and easy Golden fried Rice.",
+
+                "Use rice cooked a little on the hard side! Freshly-cooked rice will be too moist to use, so spread it out on a tray and dry it.",
+
+                "When cooking, be sure to keep the pan on the flame to maintain steady heat.",
+
+                "This recipe should take 4-5 minutes t o make from the time you put the eggs and rice in together"
+            ]
+        },
+
+        {
+            "name": "Chili-pepper miso / eggplant and green pepper stir fry",
+            "volume": 12,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "30g (6-10 peppers) chili peppers",
+                    "30g scallions",
+                    "3 green shiso leaves",
+                    "3 shiitake mushrooms"
+                ],
+
+                [
+                    "60g miso",
+                    "120cc mirin"
+                ],
+
+                [
+                    "3 eggplants (260-300g)",
+                    "40g grams scallions (about 10cm)",
+                    "2-3 green peppers"
+                ],
+
+                [
+                    "1tbsp sugar",
+                    "2tbsp each mirin and soy sauce",
+                    "1tbsp sesame oil"
+                ]
+            ],
+            "steps": [
+                "Finely chop the chili peppers (remove the seeds), the scallions, and the shiso leaves; thin-slice the mushrooms",
+
+                "Put the chili peppers and Group A in a pot on medium heat. When the miso gets runny, add the mushrooms and then the scallions, putting in the shiso once the liquid reduces. Mix together, turn off the heat, and you're done!",
+
+                "Cut the eggplants down the middle, then bias slice into pieces slightly less than 1cm thick. Slice the onions on the bias as well, and chop the green pepper into chunks",
+
+                "Put the sesame oil in a frying pan over medium heat. Put the eggplant pieces, peel side down, in the pan and cover. Tilt the pan occasionally to spread the oil around. After two minutes, remove the cover and stir briefly, then cover again",
+
+                "Remove the lid after 12 minute. Add the green peppers, fry for 1 minute, then add the scallions and fry a little more. Add Group A about the time all the liquid boiled away, you're done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [null]
+        },
+
+        {
+            "name": "Soy-preserved oysters / miso-stewed beef tendon",
+            "volume": 12,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "200-250g shelled oysters",
+                    "2-3 slices ginger (thin sliced)"
+                ],
+
+                [
+                    "75cc soy sauce",
+                    "125cc mirin",
+                    "200cc sake"
+                ],
+
+                [
+                    "500g beef tendon",
+                    "1 piece konnyaku (Devil's Tongue) jelly",
+                    "500g daikon radish"
+                ],
+
+                [
+                    "1 stalk green onion (green part only)",
+                    "2-3 pieces ginger (thinly sliced)"
+                ],
+
+                [
+                    "50g Hatcho miso",
+                    "40g awase miso",
+                    "200cc mirin",
+                    "1.5tbsp each sugar and soy sauce"
+                ],
+
+                [
+                    "Diced onions",
+                    "Shichimi spice to taste"
+                ]
+            ],
+            "steps": [
+                "Fill a bowl with 3% salt water and wash the oysters. Put in boiling water, then drain immediately. Once cooled, arrange on a tray by size",
+
+                "Put Group A in a pot and heat until reduced by about half, then add ginger",
+
+                "Put about half the oysters in the pot, starting with the biggest ones, and cook on medium heat for about 3 minutes. When thoroughly heated, drain over a bowl to catch the water from the pot",
+
+                "Cook the remaining oysters as in Step 3",
+
+                "Return the water you drained off to the pot and continue to cook it. When it gets to be less than about 150cc, turn off the heat and allow to cool",
+
+                "Put the cooked oysters in something you can close securely, pour the liquid from Step 5 over them, and refrigerate",
+
+                "Fill a pot with water and put in the beef tendon. Heat over high heat until boiling, then skim the broth and boil for five minutes",
+
+                "Discard the liquid from Step 1, then wash the beef tendon thoroughly and cut into bite-sized pieces",
+
+                "Put 1L of water into a pot, add the beef and Group A, and heat. When it boils, skim the broth, then cover and simmer for 90 minutes on low flame.",
+
+                "Use a spoon to break the konnyaku into pieces (as big or small as you like), then boil for five minutes and drain. Chop the daikon radish into 7-8mm slices",
+
+                "Remove the green onion from what you made in Step 3, then add what you made in Step 4, cover again, and continue to simmer on low flame for another 30 minutes",
+
+                "Add the entirety of Group B to the pot, remove the lid, and stew for 30 minutes to an hour on low heat. When the liquid is mostly gone and the whole thing has a springiness to it, it's ready to eat! Arrange on a plate and garnish with Group C"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "If the oysters get too hot, they'll toughen and become unpleasant to eat, so don't cook the small ones for quite as long",
+
+                "Make sure to skim it occasionally while simmering"
+            ]
+        },
+
+        {
+            "name": "Stewed pork cubes",
+            "volume": 12,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "600g pork belly (blocks)",
+                    "200g okara (soy pulp)"
+                ],
+
+                [
+                    "250cc each sake and water",
+                    "2tbsp sugar",
+                    "2-3 pieces of ginger (thin sliced)",
+                    "3tbsp soy sauce",
+                    "1tbsp mirin"
+                ]
+            ],
+            "steps": [
+                "Divide the pork into approximately eight pieces. Put 2.5L of water in a pot along with the pork and okara, and heat. When boiling, reduce to low heat and put on a drop lid, then allow to cook for two hours",
+
+                "Put water in a large bowl, then remove the pork from Step 1 and put it in the bowl, rinsing off any okara as you change over",
+
+                "Put the pork from Step 2 in a pot",
+
+                "Add Group A and heat. When it begins to stew, reduce to low flame and cover with a parchment paper lid. After about 10 minutes, add about half the soy sauce, adding the rest after another 10 minutes",
+
+                "Let cook for another 20 minutes, then turn off the heat and let cool. When cool, but in refrigerator overnight",
+
+                "Remove the pargment paper lid, then remove the pork, which should be solid on the surface",
+
+                "Put the pot over low heat, and add mirin when boiling. Let simmer for about fifteen minutes, and you're done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "To make sure the pork doesn't show above the liquid, use a pot that's noly just big enough."
+            ]
+        },
+
+        {
+            "name": "Fried shrimp / taru-taru sauce",
+            "volume": 12,
+            "number": null,
+            "servings": "null",
+            "ingredients": [
+                [
+                    "6 large shrimp (headless/in-shell)",
+                    "1 egg",
+                    "Wheat flour, Panko to taste",
+                    "Frying oil to taste"
+                ],
+
+                [
+                    "2 eggs",
+                    "40g scallions",
+                    "1/2tsp salt",
+                    "20g pickles",
+                    "1tbsp cut parsley"
+                ],
+
+                [
+                    "80g mayonnaise",
+                    "1tsp squeezed lemon juice"
+                ]
+            ],
+            "steps": [
+                "Deshell the shrimp, leaving the tails attached. Make ashallow cut down the center of the back to devein. Make a bowl of 3% saltwater and wash the shrimp, then rinse in running water and blot dry with a paper towel",
+
+                "Cut off the very ends of the tails then fan with a knife, removing water adn any dirt",
+
+                "Make 3-4 cuts on the belly of each shrimp, then straighten them out",
+
+                "Batter with the wheat flour, beaten egg, and panko in that order, then fry in oil at 170°C for about three minutes",
+
+                "Remove with a sieve that can be used in oil. Drain off any remaining oil, letting the residual heat finish the cooking. All done!",
+
+                "Boil water. Add salt (beyond that listed in the ingredient). Boil the egg for about 10 minutes",
+
+                "Dice the scallions and mix with the salt, then let sit. After a while, put the mixture in a cloth and work it with your hands. When you feel it start to congreal, rinse the entire thing in running water, continuing to work the scallions so as to rinse of the salt. Give it a good squeeze to get all the water out",
+
+                "Take the egg from Step 1, the pickles, and the parsley and chop them finely",
+
+                "Put everything from Step 2 and Step 3 in a bowl and add Group A. Add a pinch of salt and pepper (not specified in ingredients), and when you get it to taste, you're done!"
+            ],
+            "description": "null",
+            "favorite": false,
+            "emoji": null,
+            "tags": [null],
+            "points": [
+                "If you put in too many shrimp at once, the oil will cool. Don't add more than two-thirds of the amount of oil you have!",
+
+                "If you move the shrimp with your chopsticks immediately after putting it in the oil, the panko will come loose DOn't fiddle with it too much! Turn it over partway through, raise the temperature at the end, and aim for that nice crunch",
+
+                "Feel free to add chopped cabbage"
+            ]
+        }
+    ]
+}
