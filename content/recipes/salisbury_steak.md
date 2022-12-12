@@ -7,7 +7,7 @@ head:
           content: "food, cooking, recipes, baking"
 ---
 
-# Salisbury Steak"
+# Salisbury Steak
 #### 2-3
 
 ### ingredients": [
