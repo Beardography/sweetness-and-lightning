@@ -1,9 +1,6 @@
-        {
-            "name": "Omelet rice / ketchup",
-            "volume": 11,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Omelet rice / ketchup",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "100g chicken thighs",
                     "2-4 mushrooms",
@@ -33,7 +30,8 @@
                     "1/4 chili pepper (seeds removed)"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Cut the chicken into 1cm strips. Dice the onion adn slice the mushrooms",
 
                 "Melt 10g butter in a frying pan and frythe onion. Then add the chicken and as it turns white add the mushrooms. When the mushrooms start to soften sprinkle the salt and add the ketchup",
@@ -54,11 +52,8 @@
 
                 "Return Step 3 to the pan. Add salt and sugar, simmer for 5 minutes. Mixture will thicken. When it turns glossy, add vinegar. Simmer on very low heat 1-2 minutes. Done!"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+### "points": [
                 "Ketchup brings out the fragrance and keep it moist!",
 
                 "Use high heat! Reommened 20cm frying pan"

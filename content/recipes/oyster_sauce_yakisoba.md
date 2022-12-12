@@ -1,9 +1,6 @@
-        {
-            "name": "Oyster Sauce Yakisoba (salted yakisoba)",
-            "volume": 9,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Oyster Sauce Yakisoba (salted yakisoba)",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "2 balls (300g) steamed Chinese noodles",
                     "140g bean sprouts",
@@ -37,7 +34,8 @@
                     "1tbsp Shaoxing wine (sake is okay too)"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Soak the cloud ear mushrooms in warm water for 20 minutes. Shred the mushrooms and the pork",
 
                 "Cut the onions in half, then lay them cut-side down and thiny slice. Slice the scallions into 1-2in lengths",
@@ -58,11 +56,8 @@
 
                 "Soak the dried shrimp in warm water for 30 minutes, then remove. (the directions are the same as in the oyster sauce yakisoba. Mix the water from the shrimp with A, and add the shrimp in at Step 6 along with the pork!)"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+### "points": [
                 "Each side takes about 3 minutes!"
             ]
         },

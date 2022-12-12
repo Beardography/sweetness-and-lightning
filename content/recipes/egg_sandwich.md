@@ -1,9 +1,6 @@
-        {
-            "name": "Egg sandwhich (guacamole sandwich)",
-            "volume": 8,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Egg sandwhich (guacamole sandwich)",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "4 slices bread (from a loaf of bred with 10-12 slices)",
                     "2 eggs",
@@ -29,7 +26,8 @@
                     "1 tsp minced cilantro"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Warm butter to room temperature",
 
                 "Add salt (separate from that in ingredients) to some boiling water, then boil egg for 10 minutes and peel shell.",
@@ -67,10 +65,5 @@
                 "Butter the bread and then put the mixture between slices",
 
                 "Cut into desired size and you're done!"
-            ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [null]
+            ]
         },

@@ -1,9 +1,6 @@
-        {
-            "name": "Yeast Doughnuts",
-            "volume": 2,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Yeast Doughnuts",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "100 g each of weak flour and strong flour",
                     "4g dry yeast",
@@ -22,7 +19,8 @@
                     "Some vegetable oil"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Put Group A into a bowl and mix",
 
                 "Heat Group B by placing first bowl in a larger bowl filled with hot water. Warm until it's the temperature of your skin",
@@ -37,11 +35,8 @@
 
                 "Fry each side for a minute and a half in oil heated to 170-180°C"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+### "points": [
                 "Spread the doughwith your fingers. If it stretches out thin without tearing, it's ready!",
 
                 "Poke a hole in the dough with a finger. If the hole stays there after you take your finger out, the first rise is done!",

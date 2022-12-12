@@ -1,15 +1,13 @@
-        {
-            "name": "Corn Soup",
-            "volume": 6,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# Corn Soup",
+#### "servings": "null",
+### "ingredients": [
                 "1 cob of corn",
                 "1/4 tsp salt",
                 "400-500g water",
                 "some milk"
             ],
-            "steps": [
+         
+### "steps": [
                 "Cut the corn into two pieces, and then stand them up on the cutting board and shave off the kernels.",
 
                 "Put the kernels from Step 1 in the pot, along with the cob, and add the salt and water Put a lid on and cook for 20 minutes on low heat",
@@ -20,9 +18,4 @@
 
                 "Add some milk, then put in some salt and it's done!"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [null]
         },

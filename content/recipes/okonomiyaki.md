@@ -1,9 +1,6 @@
-        {
-            "name": "Okonomiyaki",
-            "volume": 4,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Okonomiyaki",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "some vegetable oil",
                     "some sauce, mayonnaise, katsuobushi, aonori, etc."
@@ -26,7 +23,8 @@
                     "Some sauce, mayonnaise, katsuobushi, aonori, etc."
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Make the stock, cool it, and add salt",
 
                 "Shift the weak flour into a bowl and mix in the ingredients from Step 1 slowly so it doesn't clump",
@@ -43,11 +41,9 @@
 
                 "Transfer to a plate and add the sauce and mayonnaise, katsuobushi, aonori, or other toppings, and it's done."
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+            
+### #"points": [
                 "Add whatever ingredients you want, like tempura flakes, pickled ginger, konnyaku, shiitake mushrooms, or cheese!",
 
                 "Mix the filling for each okonomiyaki just befoer you fry it. If oyu mix several at once, by the time you're done cooking, the moisture will be gone and it might not be good."

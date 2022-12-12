@@ -1,9 +1,6 @@
-        {
-            "name": "Fish Curry",
-            "volume": 9,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Fish Curry",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "2 fillets (150g) sea bass",
                     "Paprika pepper (red)",
@@ -36,7 +33,8 @@
                     "1/3tsp salt"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Remove bones from sea bass fillets, and cut into bite-sized pieces",
 
                 "Mix ingredients in Group A, then toss with sea bass. Let sit for 30 minutes to 1 hour",
@@ -57,9 +55,4 @@
 
                 "Simmer for 6-7 minutes, and you're done! (remember to remove the cinnamon stick and cayenne pepper!)"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [null]
         },

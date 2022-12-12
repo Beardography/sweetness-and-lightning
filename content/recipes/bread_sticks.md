@@ -1,9 +1,6 @@
-        {
-            "name": "Bread Sticks",
-            "volume": 6,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Bread Sticks",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "300g strong flour",
                     "20g butter",
@@ -16,7 +13,8 @@
                     "6g dry yeast"
                 ]
             ],
-            "steps": [
+    
+### "steps": [
                 "Run the strong flour through a sieve and then mix the ingredients from Group A, then add in water and stir. Warm the butter to room temperature.",
 
                 "Knead and mix the dough from Step 1 with our hands and bring it all together in a ball. When you can easily remove it from the bowl, move it to a surface that's been lightly dusted with flour",
@@ -39,11 +37,9 @@
 
                 "Cook on a charcoal grill. Once the bread is easily removed from the stick, it's done!"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+            
+### "points": [
                 "If the dough is thick, it won't cook right, so be careful!"
             ]
         },

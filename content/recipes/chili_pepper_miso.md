@@ -1,9 +1,6 @@
-        {
-            "name": "Chili-pepper miso / eggplant and green pepper stir fry",
-            "volume": 12,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Chili-pepper miso / eggplant and green pepper stir fry",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "30g (6-10 peppers) chili peppers",
                     "30g scallions",
@@ -28,7 +25,8 @@
                     "1tbsp sesame oil"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Finely chop the chili peppers (remove the seeds), the scallions, and the shiso leaves; thin-slice the mushrooms",
 
                 "Put the chili peppers and Group A in a pot on medium heat. When the miso gets runny, add the mushrooms and then the scallions, putting in the shiso once the liquid reduces. Mix together, turn off the heat, and you're done!",
@@ -39,9 +37,6 @@
 
                 "Remove the lid after 12 minute. Add the green peppers, fry for 1 minute, then add the scallions and fry a little more. Add Group A about the time all the liquid boiled away, you're done!"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [null]
+
+### "points": [null]
         },

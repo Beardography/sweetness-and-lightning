@@ -1,16 +1,14 @@
-        {
-            "name": "Onigiri",
-            "volume": 6,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Onigiri",
+#### "servings": "null",
+### "ingredients": [
                 "some rice",
                 "salt",
                 "seaweed",
                 "cooked salmon",
                 "dried plums"
             ],
-            "steps": [
+            
+### "steps": [
                 "Prepare a bowl of water, salt, a chawan (tea bowl)",
 
                 "Put the rice gently into the chawan. Wet both hands with water, and then put salt on the left palm.",
@@ -21,11 +19,9 @@
 
                 "Once it's formed into a triangle shape, wrap the seaweed around and you're done!"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+            
+### "points": [
                 "Use freshly cooked rice",
                 "Make the balls while it's as hot as possible",
                 "Don't use too much water",

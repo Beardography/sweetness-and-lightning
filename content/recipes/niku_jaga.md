@@ -1,9 +1,6 @@
-        {
-            "name": "Niku-Jaga",
-            "volume": 9,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Niku-Jaga",
+#### "servings": "null",
+### "ingredients": [
                 "200g thinly-sliced beef",
                 "1 large onion",
                 "3tbsp soy sauce",
@@ -15,7 +12,8 @@
                 "200cc water",
                 "1.5tbsp of sesame oil"
             ],
-            "steps": [
+
+### "steps": [
                 "Cut the Shirataki into bite-sized lengths, then simmer for 3 minutes before straining",
 
                 "Peel the potatoes, then cut into 6-8 evenly-sized chunks and rinse. Halve the onion, then chop coarsely. Cut the beef into bite-sized pieces. Cover the kombu with the water",
@@ -31,10 +29,5 @@
                 "Skim off any foam, then add the shirataki. Cover again. Cook for 10 minutes, stirring occasionally, then you're done!",
 
                 "Once cooked, let cool for flavors to marry. Keep stirring occasionally!"
-            ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [null]
+        ],
         },

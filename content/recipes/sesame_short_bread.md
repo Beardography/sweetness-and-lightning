@@ -1,9 +1,6 @@
-        {
-            "name": "Sesame short bread / boule de neige",
-            "volume": 11,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Sesame short bread / boule de neige",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "75g flour",
                     "50g butter"
@@ -21,7 +18,8 @@
                     "15g sugar"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Let the butter come to room temperature",
 
                 "Sift the flour into a bowl and add the butter from Step 1. Cut and combine the flour and butter until it becomes similar to bread crumbs. Once combined add Group A",
@@ -52,11 +50,8 @@
 
                 "When cool put in plastic bag and add more sugar (5g). Shake the bag to cover with sugar"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+### "points": [
                 "It's okay if it falls apart a little at this point!"
             ]
         },

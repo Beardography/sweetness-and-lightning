@@ -1,9 +1,6 @@
-        {
-            "name": "Fried shrimp / taru-taru sauce",
-            "volume": 12,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Fried shrimp / taru-taru sauce",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "6 large shrimp (headless/in-shell)",
                     "1 egg",
@@ -24,7 +21,8 @@
                     "1tsp squeezed lemon juice"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Deshell the shrimp, leaving the tails attached. Make ashallow cut down the center of the back to devein. Make a bowl of 3% saltwater and wash the shrimp, then rinse in running water and blot dry with a paper towel",
 
                 "Cut off the very ends of the tails then fan with a knife, removing water adn any dirt",
@@ -43,11 +41,8 @@
 
                 "Put everything from Step 2 and Step 3 in a bowl and add Group A. Add a pinch of salt and pepper (not specified in ingredients), and when you get it to taste, you're done!"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+### "points": [
                 "If you put in too many shrimp at once, the oil will cool. Don't add more than two-thirds of the amount of oil you have!",
 
                 "If you move the shrimp with your chopsticks immediately after putting it in the oil, the panko will come loose DOn't fiddle with it too much! Turn it over partway through, raise the temperature at the end, and aim for that nice crunch",

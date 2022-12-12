@@ -1,9 +1,6 @@
-        {
-            "name": "Tonkatsu / Miso Sauce",
-            "volume": 8,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Tonkatsu / Miso Sauce",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "2 (2cm thick) pieces of pork loin",
                     "1 egg",
@@ -20,7 +17,8 @@
                     "3tbsp mirin"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Take pork out of fridge and let it get close to room temperature.",
 
                 "Using the tip of the knife, cut 5 or 6 places in the fiber that forms the boundary between the meat and fat",
@@ -48,10 +46,5 @@
                 "Blend miso into mixture while stirring",
 
                 "Let come to a boil, and when it's been boiling for 3-4 minutes, and the bubbles start to get big, it's done!"
-            ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [null]
+        ],
         },

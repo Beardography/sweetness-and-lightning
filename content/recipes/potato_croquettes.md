@@ -1,9 +1,6 @@
-        {
-            "name": "Potato Croquettes",
-            "volume": 5,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Potato Croquettes",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "2 large potatoes (240g)",
                     "1/4 onion",
@@ -29,7 +26,8 @@
                     "vegetable oil"
                 ]
             ],
-            "steps": [
+            
+### "steps": [
                 "Mince the onion. Add oil to the frying pan and sate onion. Once the onion becomes translucent, add the meat and salt.",
 
                 "Peel the potatoes and cut into quarters, then boil them in cold water. Once they're boiled, strain them and put them back in an empty pot. Put the pot on low heat and mash them with a potato masher as you allow the moisture to evaporate.",
@@ -50,11 +48,9 @@
 
                 "Just like you did with the potato croquettes, add the coating in the following order: flour → egg → panko breadcrumbs, and fry"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+           
+### "points": [
                 "The filling has already been cooked, so once the coating turns golden brown like a fox's coat, you're done."
             ]
         },

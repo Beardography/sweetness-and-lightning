@@ -1,9 +1,6 @@
-        {
-            "name": "Omochi",
-            "volume": 5,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# Omochi",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "100g azuki beans",
                     "100g sugar",
@@ -34,7 +31,8 @@
                     "3 pieces square mochi"
                 ]
             ],
-            "steps": [
+          
+### "steps": [
             "Wash the azuki beans and put them in a pot with a lot of water. Boil on high heat. When the water boils, remove the pot from the stove and strain the beans.",
 
             "As in Step 1, return the beans to the pot with fresh cold water, bring the pot to a boil again, then strain. Repeat once more.",
@@ -53,11 +51,9 @@
 
             "Crush the walnuts with a mortar and pestle. Add the miso and the ingredients from Step 1, then mix again. Add sauce on top of boiled square mochi, and you're done."
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+            
+### "points": [
                 "The beans will take about an hour to soften.",
 
                 "The mochi will not melt if you use cold water to boil it."

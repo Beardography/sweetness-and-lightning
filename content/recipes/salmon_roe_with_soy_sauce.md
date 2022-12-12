@@ -1,9 +1,6 @@
-        {
-            "name": "Salmon roe with soy sauce / zuke-don (marinated tuna on rice)",
-            "volume": 10,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Salmon roe with soy sauce / zuke-don (marinated tuna on rice)",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "200g raw salmon roe",
                     "30cc sake",
@@ -19,7 +16,8 @@
                     "mirin"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Heat a pot of water in a pan. Turn off the heat when it reaches 50°C and put the salmon roe in",
 
                 "Open the skins with chopsticks and a spoon, exposing the bead of the row. Remove what you can and transfer the rest to a colander. Rinse them under cold water",
@@ -44,11 +42,8 @@
 
                 "Fill a donburi bowl with rice and lay nori over the rice. Lay the marinated sashimi over and garnish with salmon roe"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+### "points": [
                 "It's easier to sometimes to pick remaining skins out of the colander. The ksins will leave a pungent smell, so make sure you remove them all!"
             ]
         },

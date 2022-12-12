@@ -1,9 +1,7 @@
-        {
-            "name": "Shougayaki (ginger-fried pork)",
-            "volume": 4,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# Shougayaki (ginger-fried pork)",
+
+#### "servings": "null",
+### "ingredients": [
                 [
                     "1 onion",
                     "3 cabbage leaves",
@@ -22,7 +20,8 @@
                     "pinch of grated ginger"
                 ]
             ],
-            "steps": [
+            
+### "steps": [
                 "Chop the onion into thin slices. Mix Group A thoroughly",
 
                 "Shred the cabbage and soak in ice water for several minutes to make it crisp. Drain.",
@@ -35,11 +34,9 @@
 
                 "Put the cabbage from Step 2 onto a plate, arrange the onions from Step 3 in front, and place the pork on top. Add the side vegetables."
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+
+### "points": [
                 "Lets try shredding! Remove the core. Fold leaves over and roll up. Press down lightly and start shredding from the side while you remove the core"
             ]
         },

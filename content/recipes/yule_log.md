@@ -1,9 +1,6 @@
-        {
-            "name": "Yule Log",
-            "volume": 7,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Yule Log",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "100g granulated sugar",
                     "30cc milk",
@@ -33,7 +30,8 @@
                     "30g baking chocolate"
                 ]
             ],
-            "steps": [
+         
+### "steps": [
                 "Peel apple and chop finely. Put the apple in the Group A ingredients into a pot, and cook for 30 minutes on low with the lid on",
 
                 "Cut off four corners of the baking sheet and fold into an open box shape, then place it into a baking sheet as in the picture above. Warm the oven",
@@ -62,9 +60,3 @@
 
                 "Cover the surface with the mixture from Step 12 and use a fork to draw a design. Strain some cocoa powder on it and add some edible silver beads, and you're done!"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [null]
-        },

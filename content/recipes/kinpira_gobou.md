@@ -1,9 +1,6 @@
-        {
-            "name": "Kinpira Gobou",
-            "volume": 4,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# Kinpira Gobou",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "40g carrot (you'll use 3-4cm of the thickest part of the carrot)",
                     "160g burdock root",
@@ -16,7 +13,8 @@
                     "3 tbsp each of mirin, sake"
                 ]
             ],
-            "steps": [
+    
+### "steps": [
                 "Peel the carrot and slice off about 1cm from each side to make square edges...Slice thinly into pieces about the same size as you will cut the burdock root.",
 
                 "Wash the dirt off the burdock root and scrub lightly with a scrub brush.",
@@ -25,11 +23,9 @@
 
                 "Boil it down for 4-5 minutes until the liquid is gone, then add roasted sesame seeds and you're done"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+
+### "points": [
                 "A lot of the flavor of the burdock root is in its skin, so don't scrub htat part off.",
 
                 "Don't soak it in water because you'll lose the scent and flavor. Be ready to fry as soon as you cut it!"

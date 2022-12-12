@@ -1,9 +1,6 @@
-        {
-            "name": "Mackerel-Pike Stewed in Tomatoes",
-            "volume": 6,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Mackerel-Pike Stewed in Tomatoes",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "2 mackerel pike",
                     "1/2 onion1 can (400g) tomatoes",
@@ -30,7 +27,8 @@
                     "1 tbsp sugar"
                 ]
             ],
-            "steps": [
+            
+### "steps": [
                 "Fillet the pike. Remove the ara (the head and bones), and cut the meat into three equal pieces. Mince the onions.",
 
                 "Put the head and bones into a small pot. Put in enough water to thoroughly cover them and cook on high until they boil.",
@@ -55,11 +53,8 @@
 
                 "Once it's started to boil for a bit, it's done!"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+### "points": [
                 "Remove the gills on the head and split it into two pieces. Cut the backbone around the center. Wash both thoroughlyto remove the blood. Use the rib bones that you scraped off, too."
             ]
         },

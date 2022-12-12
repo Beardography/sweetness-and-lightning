@@ -1,50 +1,37 @@
-        {
-            "name": "Homemade Dry Curry",
-            "volume": 3,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
-                [
-                    "400g ground pork"
-                ],
+# "Homemade Dry Curry",
+#### servings": "null",
+### "ingredients"
+- "400g ground pork"
 
-                [
-                    "2 onions",
-                    "1 carrot (small)",
-                    "1 stick of celery (small)",
-                    "2 Japanese eggplants",
-                    "2-3 green bell peppers"
-                ],
+- "2 onions",
+- "1 carrot (small)",
+- "1 stick of celery (small)",
+- "2 Japanese eggplants",
+- "2-3 green bell peppers"
 
-                [
-                    "1 thumb ginger",
-                    "1 clove garlic",
-                    "1 bouillion cube",
-                    "2tbsp vegetable oil",
-                    "2-3 tsp curry powder",
-                    "1 1/2 tsp salt",
-                    "200g diced tomatoes (half a can)",
-                    "1/2 apple (grated)",
-                    "40g raisins",
-                    "2-3 tsp garam masala"
-                ]
-            ],
-            "steps": [
-                "Cut Group A ingredients into 5mm cubes. Dissolved boullion cube in a 300cc of boiling water to make broth. Mince Group B ingredients.",
+_ "1 thumb ginger",
+_ "1 clove garlic",
+_ "1 bouillion cube",
+_ "2tbsp vegetable oil",
+_ "2-3 tsp curry powder",
+_ "1 1/2 tsp salt",
+_ "200g diced tomatoes (half a can)",
+_ "1/2 apple (grated)",
+_ "40g raisins",
+_ "2-3 tsp garam masala"
 
-                "Heat the vegetable oil in a pot, then fry the garlic and ginger. Once it starts to smell good, add the onions and fry them. When they turn clear, add the carrot, celery, and eggplant in that order and continue to cook.",
+            
+### "steps":
+1. "Cut Group A ingredients into 5mm cubes. Dissolved boullion cube in a 300cc of boiling water to make broth. Mince Group B ingredients.",
 
-                "Add the ground pork to the pot, and once it's browned, add the curry powder and salt.",
+2. "Heat the vegetable oil in a pot, then fry the garlic and ginger. Once it starts to smell good, add the onions and fry them. When they turn clear, add the carrot, celery, and eggplant in that order and continue to cook.",
 
-                "Add the diced tomatoes, and once the mixture starts to boil, add the grated apple, then the raisins, green bell pepper, and the broth from Step 1. Cook over medium-high heat and just over 10 minutes to boil the curry down.",
+3. "Add the ground pork to the pot, and once it's browned, add the curry powder and salt.",
 
-                "Take some curry out and serve to any children. Taste the rest, and if there's not enough salt, add the taste. Add in enough garam masala for your preferred level of spiciness"
-            ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
-                "Once the liquid has evaporated, it's done!"
-            ]
-        },
+4. "Add the diced tomatoes, and once the mixture starts to boil, add the grated apple, then the raisins, green bell pepper, and the broth from Step 1. Cook over medium-high heat and just over 10 minutes to boil the curry down.",
+
+5. "Take some curry out and serve to any children. Taste the rest, and if there's not enough salt, add the taste. Add in enough garam masala for your preferred level of spiciness"
+
+
+### "points":
+- "Once the liquid has evaporated, it's done!"

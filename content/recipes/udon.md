@@ -1,9 +1,6 @@
-        {
-            "name": "Udon",
-            "volume": 10,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Udon",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "400g flour (udon flour or medium-strength flour)",
                     "16g salt",
@@ -18,7 +15,8 @@
                     "5g bonito flakes"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Add the salt to the water. Stir until completely dissolved",
 
                 "Sieve the flour",
@@ -73,11 +71,8 @@
 
                 "Once the stock has cooled run the stock through a sieve. Squeeze the clumps through the sieve"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+### "points": [
                 "Dust with flour so the cut noodles don't stick together"
             ]
         },

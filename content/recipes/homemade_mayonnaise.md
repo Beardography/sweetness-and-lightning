@@ -1,9 +1,6 @@
-        {
-            "name": "Homemade mayonnaise / sesame mayo dressing / Japanese salad dressing / Japanese style green onion salad dressing",
-            "volume": 10,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Homemade mayonnaise / sesame mayo dressing / Japanese salad dressing / Japanese style green onion salad dressing",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "1 egg yolk",
                     "1/2tsp salt",
@@ -32,7 +29,8 @@
                     "1/2tsp salt"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Mix the salt and the egg yolk",
 
                 "Add the vinegar to Step 1 and mix until the salt has completely dissolved",
@@ -57,11 +55,8 @@
 
                 "Season with (a tiny amount) of salt"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+### "points": [
                 "You can also mix in (1 bulb of) Japanese ginger to the Japanese dressing!"
             ]
         },

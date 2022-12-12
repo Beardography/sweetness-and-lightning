@@ -1,9 +1,7 @@
-        {
-            "name": "Beef Stew",
-            "volume": 4,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# Beef Stew",
+
+#### "servings": "null",
+### "ingredients": [
                 [
                     "1 1/2 onions",
                     "1 carrot",
@@ -32,7 +30,8 @@
                     "1/2 tbsp vegetable oil"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Mince 1/2 of an onion and 1/4 of the carrot. Thinly slice the garlic. Cut the beef into 8 or 9 even portions and season with salt and pepper.",
 
                 "Heat Group A ingredients in a frying pan and add the beef from Step 1. Sear the meat on high heat. Once all sides are browned, take it out and transfer to a pressure coker",
@@ -49,11 +48,8 @@
 
                 "Add ingredients from Step 7 to the pressure cooker from Step 5 and boil for 20-30 minutes. Season to taste and...done!"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+### points": [
                 "Once the stew thickens up, the bottom of the pressure cooker has a tendency to burn, so stir with a spatula once in a while. Also, note that the meat will fall apart easily!"
             ]
         },

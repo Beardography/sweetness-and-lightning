@@ -1,9 +1,6 @@
-        {
-            "name": "Milk Coffee Jelly",
-            "volume": 9,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Milk Coffee Jelly",
+#### "servings": "null",
+### "ingredients": [
                 "300cc milk",
                 "40g granulated sugar",
                 "50cc cream",
@@ -11,7 +8,8 @@
                 "5g powdered gelatin",
                 "5g granulated sugar"
             ],
-            "steps": [
+
+### "steps": [
                 "Dissolve the granulated gelatin in two tablespoons of water, and elt set for 10 minutes",
 
                 "In a small saucepan, place milk, instant coffee, and 40g of the sugar and heat over low heat. Stir until they dissolve, and remove from heat before the mixture boils",
@@ -25,10 +23,5 @@
                 "Add 5g granulated sugar to the cream, then whip to desired thickness",
 
                 "When the gelatin sets, top it with Step 5 and it's done!"
-            ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [null]
+        ],
         },

@@ -1,9 +1,6 @@
-        {
-            "name": "Takenoko Shumai (Shiitake Shumai)",
-            "volume": 7,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Takenoko Shumai (Shiitake Shumai)",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "300g group pork",
                     "2/3 onion (140g)",
@@ -35,7 +32,8 @@
                     "1tbsp sesame oil"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Mince onion and dust with potato starch. Roughly chop takenoko",
 
                 "Put the pork and kaibashira (along with the liquid from the can) into a bowl and mix. Add the ingredients from Group A and mix with your hands until the whole thing starts to turn white",
@@ -62,9 +60,5 @@
 
                 "Make a circle with the index finger and thumb of your left hand, and use the spatula to push the crust and filling into it. Put your ring finger up against the bottom of the shumai, and then spin it within the circle to form it into a shape"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [null]
+
         },

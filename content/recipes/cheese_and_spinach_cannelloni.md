@@ -1,9 +1,6 @@
-        {
-            "name": "Cheese and Spinach Cannelloni",
-            "volume": 9,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Cheese and Spinach Cannelloni",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "8 sticks cannelloni (dried)",
                     "30g onions",
@@ -24,7 +21,8 @@
                     "a pinch pepper"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Boil the spinach in lightly salted water, then immerse in ice water",
 
                 "Finely mince both onions and well-squeezed Step 1. Take out Parmigiano Reggiano",
@@ -51,9 +49,5 @@
 
                 "Place in oven preheated to 425°F and bake for 15 minutes, then it's done!"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [null]
+
         },

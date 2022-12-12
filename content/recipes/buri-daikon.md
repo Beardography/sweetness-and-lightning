@@ -1,9 +1,6 @@
-        {
-            "name": "Buri-Daikon",
-            "volume": 5,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# Buri-Daikon",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "Buri Ara (yellowtail head and other leavings) 4-500g",
                     "600g daikon",
@@ -35,7 +32,8 @@
                     "1 tbsp soy sauce"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Chop the daikon radish in 2.5-3cm slices and cut into quarters. Boil for 15 minutes, then place in cold water.",
 
                 "Chop up the buri ara, place in a bowl, and add hot water. Once the surface of the fish turns white, place in cold water, and remove the scales and the dark meat.",
@@ -52,11 +50,9 @@
 
                 "Mix the mirin from Step 2 with the ingredients from Group A, then pour over the other ingredients, allow to marinate, and you're done."
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [
+
+
+### "points": [
                 "If they're slightly hard when you poke them with a toothpick, they're okay!",
 
                 "Stir the liquid occasionally to make it easier for the flavor to blend."

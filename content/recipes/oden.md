@@ -1,9 +1,6 @@
-        {
-            "name": "Oden",
-            "volume": 10,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Oden",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "12cm daikon",
                     "3 pieces Hidaka-kombu (each approx. 15cm)",
@@ -44,7 +41,8 @@
                     "8g sugar"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Soak the hidaka-kombu in water for 1 hour",
 
                 "Peel the daikons. Cut into 3cm length sections and lightly score an x with a kitchen knife. Boil the daikon in water until tender and easily pierced with a skewer and then transfer to cold water",
@@ -85,9 +83,4 @@
 
                 "With oiled hands take the mixture from Step 6 and shape into 4 equal discs"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [null]
         },

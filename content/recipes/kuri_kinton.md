@@ -1,9 +1,6 @@
-        {
-            "name": "Kuri Kinton",
-            "volume": 7,
-            "number": null,
-            "servings": "null",
-            "ingredients": [
+# "Kuri Kinton",
+#### "servings": "null",
+### "ingredients": [
                 [
                     "400g (net weight) peeled sweet potatoes",
                     "14 or so chestnuts boiled in simple syrup",
@@ -16,7 +13,8 @@
                     "2tbsp mirin"
                 ]
             ],
-            "steps": [
+
+### "steps": [
                 "Peel sweet potatoes, making sure to remove all the skin, then cut into 15cm thick pieces. Soak in water overnight",
 
                 "Change out the water and boil. Once it boils yudekobosu the water",
@@ -31,9 +29,4 @@
 
                 "Add salt, and when the chestnuts have warmed, move to a baking dish and let cool"
             ],
-            "description": "null",
-            "favorite": false,
-            "emoji": null,
-            "tags": [null],
-            "points": [null]
         },
