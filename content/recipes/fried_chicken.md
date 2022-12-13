@@ -1,4 +1,4 @@
-# Fried Chicken",
+# Fried Chicken
 #### servings
 ### ingredients
 - "300g chicken (thighs)",
@@ -16,7 +16,7 @@
 - "1 tbsp mirin"
 
 
-### "steps": 
+### steps
 1. "Cut chicken into bite-sized chunks and soak in cold water for 10 minutes.",
 
 2. "Take the chicken out of the water and gently pat dry. Mix the ingredients listed in Group A and marinate chicken for 10 minutes.",
@@ -28,5 +28,5 @@
 5. "Pour Step 4 evenly over Step 3."
             ],
 
-### "points": 
+### points
 - "Pour the sauce on while the chicken is hot!"

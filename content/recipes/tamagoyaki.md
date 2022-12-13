@@ -1,6 +1,6 @@
-# "Tamagoyaki (for boxed lunches)",
-#### "servings": "null",
-### "ingredients"
+# Tamagoyaki (for boxed lunches)
+#### servings: null
+### ingredients
 - "3 eggs",
 - "50cc dashi",
 - "1 1/2 tbsp sugar",
@@ -8,7 +8,7 @@
 - "Pinch of salt",
 - "Some vegetable oil"
     
-### "steps": 
+### steps
 1. "Dissolve the sugar in the dashi while the latter is still warm. Add the soy sauce and salt",
 
 2. "Crack the eggs into a bowl and stir gently with cooking chopsticks without letting them foam. Add the ingredients from Step 1 and stir again.",
@@ -24,7 +24,7 @@
 7. "Leave it alone for a while to let it solidify, then take it out of the makisu and slice as preferred. It's done!"
 
          
-### "points": [
+### points
 - "If you add the sugar all at once, it's easy to burn, so it's okay to start with just a little.",
 
 - "Beat in a straight line back and forth without lifting the tips of the chopsticks from the bottom of the bowl. When you're done, hte egg white should still be visible. Take care not to mix too much",

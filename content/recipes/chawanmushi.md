@@ -1,6 +1,6 @@
-# "Chawanmushi",
-#### "servings"
-### ingredients"
+# Chawanmushi
+#### servings
+### ingredients
 - "1L Water",
 - "40 g katsuobushi",
 - "10 cm sq piece konbu"
@@ -15,7 +15,7 @@
 - "(you can add wahtever else you want. Shrimp, chicken, shiitake mushrooms, lily bulbs, gingko nuts, etc.)"
 
 
-### "steps": [
+### steps
 1. "Put the water and konbu into a stockpot on medium heat, and take out the konbu just before it boils.",
 
 2. "Add the katsuobushi to the pot. Once the katsuobushi starts to sink, turn off the heat and remove scum from the stock's surface. Once the katsuobushi completely sinks, strain it gently. (If you squeeze the katsuobushi while straining the dashi won't taste right, so be careful!)",
@@ -28,7 +28,7 @@
 
 6. "After the cups steam for 15-20 minutes, remove and place mitsuba on the egg surface. Reseal with aluminum foil and let steam a little longer."
 
-### "points
+### points
 - "You can add wahtever else you want: shrimp, chicken, shiitake mushrooms, lily bubs, gingko nuts, etc.",
 
 - "If you squeeze the **katsuobushi** while straining, the dashi wno't taste right, so be careful!"

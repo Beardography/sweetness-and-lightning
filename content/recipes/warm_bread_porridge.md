@@ -1,6 +1,6 @@
-# "Warm Bread Porridge",
-#### "servings": "null",
-### ingredients":
+# Warm Bread Porridge
+#### servings: null
+### ingredients
 - "1/2 slice of bread (from a six-slice loaf) cut into 1cm cubes",
 - "Crusts on 20-130cc milk"
 
@@ -14,7 +14,7 @@
 - "Roasted soy flour",
 - "Maple syrup (to taste)"
 
-### "steps": 
+### steps
 1. "Cut onion into thick slices, cover loosely with plastic wrap, and microwave for 2 minutes",
 
 2. "Cut bacon into 1cm wide pieces, cut in a pot without adding any oil. Once the color's changed and hte bacon fat starts to run, add onions from Step 1.",

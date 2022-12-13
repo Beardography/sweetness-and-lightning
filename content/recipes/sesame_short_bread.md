@@ -1,57 +1,47 @@
-# "Sesame short bread / boule de neige",
-#### "servings": "null",
-### "ingredients": [
-                [
-                    "75g flour",
-                    "50g butter"
-                ],
+# Sesame short bread / boule de neige
+#### servings: null
+### ingredients
+- "75g flour",
+- "50g butter"
 
-                [
-                    "25g raw sugar",
-                    "10g white sesame"
-                ],
+- "25g raw sugar",
+- "10g white sesame"
 
-                [
-                    "60g flour",
-                    "50g unsalted butter",
-                    "25g almond powder",
-                    "15g sugar"
-                ]
-            ],
+- "60g flour",
+- "50g unsalted butter",
+- "25g almond powder",
+- "15g sugar"
 
-### "steps": [
-                "Let the butter come to room temperature",
+### steps
+1. "Let the butter come to room temperature",
 
-                "Sift the flour into a bowl and add the butter from Step 1. Cut and combine the flour and butter until it becomes similar to bread crumbs. Once combined add Group A",
+2. "Sift the flour into a bowl and add the butter from Step 1. Cut and combine the flour and butter until it becomes similar to bread crumbs. Once combined add Group A",
 
-                "Fold and mix the dough until it becomes uniform. As it begins to take shape mold it into forms",
+3. "Fold and mix the dough until it becomes uniform. As it begins to take shape mold it into forms",
 
-                "Cover the top with cellophane and spread the dough, pushing down hard with a table spoon",
+4. "Cover the top with cellophane and spread the dough, pushing down hard with a table spoon",
 
-                "Remove the cellophane, bake in pre-heated oven at 150°C for 40 minutes",
+5. "Remove the cellophane, bake in pre-heated oven at 150°C for 40 minutes",
 
-                "Once baked, score with a knife and leave to cool. Enjoy once it's completely cooled",
+6. "Once baked, score with a knife and leave to cool. Enjoy once it's completely cooled",
 
-                "Bring butter to room temperature",
+7. "Bring butter to room temperature",
 
-                "Add Step 1 to bowl and cream with whisk. Add the sugar and whisk",
+8. "Add Step 1 to bowl and cream with whisk. Add the sugar and whisk",
 
-                "Add the flour and almond powder. Use a rubber spatula to fold mixture together. Don't knead it!",
+9. "Add the flour and almond powder. Use a rubber spatula to fold mixture together. Don't knead it!",
 
-                "Once the powder is all gone, carefully combine the crumbs together",
+10. "Once the powder is all gone, carefully combine the crumbs together",
 
-                "Put Step 4 on to cellophane on a chopping board, then shape. Leave in fridge for 1-2 hours",
+11. "Put Step 4 on to cellophane on a chopping board, then shape. Leave in fridge for 1-2 hours",
 
-                "Split Step 5 into 30 pieces and shape into balls",
+12. "Split Step 5 into 30 pieces and shape into balls",
 
-                "Bake Step 6 in 160°C for 20 minutes",
+13. "Bake Step 6 in 160°C for 20 minutes",
 
-                "Once baked, leave to cool (cooling rack). Sprinkle with sugar (5-10g) while warm. Leave to cool",
+14. "Once baked, leave to cool (cooling rack). Sprinkle with sugar (5-10g) while warm. Leave to cool",
 
-                "When cool put in plastic bag and add more sugar (5g). Shake the bag to cover with sugar"
-            ],
+15. "When cool put in plastic bag and add more sugar (5g). Shake the bag to cover with sugar"
 
-### "points": [
-                "It's okay if it falls apart a little at this point!"
-            ]
-        },
+### points
+- "It's okay if it falls apart a little at this point!"

@@ -1,6 +1,6 @@
-# "name": "Gyoza",
-#### "servings
-### "ingredients": 
+# Gyoza
+#### servings
+### ingredients
 - "100g each of strong flower and weak flower (sifted)",
 - "2g salt",
 - "100cc water",
@@ -21,7 +21,7 @@
 - "2 tsp sesame seed oil"
 
             
-### "steps": [
+### steps
 1. "Put the strong and weak flour into a bowl and slowly add the water (mixed with the salt) while stirring thoroughly with chopsticks. Once it starts to clump, mix it with your hands and roll it up into a ball. Dust a surface with flour and press out the dough, then fold it over. Do this about 100 times and then put it in a plastic bag for 30 minutes.",
 
 2. "Mince Group A and mix each ingredient with 1/3 tsp salt, then let sit. Squeeze with a cloth and then strain. Mince Group B, too.",

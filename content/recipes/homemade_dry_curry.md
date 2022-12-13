@@ -1,6 +1,6 @@
-# "Homemade Dry Curry",
-#### servings": "null",
-### "ingredients"
+# Homemade Dry Curry
+#### servings: null
+### ingredients
 - "400g ground pork"
 
 - "2 onions",
@@ -21,7 +21,7 @@ _ "40g raisins",
 _ "2-3 tsp garam masala"
 
             
-### "steps":
+### steps
 1. "Cut Group A ingredients into 5mm cubes. Dissolved boullion cube in a 300cc of boiling water to make broth. Mince Group B ingredients.",
 
 2. "Heat the vegetable oil in a pot, then fry the garlic and ginger. Once it starts to smell good, add the onions and fry them. When they turn clear, add the carrot, celery, and eggplant in that order and continue to cook.",
@@ -33,5 +33,5 @@ _ "2-3 tsp garam masala"
 5. "Take some curry out and serve to any children. Taste the rest, and if there's not enough salt, add the taste. Add in enough garam masala for your preferred level of spiciness"
 
 
-### "points":
+### points
 - "Once the liquid has evaporated, it's done!"
