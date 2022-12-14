@@ -1,6 +1,11 @@
-# Aji
-#### servings: null,
-### ingredients
+::recipe
+#name
+Aji
+
+#servings
+2
+
+#ingredients
 - 2 aji (200-250g)
 - 10g ginger
 - 3 green onions
@@ -13,7 +18,7 @@
 - some mitsuba leaves
 
     
-### steps
+#steps
 1. Mince the ginger and finely dice the green onion
 
 2. Cut the ribs way from the fish you've cut into three pieces. Use your fingers to find any pin bones left and remove them with fish bone tweezers. Lift up the skin a little on the head side and then hold the fillet down and rip it off. Cut the fillet into thin slices
@@ -27,7 +32,8 @@
 
 6. Put the konbu, daikon radish, and leftovers in 1 liter of water and turn on heat. Once it starts to boil, skim the scum from the top. Simmer on low for 10 minutes. Once the daikon radish softens, turn off the heat and stir in the miso. Serve in bowls an garnish with mitsuba
 
-### points
+#points
 - You can ball up the namerou and flatten it into thin patties. Fry both sides  bit in a little oil, and you'll have sangayaki!
 
 - You can leave the leftovers in as an ingreident or take them out as you like!
+::

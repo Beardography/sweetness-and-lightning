@@ -1,9 +1,9 @@
 <template>
     <div class="card">
         <div class="card-header">
-            <img
+            <!-- <img
                 src="https://images.unsplash.com/photo-1614563637806-1d0e645e0940?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1973&q=80"
-            />
+            /> -->
         </div>
 
         <div class="card-body">

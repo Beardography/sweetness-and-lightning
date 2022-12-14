@@ -1,0 +1,63 @@
+.recipe {
+    text-align: center;
+    color: #dd6871;
+    background-color: #f6cfcb;
+
+    .image {
+        height: 596px;
+        width: 1800px;
+
+        img {
+            width: 100%;
+            height: auto;
+        }
+    }
+
+    h1 {
+        font-size: 4rem;
+        color: green;
+    }
+
+    h4 {
+        font-size: 2rem;
+        color: green;
+    }
+
+    .info {
+        display: flex;
+        flex-direction: column;
+
+        .instructions {
+            display: flex;
+            flex-direction: row;
+            gap: 2rem;
+            justify-content: center;
+            align-content: flex-start;
+
+            .ingredients,
+            .steps {
+                text-align: left;
+                width: 20vw;
+
+                ul {
+                    list-style: none;
+                    padding: 0;
+
+                    li {
+                        margin: 1rem 0;
+                    }
+                }
+
+                ol {
+                    li {
+                        margin: 1rem 0;
+                    }
+                }
+            }
+
+            h2 {
+                border-bottom: 2px solid pink;
+            }
+        }
+    }
+}
