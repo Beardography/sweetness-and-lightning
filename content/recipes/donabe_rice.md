@@ -10,9 +10,9 @@ head:
 # Donabe Rice
 #### 3-4
 ### ingredients
-- "1 1/2 cups rice",
-- "430 mL water - try to have between 1.2  and 1.3 times as much water as rice",
-- "A dash of sake"
+- 1 1/2 cups rice
+- 430 mL water - try to have between 1.2  and 1.3 times as much water as rice
+- A dash of sake
 
 ### Steps
 1. Wash the rice, then pour it and the water into the donabe. Cover and heat on medium high. When it seems ready to boil over, turn the heat to low and cook for 13 minutes. (Add a bit of flavor by putting in a little sake)
