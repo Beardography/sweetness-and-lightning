@@ -84,11 +84,11 @@ h1 {
 }
 .recipe h1 {
   font-size: 4rem;
-  color: green;
+  color: #dd6871;
 }
 .recipe h4 {
   font-size: 2rem;
-  color: green;
+  color: #dd6871;
 }
 .recipe .info {
   display: flex;
