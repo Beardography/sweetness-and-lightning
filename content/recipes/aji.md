@@ -1,9 +1,12 @@
 ::recipe
+#image
+![aji](/assets/images/vol3/aji.jpg)
+
 #name
 Aji
 
 #servings
-2
+:2
 
 #ingredients
 - 2 aji (200-250g)

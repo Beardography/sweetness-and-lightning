@@ -1,14 +1,17 @@
 <template>
     <div class="recipe">
         <div class="image">
-            <slot name="image" />
+            <ContentSlot :use="$slots.image" name="image" unwrap="p" path />
         </div>
 
         <h1>
             <slot name="name" />
         </h1>
 
-        <h4>servings: <slot name="servings" /></h4>
+        <h4>
+            Servings:
+            <Contentslot :use="$slots.default" unwrap="p" />
+        </h4>
 
         <div class="info">
             <div class="instructions">
