@@ -1,11 +1,19 @@
-# Omochi
-#### servings: null
-### ingredients
+::recipe
+#image
+![omochi](/img/vol5/omochi.jpg)
+
+#name
+Omochi
+
+#servings
+null
+
+#ingredients
 - 100g azuki beans
 - 100g sugar
 - pinch of salt
 - 3 pieces of square mochi
-  
+
 - 200g ground pork
 - 1/2 bundle of enoki mushrooms
 - 10cm green onion
@@ -23,7 +31,7 @@
 - 1/2 teaspoon miso
 - 3 pieces square mochi
           
-### steps
+#steps
 1. Wash the azuki beans and put them in a pot with a lot of water. Boil on high heat. When the water boils, remove the pot from the stove and strain the beans.
 
 2. As in Step 1, return the beans to the pot with fresh cold water, bring the pot to a boil again, then strain. Repeat once more.
@@ -42,7 +50,8 @@
 
 9. Crush the walnuts with a mortar and pestle. Add the miso and the ingredients from Step 1, then mix again. Add sauce on top of boiled square mochi, and you're done.
             
-### points
+#points
 - The beans will take about an hour to soften.
 
 - 7The mochi will not melt if you use cold water to boil it.
+::

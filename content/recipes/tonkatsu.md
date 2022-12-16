@@ -1,6 +1,14 @@
-# Tonkatsu / Miso Sauce
-#### servings: null
-### ingredients
+::recipe
+#image
+![tonkatsu](/img/vol8/tonkatsu.jpg)
+
+#name
+Tonkatsu / Miso Sauce
+
+#servings
+null
+
+#ingredients
 - 2 (2cm thick) pieces of pork loin
 - 1 egg
 - salt and papper to taste
@@ -13,7 +21,7 @@
 - 3tbsp dashi broth
 - 3tbsp mirin
 
-### steps
+#steps
 1. Take pork out of fridge and let it get close to room temperature.
 
 2. Using the tip of the knife, cut 5 or 6 places in the fiber that forms the boundary between the meat and fat
@@ -41,3 +49,4 @@
 13. Blend miso into mixture while stirring
 
 14. Let come to a boil, and when it's been boiling for 3-4 minutes, and the bubbles start to get big, it's done!
+::

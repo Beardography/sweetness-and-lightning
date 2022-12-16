@@ -1,6 +1,14 @@
-# Hamaguri clam rice / asari clam miso soup
-#### servings: null
-### ingredients
+::recipe
+#image
+![hamaguri clam rice](/img/vol8/hamaguri_clam_rice.jpg)
+
+#name
+Hamaguri clam rice / asari clam miso soup
+
+#servings
+null
+
+#ingredients
 - 2 japanese cups (300g) rice
 - 400g (small) hamaguri clams
 - 5x5cm kombu
@@ -12,7 +20,7 @@
 - some green onions
 - 2tbsp miso
 
-### steps
+#steps
 1. Put clams on a baking dish or in a pot, lining them up so they don't overlap each other, then cover with salt water until the tops are just barely poking out. Cover with newspaper or something similar.
 
 2. Place somewhere cool for 2-3 hours and make them spit out the sand
@@ -45,5 +53,6 @@
 
 16. Once they come to a boil again, turn off heat and top with onions
 
-### points
+#points
 - Try to keep the level of salt in the water to 3% (30g gper 1 liter of water)
+::

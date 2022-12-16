@@ -7,11 +7,17 @@ head:
           content: "food, cooking, recipes, baking"
 ---
 
-# Miso Pork Soup
+::recipe
+#image
+![miso pork soup](/img/vol1/miso_pork_soup.jpg)
 
-#### servings
+#name
+Miso Pork Soup
 
-### ingredients
+#servings
+null
+
+#ingredients
 - 7cm daikon radish
 - 1/2 carrot
 - 1/2 green onion
@@ -25,7 +31,7 @@ head:
 - 800 mL dashi stock
 - 4 tbsp miso
 
-### steps
+#steps
 1. Cut the carrots and daikon radish into quarter rounds, then cut the green onion into 1 cm slices. Chop the burdock root in thin diagonal slices and place in cold water. Cut the potatoes and pork into bite-sized pieces. Tear the konnyaku into bite-sized chunks and hten parboil. Parboil the snow peas and fried tofu. Drain.
 
 2. Put the sesame oil into the pot and stir-fry the pork on medium heat. Add and fry the ingredients in this order: carrots, burdock root, daikon, radish, potatoes, konnyaku. Once the edges of the potatoes become translucent, add the dashi stock. (You can boil the ingredients instead of frying. The taste will be lighter.)
@@ -34,7 +40,8 @@ head:
 
 4. Once ingredients are softened, add the miso by dissolving it gradually into the stock. Once it starts boiling again, immediately turn off the heat and add the snow peas.
 
-### points
+#points
 - Add a bit of flavor by putting in a little sake
 
 - You can adjust the amount of water and the heat settings to your taste. Try it once you get used to the recipe!
+::

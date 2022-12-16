@@ -1,6 +1,14 @@
-# Sushi Cake
-#### servings: null
-### ingredients
+::recipe
+#image
+![sushi cake](/img/vol5/sushi_cake.jpg)
+
+#name
+Sushi Cake
+
+#servings
+null
+
+#ingredients
 - 120g fresh cod (a little less than two fillets)
 - 2-3 tbsp sake
 
@@ -24,7 +32,7 @@
 - string beans
 - salmon roe
         
-### steps
+#steps
 1. Put the fresh cod in a small pot and stir in sake. Put a lid on the pot and cook on low heat. Once it starts to bubble, continue to simmer for 3 minutes. Remove bones, skin, and dark meat, and then grind in a mortar
 
 2. Add fish from Step 1 to a frying pan and sate on low heat. Once the moisture has evaporated and the fish has softened, add the ingredients from Group A. Continue cooking until the meat crumbles and plumps up.
@@ -47,7 +55,8 @@
 
 11. Invert the bowl to gently remove the 'cake,' and decorate with the roe and the ingredients in Step 6.
             
-### points
+#points
 - The meat will stick to the pan, so when it does, remove from heat and scrape it off. Make sure it doesn't burn.
 
 - Leave a little bit of vinegar mixture from **Group C**.
+::

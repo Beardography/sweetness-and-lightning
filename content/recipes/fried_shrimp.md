@@ -1,6 +1,14 @@
-# Fried shrimp / taru-taru sauce
-#### servings: null
-### ingredients
+::recipe
+#image
+![fried shrimp](/img/vol12/fried_shrimp.jpg)
+
+#name
+Fried shrimp / taru-taru sauce
+
+#servings
+null
+
+#ingredients
 - 6 large shrimp (headless/in-shell)
 - 1 egg
 - Wheat flour, Panko to taste
@@ -15,7 +23,7 @@
 - 80g mayonnaise
 - 1tsp squeezed lemon juice
 
-### steps
+#steps
 1. Deshell the shrimp, leaving the tails attached. Make ashallow cut down the center of the back to devein. Make a bowl of 3% saltwater and wash the shrimp, then rinse in running water and blot dry with a paper towel
 
 2. Cut off the very ends of the tails then fan with a knife, removing water adn any dirt
@@ -34,9 +42,10 @@
 
 9. Put everything from Step 2 and Step 3 in a bowl and add Group A. Add a pinch of salt and pepper (not specified in ingredients), and when you get it to taste, you're done!
 
-### points
+#points
 - If you put in too many shrimp at once, the oil will cool. Don't add more than two-thirds of the amount of oil you have!
 
 - If you move the shrimp with your chopsticks immediately after putting it in the oil, the panko will come loose DOn't fiddle with it too much! Turn it over partway through, raise the temperature at the end, and aim for that nice crunch
 
 - Feel free to add chopped cabbage
+::

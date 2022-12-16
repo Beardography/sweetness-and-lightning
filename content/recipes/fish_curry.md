@@ -1,6 +1,14 @@
-# Fish Curry
-#### servings: null
-### ingredients
+::recipe
+#image
+![fish curry](/img/vol9/fish_curry.jpg)
+
+#name
+Fish Curry
+
+#servings
+null
+
+#ingredients
 - 2 fillets (150g) sea bass
 - Paprika pepper (red)
 - 1 scant tsp garlic
@@ -23,7 +31,7 @@
 - 50cc soup stock (cube or powdered)
 - 1/3tsp salt
 
-### steps
+#steps
 1. Remove bones from sea bass fillets, and cut into bite-sized pieces
 
 2. Mix ingredients in Group A, then toss with sea bass. Let sit for 30 minutes to 1 hour
@@ -43,3 +51,4 @@
 9. When contents begin to boil, add sea bass in it's dressing
 
 10. Simmer for 6-7 minutes, and you're done! (remember to remove the cinnamon stick and cayenne pepper!)
+::

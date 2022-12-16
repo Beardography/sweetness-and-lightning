@@ -1,13 +1,21 @@
-# Onigiri
-#### servings: null
-### ingredients
+::recipe
+#image
+![onigiri](/img/vol6/onigiri.jpg)
+
+#name
+Onigiri
+
+#servings
+null
+
+#ingredients
 - some rice
 - salt
 - seaweed
 - cooked salmon
 - dried plums
             
-### steps
+#steps
 1. Prepare a bowl of water, salt, a chawan (tea bowl)
 
 2. Put the rice gently into the chawan. Wet both hands with water, and then put salt on the left palm.
@@ -18,10 +26,10 @@
 
 5. Once it's formed into a triangle shape, wrap the seaweed around and you're done!
 
-            
-### points
+#points
 - Use freshly cooked rice
 - Make the balls while it's as hot as possible
 - Don't use too much water
 - Squeeze Lightly
 - If you form the base with your left hand, and the corners at the top with your right hand as you spin, it will turn intoa  triangle!
+::

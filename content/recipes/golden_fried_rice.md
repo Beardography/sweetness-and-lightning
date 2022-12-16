@@ -1,6 +1,14 @@
-# Golden fried rice
-#### servings: null
-### ingredients
+::recipe
+#image
+![golden fried rice](/img/vol12/golden_fried_rice.jpg)
+
+#name
+Golden fried rice
+
+#servings
+null
+
+#ingredients
 - 200g rice
 - 2 eggs
 - 30g scallions
@@ -13,7 +21,7 @@
 - 1/2tbsp soy sauce
 - 1/2tbsp salad oil (note: lard tastes best)
 
-### steps
+#steps
 1. Chop the white part off the scallions. Scramble the eggs. Heat the rice in the microwave (don't wrap it in anything)
 
 2. Put eggs and rice in a bowl and mix them together, breaking up the rice
@@ -24,7 +32,7 @@
 
 5. Put just a dash of salad oil (beyond that listed in the ingredients) in the frying pan over medium heat. Put the pork loin in the pan along with Group B, flipping the meat over so it cooks on both sides. Put the meat on the fried rice and you're done!
 
-### points
+#points
 - This recipe uses a non-stick frying pan. Making one serving at a time is the key to quick and easy Golden fried Rice.
 
 - Use rice cooked a little on the hard side! Freshly-cooked rice will be too moist to use, so spread it out on a tray and dry it.
@@ -32,3 +40,4 @@
 - When cooking, be sure to keep the pan on the flame to maintain steady heat.
 
 - This recipe should take 4-5 minutes t o make from the time you put the eggs and rice in together
+::

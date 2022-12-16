@@ -1,6 +1,14 @@
-# Gratin
-#### servings: null
-### ingredients
+::recipe
+#image
+![gratin](/img/vol2/gratin.jpg)
+
+#name
+Gratin
+
+#servings
+null
+
+#ingredients
 - 1 potato
 - 1/16 kabocha squash
 - 1 zucchini
@@ -23,7 +31,7 @@
 - dash of pepper
 
 
-### steps
+#steps
 1. Chop the ingredients in Group A into 1-2cm chunks. Paraboil carrots. Julienne the B ingredients.
 
 2. Put the butter into a frying pan and add the following ingredients in this order: potatoes, onions, zucchini, chicken thigh, squash, asparagus, bell peppers. Use low heat to the mixtures doesn't burn.
@@ -33,5 +41,6 @@
 4. Sink the cherry tomatoes into the surface of Step 3, scatter the grated cheese, and then place in a preheated oven at 200°C for 15 minutes.
 
 
-### points
+#points
 - You're going to cook the gratin in the oven, so it's okay if the mixture isn't fully cooked.
+::

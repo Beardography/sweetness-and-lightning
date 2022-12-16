@@ -1,6 +1,14 @@
-# Homemade mayonnaise / sesame mayo dressing / Japanese salad dressing / Japanese style green onion salad dressing
-#### servings: null
-### ingredients
+::recipe
+#image
+![homemade mayonnaise](/img/vol10/homemade_mayo.jpg)
+
+#name
+Homemade mayonnaise / sesame mayo dressing / Japanese salad dressing / Japanese style green onion salad dressing
+
+#servings
+null
+
+#ingredients
 - 1 egg yolk
 - 1/2tsp salt
 - 1tbsp vinegar
@@ -21,7 +29,7 @@
 - 1/4 green onion
 - 1/2tsp salt
 
-### steps
+#steps
 1. Mix the salt and the egg yolk
 
 2. Add the vinegar to Step 1 and mix until the salt has completely dissolved
@@ -46,5 +54,6 @@
 
 12. Season with (a tiny amount) of salt
 
-### points
+#points
 - You can also mix in (1 bulb of) Japanese ginger to the Japanese dressing!
+::

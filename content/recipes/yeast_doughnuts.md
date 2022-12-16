@@ -1,6 +1,14 @@
-# Yeast Doughnuts
-#### servings: null
-### ingredients
+::recipe
+#image
+![yeast doughnuts](/img/vol2/yeast_doughnuts.jpg)
+
+#name
+Yeast Doughnuts
+
+#servings
+null
+
+#ingredients
 - 100 g each of weak flour and strong flour
 - 4g dry yeast
 - 30g superfine sugar
@@ -13,7 +21,7 @@
 - pinch of flour (for kneading)
 - Some vegetable oil
 
-### steps
+#steps
 1. Put Group A into a bowl and mix
 
 2. Heat Group B by placing first bowl in a larger bowl filled with hot water. Warm until it's the temperature of your skin
@@ -28,9 +36,10 @@
 
 7. Fry each side for a minute and a half in oil heated to 170-180°C
 
-### points
+#points
 - Spread the doughwith your fingers. If it stretches out thin without tearing, it's ready!
 
 - Poke a hole in the dough with a finger. If the hole stays there after you take your finger out, the first rise is done!
 
 - You can do whatever you want with the doughnuts, including coating them iwth a glaze of powdered sugar and water, or dipping them in chocolate melted in a double boiler!
+::

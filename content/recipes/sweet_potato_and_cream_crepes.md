@@ -1,6 +1,14 @@
-# Sweet Potato and Cream Crepes
-#### servings: null
-### ingredients
+::recipe
+#image
+![sweet potato and cream crepes](/img/vol4/sweet_potato_and_cream_crepes.jpg)
+
+#name
+Sweet Potato and Cream Crepes
+
+#servings
+null
+
+#ingredients
 - 250cc milk
 - 20g butter
 - 80g weak flour
@@ -16,7 +24,7 @@
 - 300cc cream
 - 30g granulated sugar
         
-### steps
+#steps
 1. Make the batter. Bring the milk to room temperature. Put the butter in a frying pan on medium heat. Once the bubbles in the butter disappear and it turns a light brown, take it off the heat and cool on top of a wet cloth.
 
 2. Sif the weak flour into a bowl, add the granulated sugar, and stir well. Make a little depression in the center, add the egg, and mix. Add in the butter from Step 1 and mix thoroughly.
@@ -37,7 +45,8 @@
 
 10. Repeat Step 8 and Step 9 to cook the batter. Put about 30g each (approximately 1/10th of the total) of sweet potato cream and whipped cream on every crepe. Add some crushed almonds, wrap it up, and you're done!
            
-### points
+#points
 - Leave any remaining butter in the frying pan.
 
 - If a toothpick goes clean through, they're ready!
+::

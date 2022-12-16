@@ -1,6 +1,14 @@
+::recipe
+#image
+![sukiyaki](/img/vol10/sukiyaki.jpg)
+
+#name
 # Sukiyaki
-#### servings: null
-### ingredients
+
+#servings
+null
+
+#ingredients
 - 250g thin sliced beef
 - 160g nappa cabbage
 - 1 green onion
@@ -14,7 +22,7 @@
 - 3.5tbsp sugar
 - 2 1/3tbsp soy sauce
 
-### steps
+#steps
 1. Cut the shirataki into easily eaten sizes. Boil for 3 minutes and drain. Rehydrate the yaki-fu in water. Squeeze lightly to drain water. Cut fried tofu into 4 pieces and drain
 
 2. Cut nappa cabbage length ways and hten slice into 3cm pieces. Cut green onion on the diagonal and remove large stem from the shungiku
@@ -29,7 +37,8 @@
 
 7. Add the enoki mushrooms, yaki-fu, and shungiku. Once it's all cooked dip it in some whisked egg and eat!
 
-### points
+#points
 - Dip the cooked meat in some whipped egg and enjoy.
                 
 - Cook everything on a medium to high heat. Turn the heat to low if it looks like it's about to burn!
+::

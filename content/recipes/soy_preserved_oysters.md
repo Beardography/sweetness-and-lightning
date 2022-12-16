@@ -1,6 +1,14 @@
-# Soy-preserved oysters / miso-stewed beef tendon
-#### servings: null
-### ingredients
+::recipe
+#image
+![soy-preserved oysters](/img/vol12/soy_preserved_oysters.jpg)
+
+#name
+Soy-preserved oysters / miso-stewed beef tendon
+
+#servings
+null
+
+#ingredients
 - 200-250g shelled oysters
 - 2-3 slices ginger (thin sliced)
 
@@ -23,7 +31,7 @@
 - Diced onions
 - Shichimi spice to taste
 
-### steps
+#steps
 1. Fill a bowl with 3% salt water and wash the oysters. Put in boiling water, then drain immediately. Once cooled, arrange on a tray by size
 
 2. Put Group A in a pot and heat until reduced by about half, then add ginger
@@ -48,7 +56,8 @@
 
 12. Add the entirety of Group B to the pot, remove the lid, and stew for 30 minutes to an hour on low heat. When the liquid is mostly gone and the whole thing has a springiness to it, it's ready to eat! Arrange on a plate and garnish with Group C
 
-### points
+#points
 - If the oysters get too hot, they'll toughen and become unpleasant to eat, so don't cook the small ones for quite as long
 
 - Make sure to skim it occasionally while simmering
+::

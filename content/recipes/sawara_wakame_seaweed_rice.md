@@ -1,6 +1,14 @@
-# Sawara (Saikyo-yaki) / Wakame Seaweed Rice
-#### servings: null
-### ingredients
+::recipe
+#image
+![sawara wakame seaweed rice](/img/vol8/sawara_saikyo_yaki.jpg)
+
+#name
+Sawara (Saikyo-yaki) / Wakame Seaweed Rice
+
+#servings
+null
+
+#ingredients
 - 1 ( a little under 100g) fillet sawara (japanese spanish mackerel)
 - 1/4tsp salt
 - 30g saikyo miso
@@ -13,7 +21,7 @@
 - 2tsp Usukuchi (light) soy sauce
 - 1.5tbsp sesame seeds
        
-### steps
+#steps
 1. Cover sawara fillet with salt
 
 2. Put fillet in fridge for one hour, then use paper towel to wipe away water that comes out
@@ -34,5 +42,6 @@
 
 10. Mix the rice with the seaweed and the sesame seeds. And it's done
 
-### points
+#points
 - Wipe off all the miso! If you leave any, it will burn easier!
+::

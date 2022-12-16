@@ -1,6 +1,14 @@
-# Oyako-Don
-#### servings: null
-### ingredients
+::recipe
+#image
+![oyako-don](/img/vol7/oyako-don.jpg)
+
+#name
+Oyako-Don
+
+#servings
+null
+
+#ingredients
 - 1/2 chicken thigh (150g)
 - 1/2 onion (100g)
 - Some mitsuba leaf
@@ -12,7 +20,7 @@
 - 2tbsp soy sauce
 - 3tbsp mirin
 
-### steps
+#steps
 1. Salt chiken thigh and sprinkle some sake. Leave at room temperature for a while
 
 2. Cut onion into 5mm slices, and mitsuba leaf into 3cm strips. Cut chicken thigh into bite-sized chunks
@@ -27,7 +35,8 @@
 
 7. Give it a mix and top with the mitsuba leaf. Once it starts to bubble again put the lid on and then turn off the heat and left sit for one minute. Serve it over rice, and it's done!
 
-### points
+#points
 - The eggs come out better fi you make it for one person at a time, but you can make up to two portions at once and it'll turn out fine. If you want to make it for 4 people, follow all the steps up to number 3 as above, then after waiting the 5 minutes, split the mixture into two and follow **Step 5** - **Step 7** for each separate half.
 
 - Give the eggs a bit of a mix before putting them into the frypan. You want the whites and the yolks stll a bit separated. When you put them in the pan, pour the eggs in spiral, starting from the center and working your way towards the outside.
+::

@@ -1,6 +1,14 @@
-# Oden
-#### servings: null
-### ingredients
+::recipe
+#image
+![oden](/img/vol10/oden.jpg)
+
+#name
+Oden
+
+#servings
+null
+
+#ingredients
 - 12cm daikon
 - 3 pieces Hidaka-kombu (each approx. 15cm)
 - 4 eggs
@@ -31,7 +39,7 @@
 - 2g salt
 - 8g sugar
 
-### steps
+#steps
 1. Soak the hidaka-kombu in water for 1 hour
 
 2. Peel the daikons. Cut into 3cm length sections and lightly score an x with a kitchen knife. Boil the daikon in water until tender and easily pierced with a skewer and then transfer to cold water
@@ -71,3 +79,4 @@
 19. Add the remaining cod, the shrimp, egg whites, and seasoning for the ebi-shinjo to the mortar. Mix well
 
 20. With oiled hands take the mixture from Step 6 and shape into 4 equal discs
+::

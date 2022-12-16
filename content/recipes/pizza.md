@@ -1,6 +1,14 @@
+::recipe
+#image
+![pizza](/img/vol11/pizza.jpg)
+
+#name
 # Pizza / miso onion burdock pizza / vegetable garden pizza
-#### servings: null
-### ingredients
+
+#servings
+null
+
+#ingredients
 - 190cc Warm water (30°C)
 - 3g dry yeast
 - pinch of sugar
@@ -29,7 +37,7 @@
 - 1/2tbsp olive oil
 - 1/tsp salt
 
-### steps
+#steps
 1. Dissolve the sugar in 30cc of warm water, add yeast, leave for 15 minutes (to ferment)
 
 2. Combine Group A in a large bowl. Dissolve the salt in the remaining water
@@ -64,5 +72,6 @@
 
 17. Take the tray out of the oven and place the baking sheet with pizza on top. Bake at 250°C for 8-9 minutes. Then serve
 
-### points
+#points
 - Try baking this pizza without the sauce!
+::

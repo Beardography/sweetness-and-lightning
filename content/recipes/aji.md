@@ -1,6 +1,6 @@
 ::recipe
 #image
-![tester](/img/aji.jpg)
+![aji](/img/vol3/aji.jpg)
 
 #name
 Aji

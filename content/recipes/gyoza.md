@@ -1,6 +1,14 @@
-# Gyoza
-#### servings
-### ingredients
+::recipe
+#image
+![gyoza](/img/vol2/gyoza.jpg)
+
+#name
+Gyoza
+
+#servings
+null
+
+#ingredients
 - 100g each of strong flower and weak flower (sifted)
 - 2g salt
 - 100cc water
@@ -20,8 +28,7 @@
 - 150g ground pork
 - 2 tsp sesame seed oil
 
-            
-### steps
+#steps
 1. Put the strong and weak flour into a bowl and slowly add the water (mixed with the salt) while stirring thoroughly with chopsticks. Once it starts to clump, mix it with your hands and roll it up into a ball. Dust a surface with flour and press out the dough, then fold it over. Do this about 100 times and then put it in a plastic bag for 30 minutes.
 
 2. Mince Group A and mix each ingredient with 1/3 tsp salt, then let sit. Squeeze with a cloth and then strain. Mince Group B, too.
@@ -35,3 +42,4 @@
 6. Heat oil in a pan and then turn off the heat. Put the gyoza in the pan. Turn on the heat for about 10 seconds, add 100cc of water and put a lid on. Cook on medium heat, and once the water has evaporated, add a small amount of oil and cook until they blown up.
 
 7. Boil a full pot of water, and add the gyoza one by one. Boil for 5-6 minutes and take out once the edges turn clear.
+::

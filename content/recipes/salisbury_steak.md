@@ -7,10 +7,17 @@ head:
           content: "food, cooking, recipes, baking"
 ---
 
-# Salisbury Steak
-#### 2-3
+::recipe
+#image
+![salisbury steak](/img/vol1/salisbury_steak.jpg)
 
-### ingredients": [
+#name
+Salisbury Steak
+
+#servings
+2-3
+
+#ingredients
 - 300g mixed ground pork and beef
 - 1 onion
 - 1/2 egg
@@ -20,15 +27,13 @@ head:
 - dash of pepper
 - 1 tbsp olive oil
 
-                
 - 1 400g can diced tomatoes
 - 1 clove garlic (minced)
 - 2 bay leaves
 - 1/2 tsp salt
 - dash of pepper
-                
 
-### "steps"
+#steps
 1. Mince the onion and cook it thoroughly in the olive oil until translucent, then take it out and let it cool. Soak the breadcrumbs in the milk. Beat the egg.
 
 2. Put the meat into a bowl and mix with salt and pepper until combined. Add the ingredients from Step 1 (reserving half of the onion) and mix until it starts to stick together.
@@ -40,3 +45,4 @@ head:
 5. Add a small amount of olive oil to the frying pan from Step 4. Add sauce ingredients Group A and cook on low heat. Once they start to smell good, put in the rest of the onions from Step 1 and the canned tomatoes. Add the ingredients from Group B and stew for about 5 minutes. Then return the patties to teh pan, cover, and stew for 7 minutes.
 
 6. Take out the bay leaves, then reduce the sauce, stirring occasionally so it doesn't burn
+::

@@ -1,6 +1,14 @@
-# Udon
-#### servings: null
-### ingredients
+::recipe
+#image
+![udon](/img/vol10/udon.jpg)
+
+#name
+Udon
+
+#servings
+null
+
+#ingredients
 - 400g flour (udon flour or medium-strength flour)
 - 16g salt
 - Flour for dusting (same flour used for dough)
@@ -11,7 +19,7 @@
 - 25cc mirin
 - 5g bonito flakes
 
-### steps
+#steps
 1. Add the salt to the water. Stir until completely dissolved
 
 2. Sieve the flour
@@ -66,5 +74,6 @@
 
 27. Once the stock has cooled run the stock through a sieve. Squeeze the clumps through the sieve
 
-### points
+#points
 - Dust with flour so the cut noodles don't stick together
+::

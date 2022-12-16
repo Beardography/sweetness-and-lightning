@@ -1,6 +1,14 @@
-# Sesame Seed Chilled Chinese Noodles
-#### servings: null
-### ingredients
+::recipe
+#image
+![sesame seed chilled chinese noodles](/img/vol3/sesame_seed_chilled_chinese_noodles.jpg)
+
+#name
+Sesame Seed Chilled Chinese Noodles
+
+#servings
+null
+
+#ingredients
 - 3 packs of fresh Chinese noodles
 - 1 chicken thigh (slightly less than 300g)
 - 1/3 carrot
@@ -23,7 +31,7 @@
 - 2 tsp sesame oil
 - (Roughly) 3 tbsp leftover chicken broth
 
-### steps
+#steps
 1. Sprinkle the chicken thigh with the sake and salt seasoning and let it sit for at least 20 minutes. Slice the green part of the Japanese leek on the diagonal. Get your steamer ready.
 
 2. Arrange half of the onions from Step 1 plus 2 thin slices of ginger on a deep plate. Place the chicken skin side up on top, and then scatter the rest of the onion and ginger over that. Once the water in the steamer starts to boil, put the rack on the upper level, put the lid on, and steam on high heat for 20 minutes
@@ -38,6 +46,6 @@
 
 7. Boil the noodles. Arrange the noodles and other ingredients on a plate, and cover in sesame seed sauce.
 
-
-### points
+#points
 - It's a good idea to cover the underside of the lid with a cloth and let the steamer so that water doesn't drip out.
+::

@@ -1,6 +1,14 @@
-# Homemade mapo tofu
-#### servings: null
-### ingredients
+::recipe
+#image
+![homemade mapo tofu](/img/vol8/homemade_mapo_tofu.jpg)
+
+#name
+Homemade mapo tofu
+
+#servings
+null
+
+#ingredients
 - 1 (350g) block silken tofu
 - 100g ground pork
 - 3-4 (15g) green onions
@@ -14,8 +22,7 @@
 - 2tsp soy sauce
 - 1tbsp mirin
 
-
-### steps
+#steps
 1. Put the dried shiitake in 200cc water and let erhydrate for 3 hours (conserve liquid)
 
 2. Cut tofu into 2cm cubes, and onions into preferred size. Mince garlic and slice shiitaek into thin strips
@@ -36,5 +43,6 @@
 
 10. Mix and heat until it thickens, and you're done!
 
-### points
+#points
 - Mix the potato starch with an equal volume of water. Put it in several small dashes, mixing immediately when you put it in.
+::

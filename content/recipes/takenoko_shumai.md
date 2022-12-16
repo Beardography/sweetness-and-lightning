@@ -1,6 +1,14 @@
-# Takenoko Shumai (Shiitake Shumai)
-#### servings: null
-### ingredients
+::recipe
+#image
+![takenoko shumai](/img/vol7/shumai.jpg)
+
+#name
+Takenoko Shumai (Shiitake Shumai)
+
+#servings
+null
+
+#ingredients
 - 300g group pork
 - 2/3 onion (140g)
 - 60g shumai crusts
@@ -24,7 +32,7 @@
 - 2tbsp potato starch
 - 1tbsp sesame oil
 
-### steps
+#steps
 1. Mince onion and dust with potato starch. Roughly chop takenoko
 
 2. Put the pork and kaibashira (along with the liquid from the can) into a bowl and mix. Add the ingredients from Group A and mix with your hands until the whole thing starts to turn white
@@ -50,3 +58,4 @@
 12. Hold the curst in your left (non-dominant) hand. Use a spatula to put the filling in the center of the crust
 
 13. Make a circle with the index finger and thumb of your left hand, and use the spatula to push the crust and filling into it. Put your ring finger up against the bottom of the shumai, and then spin it within the circle to form it into a shape
+::

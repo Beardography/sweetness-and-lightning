@@ -1,7 +1,14 @@
+::recipe
+#image
+![squid and taro stew](/img/vol2/squid_and_taro_stew.jpg)
 
-# Squid and Taro Stew
-#### servings: null
-### ingredients
+#name
+Squid and Taro Stew
+
+#servings
+null
+
+#ingredients
 - 800g taro
 - some okra
 - 2 (3 if small) Japanese squid
@@ -10,7 +17,7 @@
 - 3 tbsp each sake and mirin
 - 2 1/2 tbsp soy sauce
 
-### steps
+#steps
 1. Wash the taro carefully and scrape off any mud or roots. Wipe any water off, leave them in a strainer, and once dry, peel (cutting deeply into the taro)
 
 2. Put your fingers into the hood of the squid and put out the legs and organs. Take out the cartilage and rinse the inside of the hood. Then cut it into rings, leaving the skin on. Separate the legs and organs below the eyes and remove the beak. Use a knife to remove the suckers from the legs and cut into bite-sized pieces.
@@ -19,7 +26,8 @@
 
 4. Add the taro to the pot from Step 3 and cover it with a drop lid. Once the stew starts to boil again, add the squid from Step 3 and stir. Turn off the heat before everything gets overly boiled.
 
-### points
+#points
 - Taro is slippery when wt. It will be easier to peel if you elt it dry first!
 
 - After this, let it sit and stir it once in a while to allow the taste to soak in.
+::

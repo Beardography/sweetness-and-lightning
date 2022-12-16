@@ -1,6 +1,14 @@
-# Spaghetti Carbonara
-#### servings: null
-### ingredients
+::recipe
+#image
+![spaghetti carbonara](/img/vol5/spaghetti_carbonara.jpg)
+
+#name
+Spaghetti Carbonara
+
+#servings
+null
+
+#ingredients
 - 100g spaghetti (thick)
 - 20g cheese (Parmigiano Reggiano)
 - 40g bacon (slab)
@@ -8,7 +16,7 @@
 - 30cc white wine
 - Black pepper to taste, olive oil, salt
            
-### steps
+#steps
 1. Add 1% by volume of salt to a large pot of water and put on the stove. Once it starts to bil, add in the spaghetti.
 
 2. Grate the cheese with a cheese grater. Chop the bacon into matchsticks.
@@ -21,5 +29,6 @@
 
 6. Add ingredients from Step 3 to ingredients from Step 5 and quickly mix. Once the heat from the frying pan has melted the cheese, it's done!
 
-### points
+#points
 - Get it on the plate before the egg cooks.
+::

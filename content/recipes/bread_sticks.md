@@ -1,6 +1,14 @@
-# Bread Sticks
-#### servings: null
-### ingredients
+::recipe
+#image
+![bread sticks](/img/vol6/bread_sticks.jpg)
+
+#name
+Bread Sticks
+
+#servings
+null
+
+#ingredients
 - 300g strong flour
 - 20g butter
 - 180cc lukewarm water
@@ -9,7 +17,7 @@
 - 4g salt
 - 6g dry yeast
 
-### steps
+#steps
 1. Run the strong flour through a sieve and then mix the ingredients from Group A, then add in water and stir. Warm the butter to room temperature.
 
 2. Knead and mix the dough from Step 1 with our hands and bring it all together in a ball. When you can easily remove it from the bowl, move it to a surface that's been lightly dusted with flour
@@ -32,5 +40,6 @@
 
 11. Cook on a charcoal grill. Once the bread is easily removed from the stick, it's done!
             
-### points
+#points
 - If the dough is thick, it won't cook right, so be careful!
+::

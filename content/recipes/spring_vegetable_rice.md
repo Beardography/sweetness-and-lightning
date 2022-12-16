@@ -1,6 +1,14 @@
-# Spring vegetable rice / sea bream soup / steamed turnip sea bream
-#### servings: null
-### ingredients
+::recipe
+#image
+![spring vegetable rice](/img/vol11/spring_vegetable_rice.jpg)
+
+#name
+Spring vegetable rice / sea bream soup / steamed turnip sea bream
+
+#servings
+null
+
+#ingredients
 - 150g turnip leaves
 - 50g Japanes eparsley leaves
 - 1-1.5tsp salt
@@ -23,7 +31,7 @@
 - 2tsp mirin
 - 2tsp potato starch (dissolved in 2tsp water)
 
-### steps
+#steps
 1. Boil plenty of water in pan. Season with salt (not from ingredients). Remove the well washed turnip leaves from the stock, boil for 2 minutes. Rinse with plenty of cold water. Squeeze out water. Chop into 5mm.
 
 2. Boil parsley for 10 seconds, rinse and cut the same way
@@ -52,5 +60,6 @@
 
 14. Top Step 4 with Step 5 once steamed. Add wasabi and done!
 
-### points
+#points
 - Add seasonal fragrances! Parsley and ginseng in spring, bamboo shoots and wokame, etc...
+::

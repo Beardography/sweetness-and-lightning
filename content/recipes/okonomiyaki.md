@@ -1,6 +1,14 @@
-# Okonomiyaki
-#### servings: null
-### ingredients
+::recipe
+#image
+![okonomiyaki](/img/vol4/okonomiyaki.jpg)
+
+#name
+Okonomiyaki
+
+#servings
+null
+
+#ingredients
 - some vegetable oil
 - some sauce, mayonnaise, katsuobushi, aonori, etc.
 
@@ -17,7 +25,7 @@
 - Some vegetable oil
 - Some sauce, mayonnaise, katsuobushi, aonori, etc.
 
-### steps
+#steps
 1. Make the stock, cool it, and add salt
 
 2. Shift the weak flour into a bowl and mix in the ingredients from Step 1 slowly so it doesn't clump
@@ -34,7 +42,8 @@
 
 8. Transfer to a plate and add the sauce and mayonnaise, katsuobushi, aonori, or other toppings, and it's done.
             
-### points
+#points
 - Add whatever ingredients you want, like tempura flakes, pickled ginger, konnyaku, shiitake mushrooms, or cheese!
 
 - Mix the filling for each okonomiyaki just befoer you fry it. If oyu mix several at once, by the time you're done cooking, the moisture will be gone and it might not be good.
+::

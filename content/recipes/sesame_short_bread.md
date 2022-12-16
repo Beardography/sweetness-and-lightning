@@ -1,6 +1,14 @@
-# Sesame short bread / boule de neige
-#### servings: null
-### ingredients
+::recipe
+#image
+![sesame short bread / boule de neige](/img/vol11/sesame_short_bread.jpg)
+
+#name
+Sesame short bread / boule de neige
+
+#servings
+null
+
+#ingredients
 - 75g flour
 - 50g butter
 
@@ -12,7 +20,7 @@
 - 25g almond powder
 - 15g sugar
 
-### steps
+#steps
 1. Let the butter come to room temperature
 
 2. Sift the flour into a bowl and add the butter from Step 1. Cut and combine the flour and butter until it becomes similar to bread crumbs. Once combined add Group A
@@ -43,5 +51,6 @@
 
 15. When cool put in plastic bag and add more sugar (5g). Shake the bag to cover with sugar
 
-### points
+#points
 - It's okay if it falls apart a little at this point!
+::

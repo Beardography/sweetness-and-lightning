@@ -1,6 +1,14 @@
-# Yule Log
-#### servings: null
-### ingredients
+::recipe
+#image
+![yule log](/img/vol7/yule_log.jpg)
+
+#name
+Yule Log
+
+#servings
+null
+
+#ingredients
 - 100g granulated sugar
 - 30cc milk
 - 100g weak flour
@@ -20,7 +28,7 @@
 - 20g granulated sugar
 - 30g baking chocolate
          
-### steps
+#steps
 1. Peel apple and chop finely. Put the apple in the Group A ingredients into a pot, and cook for 30 minutes on low with the lid on
 
 2. Cut off four corners of the baking sheet and fold into an open box shape, then place it into a baking sheet as in the picture above. Warm the oven
@@ -48,3 +56,4 @@
 13. Cut off part of the edge of Step 10 and then place it on top to make it look like a log
 
 14. Cover the surface with the mixture from Step 12 and use a fork to draw a design. Strain some cocoa powder on it and add some edible silver beads, and you're done!
+::

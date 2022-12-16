@@ -1,6 +1,14 @@
-# Cheese and Spinach Cannelloni
-#### servings: null
-### ingredients
+::recipe
+#image
+![cheese and spinach cannelloni](/img/vol9/cheese_and_spinach_cannelloni.jpg)
+
+#name
+Cheese and Spinach Cannelloni
+
+#servings
+null
+
+#ingredients
 - 8 sticks cannelloni (dried)
 - 30g onions
 - 1/2tbsp olive oil
@@ -18,7 +26,7 @@
 - a pinch pepper
 
 
-### steps
+#steps
 1. Boil the spinach in lightly salted water, then immerse in ice water
 
 2. Finely mince both onions and well-squeezed Step 1. Take out Parmigiano Reggiano
@@ -44,3 +52,4 @@
 12. Fill a heat-resistant baking tray with half the bechamel sauce from Step 10. Arrange the cannelloni in it, then cover with remaining sauce
 
 13. Place in oven preheated to 425°F and bake for 15 minutes, then it's done!
+::

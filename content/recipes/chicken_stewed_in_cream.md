@@ -1,6 +1,14 @@
-# Chicken Stewed in Cream
-#### servings: null
-### ingredients
+::recipe
+#image
+![chicken stewed in cream](/img/vol6/chicken_stewed_in_cream.jpg)
+
+#name
+Chicken Stewed in Cream
+
+#servings
+null
+
+#ingredients
 - Roughly 800g of bone-in chicken thigh
 - 200g onion
 - 40g carrots
@@ -17,7 +25,7 @@
 - 1 piece of celery and parsley
 - 1 bay leaf
 
-### steps
+#steps
 1. Salt and pepper the chicken breasts. Cut the onions and carrots into thin slices. Clean the mushrooms and remove the bottom part of the stem
 
 2. Dissolve the bouillon cube in 600cc of hot water, then add in 1 tsp of lemon juice and a pinch of salt. Put the mushrooms in cap down. Once the water comes to a boil turn off the heat and let sit.
@@ -39,5 +47,6 @@
 10. Put the chicken on a plate and add the mushrooms. Then add the sauce and it's done!
 
             
-### points
+#points
 - Since it's a white stew, don't cook them too much. Even if they aren't fully cooked, they'll be stewed later so it's okay!
+::

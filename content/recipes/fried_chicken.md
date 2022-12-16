@@ -1,6 +1,14 @@
-# Fried Chicken
-#### servings
-### ingredients
+::recipe
+#image
+![fried chicken](/img/vol1/fried_chicken.jpg)
+
+#name
+Fried Chicken
+
+#servings
+null
+
+#ingredients
 - 300g chicken (thighs)
 - a little potato starch
 - cold water
@@ -16,7 +24,7 @@
 - 1 tbsp mirin
 
 
-### steps
+#steps
 1. Cut chicken into bite-sized chunks and soak in cold water for 10 minutes.
 
 2. Take the chicken out of the water and gently pat dry. Mix the ingredients listed in Group A and marinate chicken for 10 minutes.
@@ -25,8 +33,8 @@
 
 4. Put all the ingredientsl isted in Group B into a sauce pan and mix. Place the pan on medium heat. Once it boils down, add the white sesame seeds.
 
-5. Pour Step 4 evenly over Step 3.
-            ],
+5. Pour Step 4 evenly over Step 3. Enjoy!
 
-### points
+#points
 - Pour the sauce on while the chicken is hot!
+::

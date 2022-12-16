@@ -1,6 +1,14 @@
-# Egg sandwhich (guacamole sandwich)
-#### servings: null
-### ingredients
+::recipe
+#image
+![egg sandwhich](/img/vol8/egg_sandwich.jpg)
+
+#name
+Egg sandwhich (guacamole sandwich)
+
+#servings
+null
+
+#ingredients
 - 4 slices bread (from a loaf of bred with 10-12 slices)
 - 2 eggs
 - 20g onion
@@ -20,7 +28,7 @@
 - 1/2 green chili
 - 1 tsp minced cilantro
 
-### steps
+#steps
 1. Warm butter to room temperature
 
 2. Add salt (separate from that in ingredients) to some boiling water, then boil egg for 10 minutes and peel shell.
@@ -58,3 +66,4 @@
 18. Butter the bread and then put the mixture between slices
 
 19. Cut into desired size and you're done!
+::
