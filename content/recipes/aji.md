@@ -6,7 +6,7 @@
 Aji
 
 #servings
-tester
+2
 
 #ingredients
 - 2 aji (200-250g)

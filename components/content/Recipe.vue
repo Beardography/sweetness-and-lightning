@@ -10,7 +10,7 @@
 
         <h4>
             Servings:
-            <Contentslot :use="$slots.p" unwrap="p" />
+            <slot name="servings" upwrap="p" />
         </h4>
 
         <div class="info">

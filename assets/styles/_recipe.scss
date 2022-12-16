@@ -3,28 +3,46 @@
     color: #dd6871;
 
     .image {
-        height: 596px;
-        width: 1800px;
+        // height: 600px;
+        // width: 1800px;
+        width: 1200px;
+        height: 600px;
+        margin: 0 auto;
+        border-radius: 1rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        // background-color: green;
+        overflow: hidden;
 
         img {
             width: 100%;
             height: auto;
+            mix-blend-mode: multiply;
         }
     }
 
     h1 {
         font-size: 4rem;
         color: #dd6871;
+        margin-bottom: 1rem;
     }
 
     h4 {
         font-size: 2rem;
         color: #dd6871;
+        margin-bottom: 1rem;
+
+        p {
+            display: inline-block;
+        }
     }
 
     .info {
         display: flex;
         flex-direction: column;
+        color: black;
 
         .instructions {
             display: flex;
@@ -36,7 +54,10 @@
             .ingredients,
             .steps {
                 text-align: left;
-                width: 20vw;
+                // width: 20vw;
+                width: 500px;
+                line-height: 1.5;
+                margin-bottom: 2rem;
 
                 ul {
                     list-style: none;
@@ -55,7 +76,10 @@
             }
 
             h2 {
-                border-bottom: 2px solid pink;
+                font-size: 3rem;
+                text-align: center;
+                color: #dd6871;
+                border-bottom: 2px solid #dd6871;
             }
         }
     }
