@@ -1,7 +1,7 @@
 <template>
     <div class="recipe">
         <div class="image">
-            <ContentSlot :use="$slots.image" name="image" unwrap="p" path />
+            <ContentSlot :use="$slots.image" name="image" unwrap="p" />
         </div>
 
         <h1>
@@ -10,7 +10,7 @@
 
         <h4>
             Servings:
-            <Contentslot :use="$slots.default" unwrap="p" />
+            <Contentslot :use="$slots.p" unwrap="p" />
         </h4>
 
         <div class="info">

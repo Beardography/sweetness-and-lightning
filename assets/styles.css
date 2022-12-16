@@ -13,8 +13,8 @@
 }
 
 body {
-  background-color: black;
-  color: white;
+  background-color: #f6cfcb;
+  color: black;
   font-family: sans-serif;
 }
 
@@ -72,7 +72,6 @@ h1 {
 .recipe {
   text-align: center;
   color: #dd6871;
-  background-color: #f6cfcb;
 }
 .recipe .image {
   height: 596px;

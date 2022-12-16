@@ -1,12 +1,12 @@
 ::recipe
 #image
-![aji](/assets/images/vol3/aji.jpg)
+![tester](/img/aji.jpg)
 
 #name
 Aji
 
 #servings
-:2
+tester
 
 #ingredients
 - 2 aji (200-250g)
