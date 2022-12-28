@@ -1,3 +1,16 @@
+---
+title: Buri-Daikon
+
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
+
+image: "img/vol5/buri_daikon.jpg"
+
+servings: "Serves 3-4"
+
+
+recipeNumber: '22'
+---
+
 ::recipe
 #image
 ![buri-daikon](/img/vol5/buri_daikon.jpg)

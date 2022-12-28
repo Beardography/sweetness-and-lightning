@@ -1,9 +1,23 @@
+---
+title: Hamaguri clam rice / Asari Clam Miso Soup
+
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
+
+image: "img/vol8/hamaguri_clam_rice.jpg"
+
+servings: "Serves 3-4"
+
+tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
+
+recipeNumber: '36'
+---
+
 ::recipe
 #image
 ![hamaguri clam rice](/img/vol8/hamaguri_clam_rice.jpg)
 
 #name
-Hamaguri clam rice / asari clam miso soup
+Hamaguri clam rice / Asari Clam Miso Soup
 
 #servings
 null

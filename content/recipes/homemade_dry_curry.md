@@ -1,3 +1,17 @@
+---
+title: Homemade Dry Curry
+
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
+
+image: "img/vol3/homemade_dry_curry.jpg"
+
+servings: "Serves 3-4"
+
+tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
+
+recipeNumber: '12'
+---
+
 ::recipe
 #image
 ![homemade dry curry](/img/vol3/homemade_dry_curry.jpg)

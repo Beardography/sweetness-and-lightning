@@ -1,3 +1,17 @@
+---
+title: Fried shrimp / Taru-Taru Sauce
+
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
+
+image: "img/vol12/fried_shrimp.jpg"
+
+servings: "Serves 3-4"
+
+tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
+
+recipeNumber: '58'
+---
+
 ::recipe
 #image
 ![fried shrimp](/img/vol12/fried_shrimp.jpg)

@@ -1,3 +1,17 @@
+---
+title: Tamagoyaki (for boxed lunches)
+
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
+
+image: "img/vol3/tamagoyaki.jpg"
+
+servings: "Serves 3-4"
+
+tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
+
+recipeNumber: '15'
+---
+
 ::recipe
 #image
 ![tamagoyaki](/img/vol3/tamagoyaki.jpg)

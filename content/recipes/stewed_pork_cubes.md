@@ -1,9 +1,23 @@
+---
+title: Stewed Pork Cubes
+
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
+
+image: "img/vol12/stewed_pork_cubes.jpg"
+
+servings: "Serves 3-4"
+
+tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
+
+recipeNumber: '57'
+---
+
 ::recipe
 #image
 ![stewed pork cubes](/img/vol12/stewed_pork_cubes.jpg)
 
 #name
-# Stewed pork cubes
+# Stewed Pork Cubes
 
 #servings
 null

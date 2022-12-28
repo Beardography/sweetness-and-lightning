@@ -1,56 +1,63 @@
-.card-group {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    margin: 20px;
+.card {
+    width: 350px;
+    height: 430px;
+    border-radius: 1rem;
+    background-color: #f6cfcb;
+    border: 2px solid #dd6871;
 
-    .card {
-        width: 350px;
-        height: 400px;
-        background-color: pink;
-        color: black;
-        // padding: 20px;
-        margin: 20px;
-        border-radius: 10px;
-        box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
-        transition: all 0.3s ease-in-out;
+    .card-header {
+        width: 100%;
+        height: 200px;
+        border-radius: 1rem 1rem 0 0;
+        overflow: hidden;
 
-        .card-header {
-            overflow: hidden;
-
-            img {
-                width: 100%;
-                height: 200px;
-                object-fit: cover;
-                border-radius: 10px 10px 0 0;
-                border-bottom: 1px solid white;
-                mix-blend-mode: multiply;
-                filter: grayscale(100%);
-            }
+        img {
+            width: 100%;
+            height: auto;
+            border-bottom: 2px solid #dd6871;
+            mix-blend-mode: multiply;
         }
+    }
 
-        .card-body {
-            margin: 0.5rem 0;
-            height: 120px;
-            padding: 0 1rem;
+    .card-body {
+        padding: 1rem;
+
+        h4 {
             overflow: hidden;
             text-overflow: ellipsis;
+            white-space: nowrap;
+            // width: 100%;
+            font-size: 1.5rem;
+            // color: green;
+            margin-bottom: 0.5rem;
         }
 
-        .card-footer {
-            small {
-                ul {
-                    list-style: none;
-                    display: flex;
-                    gap: 0.5rem;
-
-                    li {
-                        color: black;
-                        font-weight: bold;
-                    }
-                }
-            }
+        h6 {
+            font-size: 1rem;
+            font-weight: 800;
+            text-transform: uppercase;
+            margin-bottom: 0.5rem;
         }
+
+        p {
+            font-size: 1rem;
+            // color: blue;
+        }
+    }
+
+    .card-footer {
+        width: 100%;
+        height: 40px;
+        border-radius: 0 0 1rem 1rem;
+        border-top: 2px solid #dd6871;
+        // background-color: #dd6871;
+        color: #dd6871;
+        padding: 0rem 1rem;
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        align-items: center;
+        font-size: 14px;
+        font-weight: 800;
     }
 }

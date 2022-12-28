@@ -1,3 +1,17 @@
+---
+title: Pizza / Miso Onion Burdock Pizza / Vegetable Garden Pizza
+
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
+
+image: "img/vol11/pizza.jpg"
+
+servings: "Serves 3-4"
+
+tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
+
+recipeNumber: '51'
+---
+
 ::recipe
 #image
 ![pizza](/img/vol11/pizza.jpg)

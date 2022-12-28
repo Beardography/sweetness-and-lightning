@@ -1,3 +1,17 @@
+---
+title: Potato Croquettes
+
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
+
+image: "img/vol5/potato_croquettes.jpg"
+
+servings: "Serves 3-4"
+
+tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
+
+recipeNumber: '24'
+---
+
 ::recipe
 #image
 ![potato croquettes](/img/vol5/potato_croquettes.jpg)

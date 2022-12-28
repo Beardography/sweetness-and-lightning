@@ -1,10 +1,15 @@
 ---
-title: "Salisbury Steak"
-description: null
-head:
-    meta:
-        - name: 'keywords'
-          content: "food, cooking, recipes, baking"
+title: Salisbury Steak
+
+description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
+
+image: "img/vol1/salisbury_steak.jpg"
+
+servings: "Serves 3-4"
+
+tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
+
+recipeNumber: '3'
 ---
 
 ::recipe
