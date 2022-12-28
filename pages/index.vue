@@ -22,7 +22,9 @@
 
                                 <div class="card-footer">
                                     <ul>
-                                        <li>{{ recipe.tags }}</li>
+                                        <li>
+                                            {{ recipe.tags }}
+                                        </li>
                                     </ul>
                                 </div>
                             </div>

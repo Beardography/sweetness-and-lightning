@@ -8,6 +8,8 @@ image: "img/vol2/squid_and_taro_stew.jpg"
 servings: "Serves 3-4"
 
 tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
+
+recipeNumber: '8'
 ---
 
 ::recipe

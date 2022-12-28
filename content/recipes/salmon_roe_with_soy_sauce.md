@@ -8,6 +8,8 @@ image: "img/vol10/salmon_roe_with_soy_sauce.jpg"
 servings: "Serves 3-4"
 
 tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
+
+recipeNumber: '47'
 ---
 
 ::recipe

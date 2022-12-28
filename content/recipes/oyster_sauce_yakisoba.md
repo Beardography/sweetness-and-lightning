@@ -8,6 +8,8 @@ image: "img/vol9/oyster_sauce_yakisoba.jpg"
 servings: "Serves 3-4"
 
 tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
+
+recipeNumber: '41'
 ---
 
 ::recipe
