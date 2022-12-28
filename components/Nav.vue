@@ -1,7 +1,11 @@
 <template>
     <header>
-        <h1>
-            <NuxtLink to="/">Sweetness &amp; Lightning</NuxtLink>
-        </h1>
+        <NuxtLink to="/">
+            <div class="logo">
+                <h1>Sweetness &amp; Lightning</h1>
+            </div>
+        </NuxtLink>
+
+        <div class="search"></div>
     </header>
 </template>
