@@ -1,9 +1,9 @@
 ---
-title: Beef Stew
+title: Takenoko Shumai (Shiitake Shumai)
 
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
 
-image: "img/vol4/beef_stew.jpg"
+image: "img/vol7/shumai.jpg"
 
 servings: "Serves 3-4"
 

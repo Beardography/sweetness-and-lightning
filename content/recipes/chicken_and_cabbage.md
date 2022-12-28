@@ -1,9 +1,9 @@
 ---
-title: Beef Stew
+title: Chicken and cabbage
 
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
 
-image: "img/vol4/beef_stew.jpg"
+image: "img/vol11/chicken_and_cabbage.jpg"
 
 servings: "Serves 3-4"
 

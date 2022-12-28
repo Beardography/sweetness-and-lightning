@@ -1,9 +1,9 @@
 ---
-title: Beef Stew
+title: Soy-Preserved Oysters / Miso-Stewed Beef Tendon
 
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
 
-image: "img/vol4/beef_stew.jpg"
+image: "img/vol12/soy_preserved_oysters.jpg"
 
 servings: "Serves 3-4"
 
@@ -15,7 +15,7 @@ tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
 ![soy-preserved oysters](/img/vol12/soy_preserved_oysters.jpg)
 
 #name
-Soy-preserved oysters / miso-stewed beef tendon
+Soy-Preserved Oysters / Miso-Stewed Beef Tendon
 
 #servings
 null

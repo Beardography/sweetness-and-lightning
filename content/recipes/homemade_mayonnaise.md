@@ -1,9 +1,9 @@
 ---
-title: Beef Stew
+title: Homemade Mayonnaise / Sesame Mayo Dressing / Japanese Salad Dressing / Japanese-Style Green Onion Salad Dressing
 
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
 
-image: "img/vol4/beef_stew.jpg"
+image: "img/vol10/homemade_mayo.jpg"
 
 servings: "Serves 3-4"
 

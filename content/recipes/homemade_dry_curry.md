@@ -1,9 +1,9 @@
 ---
-title: Beef Stew
+title: Homemade Dry Curry
 
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
 
-image: "img/vol4/beef_stew.jpg"
+image: "img/vol3/homemade_dry_curry.jpg"
 
 servings: "Serves 3-4"
 

@@ -1,9 +1,9 @@
 ---
-title: Beef Stew
+title: Spaghetti Carbonara
 
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
 
-image: "img/vol4/beef_stew.jpg"
+image: "img/vol5/spaghetti_carbonara.jpg"
 
 servings: "Serves 3-4"
 

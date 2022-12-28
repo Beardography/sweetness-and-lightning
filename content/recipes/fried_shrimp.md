@@ -1,9 +1,9 @@
 ---
-title: Beef Stew
+title: Fried shrimp / Taru-Taru Sauce
 
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
 
-image: "img/vol4/beef_stew.jpg"
+image: "img/vol12/fried_shrimp.jpg"
 
 servings: "Serves 3-4"
 
