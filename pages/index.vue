@@ -100,12 +100,14 @@
                         border-radius: 0 0 1rem 1rem;
                         border-top: 2px solid #dd6871;
                         // background-color: #dd6871;
-                        color: black;
+                        color: #dd6871;
                         padding: 0rem 1rem;
                         display: flex;
                         justify-content: start;
                         align-items: center;
                         align-items: center;
+                        font-size: 14px;
+                        font-weight: 800;
                     }
                 }
             }
