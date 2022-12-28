@@ -146,4 +146,21 @@ h1 {
   text-align: center;
   color: #dd6871;
   border-bottom: 2px solid #dd6871;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 0.5rem;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  border-radius: 1rem;
+  box-shadow: inset 0 0 0.5rem #f6cfcb;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #dd6871;
+  border-radius: 1rem;
 }/*# sourceMappingURL=styles.css.map */
