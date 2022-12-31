@@ -68,7 +68,7 @@ h1 {
   color: #dd6871;
   padding: 0rem 1rem;
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: center;
   align-items: center;
   font-size: 14px;
