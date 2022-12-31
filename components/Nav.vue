@@ -6,6 +6,8 @@
             </div>
         </NuxtLink>
 
-        <div class="search"></div>
+        <NuxtLink to="/">
+            <h3>Home</h3>
+        </NuxtLink>
     </header>
 </template>

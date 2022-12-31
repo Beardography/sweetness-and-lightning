@@ -20,7 +20,7 @@ body {
 
 header {
   width: 100%;
-  padding: 1rem;
+  padding: 1rem 2rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -36,11 +36,6 @@ header .logo h1 {
   vertical-align: middle;
   font-weight: 600;
   font-size: 1.5rem;
-}
-header .search {
-  width: 40%;
-  height: 1rem;
-  background-color: orange;
 }
 
 .card {
@@ -112,9 +107,11 @@ header .search {
   background-color: #f6cfcb;
   overflow: hidden;
   margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
 }
 .recipe .image img {
-  width: 101%;
+  width: 102%;
   height: auto;
   mix-blend-mode: multiply;
 }
