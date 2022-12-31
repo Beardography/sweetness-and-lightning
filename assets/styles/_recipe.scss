@@ -1,11 +1,12 @@
 .recipe {
     text-align: center;
     color: #dd6871;
+    display: flex;
 
     .image {
         // height: 600px;
         // width: 1800px;
-        width: 1200px;
+        max-width: 1200px;
         height: 600px;
         margin: 0 auto;
         border-radius: 1rem;
@@ -16,9 +17,11 @@
         background-color: #f6cfcb;
         overflow: hidden;
         margin-bottom: 2rem;
+        display: flex;
+        justify-content: center;
 
         img {
-            width: 101%;
+            width: 102%;
             height: auto;
             mix-blend-mode: multiply;
         }
