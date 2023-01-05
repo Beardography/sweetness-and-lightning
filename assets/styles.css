@@ -84,7 +84,7 @@ header .logo h1 {
   color: #dd6871;
   padding: 0rem 1rem;
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-items: center;
   align-items: center;
   font-size: 14px;
@@ -92,79 +92,48 @@ header .logo h1 {
 }
 
 .recipe {
-  text-align: center;
-  color: #dd6871;
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  gap: 1rem;
+  display: flex;
+  flex-direction: column;
+  background-color: orange;
 }
 .recipe .image {
-  width: 1200px;
-  height: 600px;
-  margin: 0 auto;
-  border-radius: 1rem;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  align-content: center;
-  background-color: #f6cfcb;
+  width: 100%;
+  aspect-ratio: 16/9;
   overflow: hidden;
-  margin-bottom: 2rem;
-  display: flex;
-  justify-content: center;
+  background-color: lightseagreen;
 }
 .recipe .image img {
-  width: 102%;
-  height: auto;
+  width: 100%;
   mix-blend-mode: multiply;
-}
-.recipe h1 {
-  font-size: 4rem;
-  color: #dd6871;
-  margin-bottom: 1rem;
-}
-.recipe h4 {
-  font-size: 2rem;
-  color: #dd6871;
-  margin-bottom: 1rem;
-}
-.recipe h4 p {
-  display: inline-block;
 }
 .recipe .info {
   display: flex;
   flex-direction: column;
-  color: black;
+  gap: 1rem;
+  background-color: lightblue;
+}
+.recipe .info .instructions ul,
+.recipe .info .points ul {
+  list-style: none;
 }
 .recipe .info .instructions {
   display: flex;
   flex-direction: row;
-  gap: 2rem;
-  justify-content: center;
-  align-content: flex-start;
+  background-color: lightgreen;
 }
 .recipe .info .instructions .ingredients,
 .recipe .info .instructions .steps {
-  text-align: left;
-  width: 500px;
-  line-height: 1.5;
-  margin-bottom: 2rem;
+  flex-grow: 2;
+  flex-basis: 0;
+  background-color: lightpink;
 }
-.recipe .info .instructions .ingredients ul,
-.recipe .info .instructions .steps ul {
-  list-style: none;
-  padding: 0;
-}
-.recipe .info .instructions .ingredients ul li,
-.recipe .info .instructions .steps ul li {
-  margin: 1rem 0;
-}
-.recipe .info .instructions .ingredients ol li,
-.recipe .info .instructions .steps ol li {
-  margin: 1rem 0;
-}
-.recipe .info .instructions h2 {
-  font-size: 3rem;
-  text-align: center;
-  color: #dd6871;
-  border-bottom: 2px solid #dd6871;
+.recipe .info .instructions .steps ol {
+  -webkit-margin-start: 1rem;
+          margin-inline-start: 1rem;
 }
 
 /* width */

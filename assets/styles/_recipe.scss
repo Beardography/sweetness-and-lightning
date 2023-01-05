@@ -1,90 +1,175 @@
+// .recipe {
+//     text-align: center;
+//     color: #dd6871;
+//     display: flex;
+//     flex-direction: column;
+
+//     .image {
+//         // height: 600px;
+//         // width: 1800px;
+//         max-width: 1200px;
+//         height: 600px;
+//         margin: 0 auto;
+//         border-radius: 1rem;
+//         display: flex;
+//         justify-content: center;
+//         align-items: center;
+//         align-content: center;
+//         background-color: #f6cfcb;
+//         overflow: hidden;
+//         margin-bottom: 2rem;
+//         display: flex;
+//         justify-content: center;
+
+//         img {
+//             width: 102%;
+//             height: auto;
+//             mix-blend-mode: multiply;
+//         }
+//     }
+
+//     h1 {
+//         font-size: 4rem;
+//         color: #dd6871;
+//         margin-bottom: 1rem;
+//     }
+
+//     h4 {
+//         font-size: 2rem;
+//         color: #dd6871;
+//         margin-bottom: 1rem;
+
+//         p {
+//             display: inline-block;
+//         }
+//     }
+
+//     .info {
+//         display: flex;
+//         flex-direction: column;
+//         color: black;
+
+//         .instructions {
+//             display: flex;
+//             flex-direction: row;
+//             gap: 2rem;
+//             justify-content: center;
+//             align-content: flex-start;
+
+//             .ingredients,
+//             .steps {
+//                 text-align: left;
+//                 // width: 20vw;
+//                 max-width: 500px;
+//                 line-height: 1.5;
+//                 margin-bottom: 2rem;
+
+//                 ul {
+//                     list-style: none;
+//                     padding: 0;
+
+//                     li {
+//                         margin: 1rem 0;
+//                     }
+//                 }
+
+//                 ol {
+//                     li {
+//                         margin: 1rem 0;
+//                     }
+//                 }
+//             }
+
+//             h2 {
+//                 font-size: 3rem;
+//                 text-align: center;
+//                 color: #dd6871;
+//                 border-bottom: 2px solid #dd6871;
+//             }
+//         }
+//     }
+// }
+
+// @media only screen and (max-width: 600px) {
+//     .recipe {
+//         padding: 0 1rem;
+//         background-color: lightblue;
+
+//         .image {
+//             width: 100%;
+//             height: auto;
+//             aspect-ratio: 3/2;
+//             // background-color: orange;
+
+//             img {
+//                 width: auto;
+//                 height: 100%;
+//             }
+//         }
+
+// .info {
+//     flex-direction: column;
+//     flex-wrap: wrap;
+//     justify-content: center;
+
+//     .instructions,
+//     .steps {
+//         width: 100%;
+//     }
+// }
+//     }
+// }
+
 .recipe {
-    text-align: center;
-    color: #dd6871;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    gap: 1rem;
     display: flex;
     flex-direction: column;
+    background-color: orange;
 
     .image {
-        // height: 600px;
-        // width: 1800px;
-        max-width: 1200px;
-        height: 600px;
-        margin: 0 auto;
-        border-radius: 1rem;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        align-content: center;
-        background-color: #f6cfcb;
+        width: 100%;
+        aspect-ratio: 16/9;
         overflow: hidden;
-        margin-bottom: 2rem;
-        display: flex;
-        justify-content: center;
+        background-color: lightseagreen;
 
         img {
-            width: 102%;
-            height: auto;
+            width: 100%;
             mix-blend-mode: multiply;
-        }
-    }
-
-    h1 {
-        font-size: 4rem;
-        color: #dd6871;
-        margin-bottom: 1rem;
-    }
-
-    h4 {
-        font-size: 2rem;
-        color: #dd6871;
-        margin-bottom: 1rem;
-
-        p {
-            display: inline-block;
         }
     }
 
     .info {
         display: flex;
         flex-direction: column;
-        color: black;
+        gap: 1rem;
+        background-color: lightblue;
+
+        .instructions,
+        .points {
+            ul {
+                list-style: none;
+            }
+        }
 
         .instructions {
             display: flex;
             flex-direction: row;
-            gap: 2rem;
-            justify-content: center;
-            align-content: flex-start;
+            background-color: lightgreen;
 
             .ingredients,
             .steps {
-                text-align: left;
-                // width: 20vw;
-                width: 500px;
-                line-height: 1.5;
-                margin-bottom: 2rem;
-
-                ul {
-                    list-style: none;
-                    padding: 0;
-
-                    li {
-                        margin: 1rem 0;
-                    }
-                }
-
-                ol {
-                    li {
-                        margin: 1rem 0;
-                    }
-                }
+                flex-grow: 2;
+                flex-basis: 0;
+                background-color: lightpink;
             }
 
-            h2 {
-                font-size: 3rem;
-                text-align: center;
-                color: #dd6871;
-                border-bottom: 2px solid #dd6871;
+            .steps {
+                ol {
+                    margin-inline-start: 1rem;
+                }
             }
         }
     }
