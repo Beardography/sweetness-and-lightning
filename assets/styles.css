@@ -94,6 +94,7 @@ header .logo h1 {
 .recipe {
   max-width: 1200px;
   width: 100%;
+  padding: 0rem 1rem;
   margin: 0 auto;
   gap: 1rem;
   display: flex;
@@ -132,10 +133,15 @@ header .logo h1 {
   background-color: lightpink;
 }
 .recipe .info .instructions .steps ol {
-  -webkit-margin-start: 1rem;
-          margin-inline-start: 1rem;
+  -webkit-margin-start: 1.25rem;
+          margin-inline-start: 1.25rem;
 }
 
+@media only screen and (max-width: 600px) {
+  .recipe .info .instructions {
+    flex-direction: column;
+  }
+}
 /* width */
 ::-webkit-scrollbar {
   width: 0.5rem;
