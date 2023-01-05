@@ -129,7 +129,7 @@
     gap: 1rem;
     display: flex;
     flex-direction: column;
-    background-color: orange;
+    // background-color: orange;
 
     .image {
         width: 100%;
@@ -138,7 +138,7 @@
         border-radius: 1rem;
         aspect-ratio: 16/9;
         overflow: hidden;
-        background-color: lightseagreen;
+        background-color: #f6cfcb;
 
         img {
             width: 102%;
@@ -175,7 +175,7 @@
         display: flex;
         flex-direction: column;
         gap: 1rem;
-        background-color: lightblue;
+        // background-color: lightblue;
 
         .instructions,
         .points {
@@ -194,7 +194,7 @@
             gap: 2rem;
             justify-content: center;
             align-content: flex-start;
-            background-color: lightgreen;
+            // background-color: lightgreen;
 
             .ingredients,
             .steps {
