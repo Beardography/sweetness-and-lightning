@@ -129,31 +129,28 @@ header .logo h1 {
   color: #dd6871;
   text-align: center;
 }
+.recipe h2 {
+  font-size: 2.5rem;
+  text-align: center;
+  color: #dd6871;
+  border-bottom: 2px solid #dd6871;
+}
 .recipe h4 {
-  font-size: 2rem;
+  font-size: 1.75rem;
   color: #dd6871;
   text-align: center;
 }
 .recipe h4 p {
   display: inline-block;
 }
-.recipe h2 {
-  font-size: 3rem;
-  text-align: center;
-  color: #dd6871;
-  border-bottom: 2px solid #dd6871;
-}
 .recipe .info {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
 }
-.recipe .info .instructions ul,
-.recipe .info .points ul {
+.recipe .info .instructions ul {
   list-style: none;
 }
-.recipe .info .instructions ul li,
-.recipe .info .points ul li {
+.recipe .info .instructions ul li {
   margin: 1rem 0;
 }
 .recipe .info .instructions {
@@ -180,6 +177,18 @@ header .logo h1 {
 }
 .recipe .info .instructions .steps ol li {
   margin: 1rem 0;
+}
+.recipe .info .points {
+  font-style: italic;
+}
+.recipe .info .points ul {
+  list-style-type: none;
+}
+.recipe .info .points ul li {
+  margin: 0 0 0.5rem 0;
+}
+.recipe .info .points ul li::before {
+  content: "* ";
 }
 
 @media only screen and (max-width: 600px) {

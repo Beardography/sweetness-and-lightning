@@ -26,7 +26,7 @@
                 </div>
             </div>
             <div class="points">
-                <h4>Points</h4>
+                <!-- <h4>Points</h4> -->
                 <slot name="points" />
             </div>
         </div>
