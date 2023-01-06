@@ -115,9 +115,26 @@
 
 @media only screen and (max-width: 600px) {
     .recipe {
+        h1 {
+            font-size: 3rem;
+        }
+
+        h2 {
+            font-size: 2rem;
+        }
+
+        h4 {
+            font-size: 1.75rem;
+        }
+
         .info {
             .instructions {
                 flex-direction: column;
+                gap: 2rem;
+
+                .ingredients {
+                    margin-bottom: 0;
+                }
             }
         }
     }
