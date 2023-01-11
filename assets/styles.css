@@ -70,6 +70,7 @@ header .logo h1 {
 }
 .card .card-body {
   padding: 1rem;
+  height: 184px;
 }
 .card .card-body h4 {
   overflow: hidden;
