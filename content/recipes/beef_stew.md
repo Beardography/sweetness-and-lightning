@@ -1,15 +1,15 @@
 ---
 title: Beef Stew
 
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tincidunt eget nullam non nisi est sit amet facilisis."
+description: "This is a description of beef stew."
 
 image: "img/vol4/beef_stew.jpg"
 
 servings: "Serves 3-4"
 
-tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
+tags: "tag 1, tag 2, tag 3, tag 4, tag 5"
 
-recipeNumber: '20'
+recipeNumber: "20"
 ---
 
 ::recipe
@@ -22,27 +22,29 @@ Beef Stew
 #servings
 
 #ingredients
-- 1 1/2 onions
-- 1 carrot
-- 1 clove garlic
-- 500g beef flank (steak)
-- Some salt and pepper
-- 200cc red wine
-- 6 mushrooms
 
-- 10g butter
-- 1/2 tbsp vegetable oil
+-   1 1/2 onions
+-   1 carrot
+-   1 clove garlic
+-   500g beef flank (steak)
+-   Some salt and pepper
+-   200cc red wine
+-   6 mushrooms
 
-- 200cc water
-- 150g canned tomatoes
-- 1 can demi-glace sauce
-- 1/2 tsp salt
-- Bouquet garnish (one piece each of celery and parsley, and one bay leaf tied with a string)
+-   10g butter
+-   1/2 tbsp vegetable oil
 
-- 10g butter
-- 1/2 tbsp vegetable oil
+-   200cc water
+-   150g canned tomatoes
+-   1 can demi-glace sauce
+-   1/2 tsp salt
+-   Bouquet garnish (one piece each of celery and parsley, and one bay leaf tied with a string)
+
+-   10g butter
+-   1/2 tbsp vegetable oil
 
 #steps
+
 1. Mince 1/2 of an onion and 1/4 of the carrot. Thinly slice the garlic. Cut the beef into 8 or 9 even portions and season with salt and pepper.
 
 2. Heat Group A ingredients in a frying pan and add the beef from Step 1. Sear the meat on high heat. Once all sides are browned, take it out and transfer to a pressure coker
@@ -60,5 +62,6 @@ Beef Stew
 8. Add ingredients from Step 7 to the pressure cooker from Step 5 and boil for 20-30 minutes. Season to taste and...done!
 
 #points
-- Once the stew thickens up, the bottom of the pressure cooker has a tendency to burn, so stir with a spatula once in a while. Also, note that the meat will fall apart easily!
-::
+
+-   Once the stew thickens up, the bottom of the pressure cooker has a tendency to burn, so stir with a spatula once in a while. Also, note that the meat will fall apart easily!
+    ::
