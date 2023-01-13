@@ -14,8 +14,7 @@
 
                                 <div class="card-body">
                                     <h4>
-                                        {{ recipe.title }} /
-                                        {{ recipe.recipeNumber }}
+                                        {{ recipe.title }}
                                     </h4>
                                     <h6>{{ recipe.servings }}</h6>
                                     <p>{{ recipe.description }}</p>
