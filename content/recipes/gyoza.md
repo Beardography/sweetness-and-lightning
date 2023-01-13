@@ -5,7 +5,7 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 
 image: "img/vol2/gyoza.jpg"
 
-servings: "Serves 3-4"
+servings: "Makes 24"
 
 tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
 

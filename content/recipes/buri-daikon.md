@@ -5,7 +5,7 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 
 image: "img/vol5/buri_daikon.jpg"
 
-servings: "Serves 3-4"
+servings: "Serves 3"
 
 
 recipeNumber: '22'

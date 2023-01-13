@@ -5,11 +5,11 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 
 image: "img/vol6/mackerel_pike.jpg"
 
-servings: "Serves 3-4"
+servings: "Serves 2-3"
 
 tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
 
-recipeNumber: '27'
+recipeNumber: '28'
 ---
 
 ::recipe

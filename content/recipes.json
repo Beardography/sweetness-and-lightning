@@ -25,7 +25,7 @@
         "name": "Miso Pork Soup",
         "volume": 1,
         "number": 2,
-        "servings": "null",
+        "servings": "3-4",
         "ingredients": [
             "7cm daikon radish",
             "1/2 carrot",
@@ -64,7 +64,7 @@
         "name": "Salisbury Steak",
         "volume": 1,
         "number": 3,
-        "servings": "null",
+        "servings": "3-4",
         "ingredients": [
             [
                 "300g mixed ground pork and beef",
@@ -109,7 +109,7 @@
         "name": "Fried Chicken",
         "volume": 1,
         "number": 4,
-        "servings": "null",
+        "servings": "3-4",
         "ingredients": [
             [
                 "300g chicken (thighs)",
@@ -149,7 +149,7 @@
         "name": "Chawanmushi",
         "volume": 1,
         "number": 5,
-        "servings": "null",
+        "servings": "3-4",
         "ingredients": [
             ["1L Water", "40 g katsuobushi", "10 cm sq piece konbu"],
 
@@ -190,8 +190,8 @@
     {
         "name": "Gratin",
         "volume": 2,
-        "number": null,
-        "servings": "null",
+        "number": 6,
+        "servings": "4",
         "ingredients": [
             [
                 "1 potato",
@@ -239,8 +239,8 @@
     {
         "name": "Yeast Doughnuts",
         "volume": 2,
-        "number": null,
-        "servings": "null",
+        "number": 7,
+        "servings": "makes 8",
         "ingredients": [
             [
                 "100 g each of weak flour and strong flour",
@@ -288,8 +288,8 @@
     {
         "name": "Squid and Taro Stew",
         "volume": 2,
-        "number": null,
-        "servings": "null",
+        "number": 8,
+        "servings": "3-4",
         "ingredients": [
             ["800g taro", "some okra", "2 (3 if small) Japanese squid"],
 
@@ -322,8 +322,8 @@
     {
         "name": "Gyoza",
         "volume": 2,
-        "number": null,
-        "servings": "null",
+        "number": 9,
+        "servings": "makes 24",
         "ingredients": [
             [
                 "100g each of strong flower and weak flower (sifted)",
@@ -369,8 +369,8 @@
     {
         "name": "Goheimochi",
         "volume": 2,
-        "number": null,
-        "servings": "null",
+        "number": 10,
+        "servings": "makes 5-6",
         "ingredients": [
             ["2 cups rice"],
 
@@ -401,8 +401,8 @@
     {
         "name": "Warm Bread Porridge",
         "volume": 3,
-        "number": null,
-        "servings": "null",
+        "number": 11,
+        "servings": "1",
         "ingredients": [
             [
                 "1/2 slice of bread (from a six-slice loaf) cut into 1cm cubes",
@@ -446,8 +446,8 @@
     {
         "name": "Homemade Dry Curry",
         "volume": 3,
-        "number": null,
-        "servings": "null",
+        "number": 12,
+        "servings": "3-4",
         "ingredients": [
             ["400g ground pork"],
 
@@ -493,8 +493,8 @@
     {
         "name": "Aji",
         "volume": 3,
-        "number": null,
-        "servings": "null",
+        "number": 13,
+        "servings": "2",
         "ingredients": [
             ["2 aji (200-250g)", "10g ginger", "3 green onions", "1 tbsp miso"],
 
@@ -533,8 +533,8 @@
     {
         "name": "Sesame Seed Chilled Chinese Noodles",
         "volume": 3,
-        "number": null,
-        "servings": "null",
+        "number": 14,
+        "servings": "3",
         "ingredients": [
             [
                 "3 packs of fresh Chinese noodles",
@@ -591,8 +591,8 @@
     {
         "name": "Tamagoyaki (for boxed lunches)",
         "volume": 3,
-        "number": null,
-        "servings": "null",
+        "number": 15,
+        "servings": "2",
         "ingredients": [
             "3 eggs",
             "50cc dashi",
@@ -632,8 +632,8 @@
     {
         "name": "Shougayaki (ginger-fried pork)",
         "volume": 4,
-        "number": null,
-        "servings": "null",
+        "number": 16,
+        "servings": "3",
         "ingredients": [
             [
                 "1 onion",
@@ -672,8 +672,8 @@
     {
         "name": "Sweet Potato and Cream Crepes",
         "volume": 4,
-        "number": null,
-        "servings": "null",
+        "number": 17,
+        "servings": "makes 10",
         "ingredients": [
             [
                 "250cc milk",
@@ -728,8 +728,8 @@
     {
         "name": "Kinpira Gobou",
         "volume": 4,
-        "number": null,
-        "servings": "null",
+        "number": 18,
+        "servings": "4",
         "ingredients": [
             [
                 "40g carrot (you'll use 3-4cm of the thickest part of the carrot)",
@@ -763,8 +763,8 @@
     {
         "name": "Okonomiyaki",
         "volume": 4,
-        "number": null,
-        "servings": "null",
+        "number": 19,
+        "servings": "makes 1",
         "ingredients": [
             [
                 "some vegetable oil",
@@ -819,8 +819,8 @@
     {
         "name": "Beef Stew",
         "volume": 4,
-        "number": null,
-        "servings": "null",
+        "number": 20,
+        "servings": "3",
         "ingredients": [
             [
                 "1 1/2 onions",
@@ -873,8 +873,8 @@
     {
         "name": "Omochi",
         "volume": 5,
-        "number": null,
-        "servings": "null",
+        "number": 21,
+        "servings": "3",
         "ingredients": [
             [
                 "100g azuki beans",
@@ -939,8 +939,8 @@
     {
         "name": "Buri-Daikon",
         "volume": 5,
-        "number": null,
-        "servings": "null",
+        "number": 22,
+        "servings": "3",
         "ingredients": [
             [
                 "Buri Ara (yellowtail head and other leavings) 4-500g",
@@ -994,8 +994,8 @@
     {
         "name": "Sushi Cake",
         "volume": 5,
-        "number": null,
-        "servings": "null",
+        "number": 23,
+        "servings": "3",
         "ingredients": [
             [
                 "120g fresh cod (a little less than two fillets)",
@@ -1065,8 +1065,8 @@
     {
         "name": "Spaghetti Carbonara",
         "volume": 5,
-        "number": null,
-        "servings": "null",
+        "number": 24,
+        "servings": "1",
         "ingredients": [
             "100g spaghetti (thick)",
             "20g cheese (Parmigiano Reggiano)",
@@ -1098,8 +1098,8 @@
     {
         "name": "Potato Croquettes",
         "volume": 5,
-        "number": null,
-        "servings": "null",
+        "number": 25,
+        "servings": "2",
         "ingredients": [
             [
                 "2 large potatoes (240g)",
@@ -1159,8 +1159,8 @@
     {
         "name": "Corn Soup",
         "volume": 6,
-        "number": null,
-        "servings": "null",
+        "number": 26,
+        "servings": "2-3",
         "ingredients": [
             "1 cob of corn",
             "1/4 tsp salt",
@@ -1188,8 +1188,8 @@
     {
         "name": "Bread Sticks",
         "volume": 6,
-        "number": null,
-        "servings": "null",
+        "number": 27,
+        "servings": "makes 6",
         "ingredients": [
             ["300g strong flour", "20g butter", "180cc lukewarm water"],
 
@@ -1228,8 +1228,8 @@
     {
         "name": "Mackerel-Pike Stewed in Tomatoes",
         "volume": 6,
-        "number": null,
-        "servings": "null",
+        "number": 28,
+        "servings": "2-3",
         "ingredients": [
             [
                 "2 mackerel pike",
@@ -1282,8 +1282,8 @@
     {
         "name": "Onigiri",
         "volume": 6,
-        "number": null,
-        "servings": "null",
+        "number": 29,
+        "servings": "as many as you want",
         "ingredients": [
             "some rice",
             "salt",
@@ -1318,8 +1318,8 @@
     {
         "name": "Chicken Stewed in Cream",
         "volume": 6,
-        "number": null,
-        "servings": "null",
+        "number": 30,
+        "servings": "4",
         "ingredients": [
             [
                 "Roughly 800g of bone-in chicken thigh",
@@ -1371,8 +1371,8 @@
     {
         "name": "Yule Log",
         "volume": 7,
-        "number": null,
-        "servings": "null",
+        "number": 31,
+        "servings": "4-5",
         "ingredients": [
             ["100g granulated sugar", "30cc milk", "100g weak flour"],
 
@@ -1427,8 +1427,8 @@
     {
         "name": "Kuri Kinton",
         "volume": 7,
-        "number": null,
-        "servings": "null",
+        "number": 32,
+        "servings": "4-5",
         "ingredients": [
             [
                 "400g (net weight) peeled sweet potatoes",
@@ -1467,8 +1467,8 @@
     {
         "name": "Oyako-Don",
         "volume": 7,
-        "number": null,
-        "servings": "null",
+        "number": 33,
+        "servings": "2",
         "ingredients": [
             [
                 "1/2 chicken thigh (150g)",
@@ -1510,8 +1510,8 @@
     {
         "name": "Takenoko Shumai (Shiitake Shumai)",
         "volume": 7,
-        "number": null,
-        "servings": "null",
+        "number": 34,
+        "servings": "makes 30",
         "ingredients": [
             ["300g group pork", "2/3 onion (140g)", "60g shumai crusts"],
 
@@ -1577,8 +1577,8 @@
     {
         "name": "Sawara (Saikyo-yaki) / Wakame Seaweed Rice",
         "volume": 8,
-        "number": null,
-        "servings": "null",
+        "number": 35,
+        "servings": "1 / 3-4",
         "ingredients": [
             [
                 "1 ( a little under 100g) fillet sawara (japanese spanish mackerel)",
@@ -1629,8 +1629,8 @@
     {
         "name": "Egg sandwhich (guacamole sandwich)",
         "volume": 8,
-        "number": null,
-        "servings": "null",
+        "number": 36,
+        "servings": "2-3",
         "ingredients": [
             [
                 "4 slices bread (from a loaf of bred with 10-12 slices)",
@@ -1706,8 +1706,8 @@
     {
         "name": "Hamaguri clam rice / asari clam miso soup",
         "volume": 8,
-        "number": null,
-        "servings": "null",
+        "number": 37,
+        "servings": "3-4",
         "ingredients": [
             [
                 "2 japanese cups (300g) rice",
@@ -1769,8 +1769,8 @@
     {
         "name": "Tonkatsu / Miso Sauce",
         "volume": 8,
-        "number": null,
-        "servings": "null",
+        "number": 38,
+        "servings": "2 / 4-5",
         "ingredients": [
             [
                 "2 (2cm thick) pieces of pork loin",
@@ -1827,8 +1827,8 @@
     {
         "name": "Homemade mapo tofu",
         "volume": 8,
-        "number": null,
-        "servings": "null",
+        "number": 39,
+        "servings": "3-4",
         "ingredients": [
             [
                 "1 (350g) block silken tofu",
@@ -1880,8 +1880,8 @@
     {
         "name": "Milk Coffee Jelly",
         "volume": 9,
-        "number": null,
-        "servings": "null",
+        "number": 40,
+        "servings": "3-4",
         "ingredients": [
             "300cc milk",
             "40g granulated sugar",
@@ -1915,8 +1915,8 @@
     {
         "name": "Cheese and Spinach Cannelloni",
         "volume": 9,
-        "number": null,
-        "servings": "null",
+        "number": 41,
+        "servings": "3-4",
         "ingredients": [
             [
                 "8 sticks cannelloni (dried)",
@@ -1975,8 +1975,8 @@
     {
         "name": "Oyster Sauce Yakisoba (salted yakisoba)",
         "volume": 9,
-        "number": null,
-        "servings": "null",
+        "number": 42,
+        "servings": "2",
         "ingredients": [
             [
                 "2 balls (300g) steamed Chinese noodles",
@@ -2042,8 +2042,8 @@
     {
         "name": "Niku-Jaga",
         "volume": 9,
-        "number": null,
-        "servings": "null",
+        "number": 43,
+        "servings": "3",
         "ingredients": [
             "200g thinly-sliced beef",
             "1 large onion",
@@ -2083,8 +2083,8 @@
     {
         "name": "Fish Curry",
         "volume": 9,
-        "number": null,
-        "servings": "null",
+        "number": 44,
+        "servings": "2",
         "ingredients": [
             [
                 "2 fillets (150g) sea bass",
@@ -2145,8 +2145,8 @@
     {
         "name": "Udon",
         "volume": 10,
-        "number": null,
-        "servings": "null",
+        "number": 45,
+        "servings": "3-4",
         "ingredients": [
             [
                 "400g flour (udon flour or medium-strength flour)",
@@ -2223,8 +2223,8 @@
     {
         "name": "Homemade mayonnaise / sesame mayo dressing / Japanese salad dressing / Japanese style green onion salad dressing",
         "volume": 10,
-        "number": null,
-        "servings": "null",
+        "number": 46,
+        "servings": "makes 170g",
         "ingredients": [
             ["1 egg yolk", "1/2tsp salt", "1tbsp vinegar", "150cc salad oil"],
 
@@ -2283,8 +2283,8 @@
     {
         "name": "Sukiyaki",
         "volume": 10,
-        "number": null,
-        "servings": "null",
+        "number": 47,
+        "servings": "2",
         "ingredients": [
             "250g thin sliced beef",
             "160g nappa cabbage",
@@ -2328,8 +2328,8 @@
     {
         "name": "Salmon roe with soy sauce / zuke-don (marinated tuna on rice)",
         "volume": 10,
-        "number": null,
-        "servings": "null",
+        "number": 48,
+        "servings": "as much as you want",
         "ingredients": [
             [
                 "200g raw salmon roe",
@@ -2383,8 +2383,8 @@
     {
         "name": "Oden",
         "volume": 10,
-        "number": null,
-        "servings": "null",
+        "number": 49,
+        "servings": "4",
         "ingredients": [
             [
                 "12cm daikon",
@@ -2477,8 +2477,8 @@
     {
         "name": "Omelet rice / ketchup",
         "volume": 11,
-        "number": null,
-        "servings": "null",
+        "number": 50,
+        "servings": "2 / 400g",
         "ingredients": [
             [
                 "100g chicken thighs",
@@ -2544,8 +2544,8 @@
     {
         "name": "Chicken and cabbage",
         "volume": 11,
-        "number": null,
-        "servings": "null",
+        "number": 51,
+        "servings": "2-3",
         "ingredients": [
             [
                 "800g cabbage (1/4 of 1 large head)",
@@ -2580,8 +2580,8 @@
     {
         "name": "Pizza / miso onion burdock pizza / vegetable garden pizza",
         "volume": 11,
-        "number": null,
-        "servings": "null",
+        "number": 52,
+        "servings": "4 / 2",
         "ingredients": [
             [
                 "190cc Warm water (30°C)",
@@ -2658,8 +2658,8 @@
     {
         "name": "Sesame short bread / boule de neige",
         "volume": 11,
-        "number": null,
-        "servings": "null",
+        "number": 53,
+        "servings": "makes 1 / makes 30",
         "ingredients": [
             ["75g flour", "50g butter"],
 
@@ -2713,8 +2713,8 @@
     {
         "name": "Spring vegetable rice / sea bream soup / steamed turnip sea bream",
         "volume": 11,
-        "number": null,
-        "servings": "null",
+        "number": 54,
+        "servings": "4",
         "ingredients": [
             [
                 "150g turnip leaves",
@@ -2787,8 +2787,8 @@
     {
         "name": "Golden fried rice",
         "volume": 12,
-        "number": null,
-        "servings": "null",
+        "number": 55,
+        "servings": "1",
         "ingredients": [
             [
                 "200g rice",
@@ -2834,8 +2834,8 @@
     {
         "name": "Chili-pepper miso / eggplant and green pepper stir fry",
         "volume": 12,
-        "number": null,
-        "servings": "null",
+        "number": 56,
+        "servings": "1",
         "ingredients": [
             [
                 "30g (6-10 peppers) chili peppers",
@@ -2879,8 +2879,8 @@
     {
         "name": "Soy-preserved oysters / miso-stewed beef tendon",
         "volume": 12,
-        "number": null,
-        "servings": "null",
+        "number": 57,
+        "servings": "1",
         "ingredients": [
             ["200-250g shelled oysters", "2-3 slices ginger (thin sliced)"],
 
@@ -2945,8 +2945,8 @@
     {
         "name": "Stewed pork cubes",
         "volume": 12,
-        "number": null,
-        "servings": "null",
+        "number": 58,
+        "servings": "4",
         "ingredients": [
             ["600g pork belly (blocks)", "200g okara (soy pulp)"],
 
@@ -2985,8 +2985,8 @@
     {
         "name": "Fried shrimp / taru-taru sauce",
         "volume": 12,
-        "number": null,
-        "servings": "null",
+        "number": 59,
+        "servings": "3",
         "ingredients": [
             [
                 "6 large shrimp (headless/in-shell)",

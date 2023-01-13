@@ -5,11 +5,11 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 
 image: "img/vol9/oyster_sauce_yakisoba.jpg"
 
-servings: "Serves 3-4"
+servings: "Serves 2"
 
 tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
 
-recipeNumber: '41'
+recipeNumber: '42'
 ---
 
 ::recipe
