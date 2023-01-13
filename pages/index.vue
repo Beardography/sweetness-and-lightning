@@ -1,3 +1,18 @@
+<script setup>
+    // export default {
+    //     async asyncData({ $content }) {
+    //         const recipes = await $content('recipes')
+    //             .sortBy('recipeNumber')
+    //             .limit(5)
+    //             .fetch();
+
+    //         return {
+    //             recipes,
+    //         };
+    //     },
+    // };
+</script>
+
 <template>
     <div>
         <Nav />
@@ -14,7 +29,8 @@
 
                                 <div class="card-body">
                                     <h4>
-                                        {{ recipe.title }}
+                                        {{ recipe.title }} /
+                                        {{ recipe.recipeNumber }}
                                     </h4>
                                     <h6>{{ recipe.servings }}</h6>
                                     <p>{{ recipe.description }}</p>
