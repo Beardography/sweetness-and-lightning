@@ -5,11 +5,11 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 
 image: "img/vol8/sawara_saikyo_yaki.jpg"
 
-servings: "Serves 3-4"
+servings: "Serves 1 / Serves 3-4"
 
 tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
 
-recipeNumber: '34'
+recipeNumber: '35'
 ---
 
 ::recipe

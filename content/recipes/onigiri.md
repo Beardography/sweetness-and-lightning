@@ -5,11 +5,11 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 
 image: "img/vol6/onigiri.jpg"
 
-servings: "Serves 3-4"
+servings: "As many as you want!"
 
 tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
 
-recipeNumber: '28'
+recipeNumber: '29'
 ---
 
 ::recipe

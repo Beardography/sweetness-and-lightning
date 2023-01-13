@@ -5,7 +5,7 @@ description: "this is beef stew stuff."
 
 image: "img/vol4/beef_stew.jpg"
 
-servings: "Serves 3-4"
+servings: "Serves 3"
 
 tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
 

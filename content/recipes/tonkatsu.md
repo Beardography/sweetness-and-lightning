@@ -5,11 +5,11 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 
 image: "img/vol8/tonkatsu.jpg"
 
-servings: "Serves 3-4"
+servings: "Serves 2 / Serves 4-5"
 
 tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
 
-recipeNumber: '37'
+recipeNumber: '38'
 ---
 
 ::recipe

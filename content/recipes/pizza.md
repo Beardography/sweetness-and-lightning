@@ -5,11 +5,11 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 
 image: "img/vol11/pizza.jpg"
 
-servings: "Serves 3-4"
+servings: "Serves 4 / Serves 2"
 
 tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
 
-recipeNumber: '51'
+recipeNumber: '52'
 ---
 
 ::recipe

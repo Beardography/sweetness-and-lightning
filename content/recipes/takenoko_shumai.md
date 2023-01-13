@@ -5,11 +5,11 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 
 image: "img/vol7/shumai.jpg"
 
-servings: "Serves 3-4"
+servings: "Makes 30"
 
 tags: 'tag 1, tag 2, tag 3, tag 4, tag 5'
 
-recipeNumber: '33'
+recipeNumber: '34'
 ---
 
 ::recipe
